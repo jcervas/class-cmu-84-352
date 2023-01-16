@@ -1,8 +1,10 @@
 ---
-title: "Representation and Voting Rights"
-output: pdf_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
+# Representation and Voting Rights
 ### [84-352/84-652] – Elections, Fair Redistricting, Equitable Democracy
 Prof. Jonathan Cervas   
 Email: cervas@cmu.edu   

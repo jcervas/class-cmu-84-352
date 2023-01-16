@@ -3,10 +3,6 @@ title: "Representation and Voting Rights"
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ### [84-352/84-652] – Elections, Fair Redistricting, Equitable Democracy
 Prof. Jonathan Cervas   
 Email: cervas@cmu.edu   

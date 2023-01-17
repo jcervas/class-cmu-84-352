@@ -11,7 +11,9 @@ Location: DH 1112 (Doherty Hall)
 Time: Tuesdays and Thursdays 2:00p-3:20p Eastern    
 Office Hours by appointment (arrange via email)   
 [CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)   
-Teaching Fellow: Wyatt Brooks (wmbrooks@andrew.cmu.edu)   
+Teaching Fellow: Wyatt Brooks (wmbrooks@andrew.cmu.edu)  
+
+Full Syllabus: https://github.com/jcervas/class-cmu-84-352/blob/main/syllabus.md 
 
 * * *
 

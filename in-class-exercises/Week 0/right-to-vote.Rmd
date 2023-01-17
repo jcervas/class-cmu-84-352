@@ -1,0 +1,37 @@
+---
+title: "The Right to Vote?"
+author: "Prof. Jonathan Cervas"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The right to vote is sacred in the United States; or is is? As we will learn over the next several weeks, the voting public has expanded from a narrow set of individuals, to a large share of residents. Who is enfranchised has been contested throughout U.S. history.
+
+Open a blank text file. Type:
+
+1) your name, 
+2) today's data, 
+3) "Voting Rights and Representation", and 
+4) "Assignment 1" on three consecutive lines. 
+
+Answer the prompt below.
+
+## Question I (90 seconds)
+
+In 2024, the U.S. will hold a presidential election. But not everyone *can* or *should* be allowed to participate. Make a list of _at most_ **ten** individuals, classes of people, or groups which should **not** be allowed to vote.
+
+## Discussion
+
+How does your list compare to those seated next to you? Compare your list to 3-5 other students. 
+
+Are there any individuals or groups that everyone has included on this list? 
+
+Do you have unique entries on your list? Discuss with your group why you think there is some agreement and some that differ. 
+
+For those where there is less agreement, contemplate why either they, or you, believe this group should not be given the right to vote in the presidential election.
+
+Are there other context in which this list would change? Would the same exclusions apply for state-level elections, like for governor? How about local elections, such as school board?

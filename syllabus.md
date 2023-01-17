@@ -48,9 +48,8 @@ In general, submitting assignments on time lets me provide feedback in a more ti
 ## Course Requirements:   
 |                                     |     |
 |-------------------------------------|-----|
-| Class Attendance/Participation, 10% | 10% |
+| In-class exercises                  | 40% |
 | Book Review                         | 20% |
-| In-class exercises                  | 30% |
 | Plan Comparison & Analysis          | 10% |
 | Ohio U.S. House Map (and write up)  | 10% |
 | Expert Witness Report               | 20% |
@@ -111,7 +110,6 @@ This provides an outline of the course, including topics and a reading schedule.
 
 #### Week 1 - Introductions and General Discussion – Creating a Model of Electoral Democracy    
 ##### Jan 17 – First Class, introductions & syllabus    
-- **In-class exercise – Who has the right to vote?**    
 - WHAT DOES THE CONSTITUTION SAY ABOUT THE RIGHT TO VOTE? DEMOCRACY DOCKET, https://www.democracydocket.com/news/what-does-the-constitution-say-about-the-right-to-vote/    
 - Ed Crews, Voting in Early America, COLONIAL WILLIAMSBURG JOURNAL  (2007), https://research.colonialwilliamsburg.org/Foundation/journal/Spring07/elections.cfm   
 
@@ -120,6 +118,7 @@ This provides an outline of the course, including topics and a reading schedule.
 The first part of the class will be dedicated to voting rights. I will lecture from Keyssar’s classic work on the history of voting rights in the United States. An appreciation for history can allow us to better understand our current context. Graduate students are asked to read the book. Undergraduate students will read supplemental reading material during this part of class.    
 
 ##### Jan 19 – Voting Rights, an introduction   
+- **In-class exercise – Who has the right to vote?** 
 - (Introduction, pages XVIII-XXVI) ALEXANDER KEYSSAR, THE RIGHT TO VOTE: THE CONTESTED HISTORY OF DEMOCRACY IN THE UNITED STATES (Basic Books) (2009), https://ash.harvard.edu/publications/right-vote-contested-history-democracy-united-states    
 
 #### Week 2 – The Road to Partial Democracy   
@@ -141,6 +140,7 @@ The first part of the class will be dedicated to voting rights. I will lecture f
 
 #### Week 4 – Towards Universal Suffrage – and Beyond   
 ##### Feb 7 – Democracy in the 21st century   
+- **In-class exercise – Global democracy on the ascend?** 
 -	Geoffrey Skelley & Anna Wiederkehr, How The Frost Belt And Sun Belt Illustrate The Complexity Of America’s Urban-Rural Divide, FIVETHIRTYEIGHT, Jan. 27, 2021, https://fivethirtyeight.com/features/how-the-frost-belt-and-sun-belt-illustrate-the-complexity-of-americas-urban-rural-divide/    
 -	VOTING RIGHTS: A SHORT HISTORY CARNEGIE CORPORATION OF NEW YORK, https://www.carnegie.org/our-work/article/voting-rights-timeline/   
 -	The ‘Stolen’ Election That Poisoned American Politics. It Happened in 1984., https://www.politico.com/news/magazine/2023/01/06/indiana-8th-1984-election-recount-00073924    

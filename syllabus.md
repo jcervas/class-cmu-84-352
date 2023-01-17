@@ -15,11 +15,9 @@ Teaching Fellow: Wyatt Brooks (wmbrooks@andrew.cmu.edu)
 
 Full Syllabus: https://github.com/jcervas/class-cmu-84-352/blob/main/syllabus.md 
 
-* * *
-
-> (If needed, our Zoom room will be https://bit.ly/representation_voting_rights)    
-
-* * *
+|                                                                              |
+|------------------------------------------------------------------------------|
+| If needed, our Zoom room will be https://bit.ly/representation_voting_rights |
 
 ## Description/Objective:   
 Democracy in the United States is looking a bit rickety. Decades of progress in voting rights are countered by recent efforts to weaken the connection between popular opinion and representational outcomes. This course will address a board set of topics relating to representation, including redistricting, the process of redrawing legislative and congressional lines, which every state will do in 2021. Redistricting can remedy a distorted Census count - or make its effects tenfold worse. We will address how lines can be drawn to enhance fairness and the representation of diverse communities. We will also spend time on the concept of ‘one person, one vote’, the Electoral College, the structure of federalism (vertical representation) and checks and balances in the branches of government (horizonal representation). Special attention will be given to access to the franchise, both in the historical context modern voting rights.   

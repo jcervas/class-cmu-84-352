@@ -24,7 +24,10 @@ endnote: no
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-The right to vote is sacred in the United States; or is is? As we will learn over the next several weeks, the voting public has expanded from a narrow set of individuals, to a large share of residents. Who is enfranchised has been contested throughout U.S. history.
+The right to vote is sacred in the United States; or is is? As we will learn over the next several weeks, the voting public has expanded from a narrow set of individuals, to a larger share of residents. But, who is enfranchised has been contested throughout U.S. history, including in modern America.
+
+
+## Directions
 
 Open a blank text file. Type:
 

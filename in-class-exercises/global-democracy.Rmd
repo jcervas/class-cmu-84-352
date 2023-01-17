@@ -1,0 +1,16 @@
+---
+title: "Global Population under Democracy"
+author: "Prof. Jonathan Cervas"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Question II
+
+World-wide, democracy has generally been on the ascend, but has experienced some periods of regression. In the plot below, we see the share of the world population that lives in a democracy. 
+
+![Fragile Democracy](images/pop-democracy.png)

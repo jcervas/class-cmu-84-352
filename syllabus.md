@@ -121,7 +121,7 @@ The first part of the class will be dedicated to voting rights. I will lecture f
 
 ##### Jan 19 – Voting Rights, an introduction   
 - **In-class exercise – Who has the right to vote?** 
-- (Introduction, pages XVIII-XXVI) ALEXANDER KEYSSAR, THE RIGHT TO VOTE: THE CONTESTED HISTORY OF DEMOCRACY IN THE UNITED STATES (Basic Books) (2009), https://ash.harvard.edu/publications/right-vote-contested-history-democracy-united-states    
+- [**Introduction, pages XVIII-XXVI**](https://drive.google.com/file/d/1tnQBW4MWurYs9tSOM0qLSWw4tyTrizfK/view?usp=sharing) ALEXANDER KEYSSAR, THE RIGHT TO VOTE: THE CONTESTED HISTORY OF DEMOCRACY IN THE UNITED STATES (Basic Books) (2009), https://ash.harvard.edu/publications/right-vote-contested-history-democracy-united-states    
 
 #### Week 2 – The Road to Partial Democracy   
 ##### Jan 24 – Democracy on ascend    

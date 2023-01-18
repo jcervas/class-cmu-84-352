@@ -1,9 +1,13 @@
 ---
 title: "Voting Rights and Representation"
 subtitle: "[84-352/84-652] – Elections, Fair Redistricting, Equitable Democracy"
-author: "Prof. Jonathan Cervas"
 School: Carnegie Mellon University
 date: "`r format(Sys.time(), '%B %d, %Y')`"
+author:
+  - name: Prof. Jonathan Cervas
+    url: http://jonathancervas.com
+    orcid_id: 0000-0001-9686-6308
+    affiliation: Postdoctoral Fellow, Carnegie Mellon University
 output:
   md_document:
     variant: gfm

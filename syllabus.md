@@ -1,5 +1,3 @@
-### \[84-352/84-652\] – Elections, Fair Redistricting, Equitable Democracy
-
 Prof. Jonathan Cervas  
 Email: <cervas@cmu.edu>  
 Location: DH 1112 (Doherty Hall)  
@@ -140,17 +138,28 @@ possible so we can plan.
 | Ohio U.S. House Map (and write up) | 10% |
 | Expert Witness Report              | 20% |
 
+## Important Dates:
+
+|      |                                |
+|------|--------------------------------|
+| 1/17 | First day of class             |
+| 2/23 | Book Review due                |
+| 4/25 | Plan comparison due            |
+| 4/27 | Maps and analysis due          |
+| 4/27 | Final day of class             |
+| 5/5  | Expert Witness Report due      |
+| 5/16 | Final Grades must be submitted |
+
 ## Books:
 
-- NATIONAL CONFERENCE OF STATE LEGISLATURES, REDISTRICTING LAW 2020
-  (National Conference of State Legislatures) (2019) – available free of
-  charge, courtesy of Wendy Underhill and Tim Storey at NCSL [available
-  online](https://drive.google.com/file/d/1iyicpT_QZiG4ndwNxRcmFzR3mcqkKqzK/view?usp=sharing)  
-- MATTHEW J. STREB, RETHINKING AMERICAN ELECTORAL DEMOCRACY (Routledge
-  3rd Edition) (2015), Available via [Virtual
-  Reserve](https://cmu.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01CMU_INST:01CMU&collectionId=81278879090004436)
-  from CMU library, or [from the
-  publisher](https://www.taylorfrancis.com/books/mono/10.4324/9781315720722/rethinking-american-electoral-democracy-matthew-streb).
+- National Conference Of State Legislatures, Redistricting Law 2020
+  (National Conference Of State Legislatures) (2019) – Available Free Of
+  Charge, Courtesy Of Wendy Underhill And Tim Storey at NCSL [available
+  Online](https://drive.google.com/file/d/1iyicpt_qzig4ndwnxrcmfzr3mcqkkqzk/view?usp=sharing)  
+- Matthew J. Streb, Rethinking American Electoral Democracy (routledge
+  3rd Edition) (2015), Available via [virtual
+  Reserve](https://cmu.primo.exlibrisgroup.com/discovery/collectiondiscovery?vid=01cmu_inst:01cmu&collectionid=81278879090004436)
+  from CMU Library.
 
 ## Assignments:
 
@@ -170,42 +179,41 @@ appx 10 mins.
 
 #### Potential Books (or another, with approval):
 
-- DAVID DALEY, UNRIGGED: HOW AMERICANS ARE BATTLING BACK TO SAVE
-  DEMOCRACY (Liveright) (2020),
+- David Daley, Unrigged: How Americans Are Battling Back To Save
+  Democracy (liveright) (2020),
   <https://wwnorton.com/books/9781631495755>  
-- ROBERT D. PUTNAM & SHAYLYN ROMNEY GARRETT, THE UPSWING: HOW AMERICA
-  CAME TOGETHER A CENTURY AGO AND HOW WE CAN DO IT AGAIN (Simon &
-  schuster) (2021),
-  <https://www.simonandschuster.com/books/The-Upswing/Robert-D-Putnam/9781982129156>  
-- M.P. FIORINA, UNSTABLE MAJORITIES: POLARIZATION, PARTY SORTING, AND
-  POLITICAL STALEMATE (Hoover Institution Press) (2017),
-  <https://books.google.com/books?id=cLw8DwAAQBAJ>  
-- JONATHAN A. RODDEN, WHY CITIES LOSE: THE DEEP ROOTS OF THE URBAN-RURAL
-  POLITICAL DIVIDE (Basic Books) (2019),
+- Robert D. Putnam & Shaylyn Romney Garrett, The Upswing: How America
+  Came Together A Century Ago And How We Can Do It Again (simon &
+  Schuster) (2021),
+  <https://www.simonandschuster.com/books/the-upswing/robert-d-putnam/9781982129156>  
+- Morris Fiorina, Unstable Majorities: Polarization, Party Sorting, And
+  Political Stalemate (hoover Institution Press) (2017),
+  <https://books.google.com/books?id=clw8dwaaqbaj>  
+- Jonathan A. Rodden, Why Cities Lose: The Deep Roots Of The Urban-rural
+  Political Divide (basic Books) (2019),
   <https://www.basicbooks.com/titles/jonathan-a-rodden/why-cities-lose/9781541644250/>  
-- RICHARD L. HASEN, CHEAP SPEECH: HOW DISINFORMATION POISONS OUR
-  POLITICS–AND HOW TO CURE IT (Yale University Press) (2022)
-- PAUL STARR, ENTRENCHMENT: WEALTH, POWER, AND THE CONSTITUTION OF
-  DEMOCRATIC SOCIETIES (Yale University Press) (2019),
+- Richard L. Hasen, Cheap Speech: How Disinformation Poisons Our
+  Politics–and How To Cure It (yale University Press) (2022)
+- Paul Starr, Entrenchment: Wealth, Power, And The Constitution Of
+  Democratic Societies (yale University Press) (2019),
   <https://yalebooks.yale.edu/9780300238471/entrenchment>  
-- RICHARD ROTHSTEIN, THE COLOR OF LAW: A FORGOTTEN HISTORY OF HOW OUR
-  GOVERNMENT SEGREGATED AMERICA (Liveright) (2017),
+- Richard Rothstein, The Color Of Law: A Forgotten History Of How Our
+  Government Segregated America (liveright) (2017),
   <https://wwnorton.com/books/the-color-of-law/>  
-- E.J. DIONNE JR. & MILES RAPOPORT, 100% DEMOCRACY: THE CASE FOR
-  UNIVERSAL VOTING (The New Press) (2022),
+- E.J. Dionne Jr. & Miles Rapoport, 100% Democracy: The Case For
+  Universal Voting (the New Press) (2022),
   <https://thenewpress.com/books/100-democracy>  
-- DAVID A. HOPKINS, RED FIGHTING BLUE: HOW GEOGRAPHY AND ELECTORAL RULES
-  POLARIZE AMERICAN POLITICS (Cambridge University Press 1) (2017),
+- David A. Hopkins, Red Fighting Blue: How Geography And Electoral Rules
+  Polarize American Politics (cambridge University Press 1) (2017),
   <https://www.cambridge.org/core/product/identifier/9781108123594/type/book>  
-- ANGELA Y. DAVIS ET AL., ABOLITION. FEMINISM. NOW. (Haymarket Books)
+- Angela Y. Davis Et Al., Abolition. Feminism. Now. (haymarket Books)
   (2022),
   <https://www.haymarketbooks.org/books/1546-abolition-feminism-now>  
-- JOHN LEWIS ET AL., CARRY ON: REFLECTIONS FOR A NEW GENERATION (Grand
+- John Lewis Et Al., Carry On: Reflections For A New Generation (grand
   Central Publishing) (2021),
   <https://www.grandcentralpublishing.com/titles/john-lewis/carry-on/9781538707142/>  
-- 
-- Alexander Keyssar, Why Do We Still Have the Electoral College?
-  (Harvard University Press) (2020),
+- Alexander Keyssar, Why Do We Still Have The Electoral College?
+  (harvard University Press) (2020),
   <https://www.degruyter.com/document/doi/10.4159/9780674974104/html>
 
 ### In-class exercises:
@@ -260,18 +268,6 @@ should use maps created by each member in the comparison, and the page
 length can be at most 10 single-spaced pages to accommodate the extra
 plans.
 
-## Important Dates:
-
-|      |                                |
-|------|--------------------------------|
-| 1/17 | First day of class             |
-| 2/23 | Book Review due                |
-| 4/25 | Plan comparison due            |
-| 4/27 | Maps and analysis due          |
-| 4/27 | Final day of class             |
-| 5/5  | Expert Witness Report due      |
-| 5/16 | Final Grades must be submitted |
-
 ## Course Structure:
 
 This provides an outline of the course, including topics and a reading
@@ -292,10 +288,10 @@ informs our understanding of contemporary rights.
 
 ##### Jan 17 – First Class, introductions & syllabus
 
-- WHAT DOES THE CONSTITUTION SAY ABOUT THE RIGHT TO VOTE? DEMOCRACY
-  DOCKET,
+- What Does The Constitution Say About The Right To Vote? Democracy
+  Docket,
   <https://www.democracydocket.com/news/what-does-the-constitution-say-about-the-right-to-vote/>  
-- Ed Crews, Voting in Early America, COLONIAL WILLIAMSBURG JOURNAL
+- Ed Crews, Voting in Early America, Colonial Williamsburg Journal
   (2007),
   <https://research.colonialwilliamsburg.org/Foundation/journal/Spring07/elections.cfm>
 
@@ -313,44 +309,45 @@ during this part of class.
 - **In-class exercise – Who has the right to vote?**
 - [**Introduction, pages
   XVIII-XXVI**](https://drive.google.com/file/d/1tnQBW4MWurYs9tSOM0qLSWw4tyTrizfK/view?usp=sharing)
-  ALEXANDER KEYSSAR, THE RIGHT TO VOTE: THE CONTESTED HISTORY OF
-  DEMOCRACY IN THE UNITED STATES (Basic Books) (2009),
+  ALexander Keyssar, The Right To Vote: The Contested History Of
+  Democracy In The United States (Basic Books) (2009),
   <https://ash.harvard.edu/publications/right-vote-contested-history-democracy-united-states>
 
 #### Week 2 – The Road to Partial Democracy
 
 ##### Jan 24 – Democracy on ascend
 
-- Francis Newton Thorpe, Democracy in America, THE ATLANTIC, Dec. 1,
+- Francis Newton Thorpe, Democracy in America, The Atlantic, Dec. 1,
   1893,
   <https://web.archive.org/web/20221104152812/https://www.theatlantic.com/magazine/archive/1893/12/democracy-in-america/523974/>  
-- THE CITIZEN IN DE TOCQUEVILLE’S AMERICA CONSTITUTIONAL RIGHTS
-  FOUNDATIONS,
+- The Citizen In De Tocqueville’s America Constitutional Rights
+  Foundations,
   <https://www.crf-usa.org/election-central/de-tocqueville-america.html>
 
 ##### Jan 26 – Backsliding
 
-- DANYELLE SOLOMAN ET AL., SYSTEMATIC INEQUALITY AND AMERICAN DEMOCRACY
+- Danyelle Soloman et al., Systematic Inequality And American Democracy
   (2019),
   <https://www.americanprogress.org/article/systematic-inequality-american-democracy/>  
-- Kate Masur, Winning the Right to Ride, SLATE, Dec. 26, 2017,
+- Kate Masur, Winning the Right to Ride, Slate, Dec. 26, 2017,
   <https://slate.com/human-interest/2017/12/black-activists-post-emancipation-battle-for-d-c-s-city-streetcars-one-of-the-first-civil-rights-victories-on-public-transportation.html>
 
 #### Week 3 – Narrowing the Portals
 
 ##### Jan 31 – America after civil war
 
-- RECONSTRUCTION IN AMERICA: RACIAL VIOLENCE AFTER THE CIVIL WAR,
+- **In-class exercise – Who’s got talent?**
+- Reconstruction In America: Racial Violence After The Civil War,
   1865-1876 (Equal Justice Initiative),
   <https://eji.org/report/reconstruction-in-america/>
 
 ##### Feb 2 – World Wars and civil rights
 
-- RICHARD ROTHSTEIN, BROWN V. BOARD AT 60: WHY HAVE WE BEEN SO
-  DISAPPOINTED? WHAT HAVE WE LEARNED? (Economic Policy Institute)
+- Richard Rothstein, Brown V. Board At 60: Why Have We Been So
+  Disappointed? What Have We Learned? (Economic Policy Institute)
   (2014),
   <https://files.epi.org/2014/EPI-Brown-v-Board-04-17-2014.pdf>  
-- AN ASSESSMENT OF MINORITY VOTING RIGHTS ACCESS (U.S. Commission on
+- An Assessment Of Minority Voting Rights Access (U.S. Commission on
   Civil Rights) (2018),
   <https://www.usccr.gov/files/pubs/2018/Minority_Voting_Access_2018.pdf>
   Chapter 1, pages 15-41
@@ -362,9 +359,9 @@ during this part of class.
 - **In-class exercise – Global democracy on the ascend?**
 - Geoffrey Skelley & Anna Wiederkehr, How The Frost Belt And Sun Belt
   Illustrate The Complexity Of America’s Urban-Rural Divide,
-  FIVETHIRTYEIGHT, Jan. 27, 2021,
+  FiveThrityEight, Jan. 27, 2021,
   <https://fivethirtyeight.com/features/how-the-frost-belt-and-sun-belt-illustrate-the-complexity-of-americas-urban-rural-divide/>  
-- VOTING RIGHTS: A SHORT HISTORY CARNEGIE CORPORATION OF NEW YORK,
+- Voting Rights: A Short History Carnegie Corporation Of New York,
   <https://www.carnegie.org/our-work/article/voting-rights-timeline/>  
 - The ‘Stolen’ Election That Poisoned American Politics. It Happened in
   1984.,
@@ -388,9 +385,9 @@ Putnam, What’s Past is Prologue (Chapter 1, available online)
 
 - **In-class exercise – Conspiracy Theories**  
 - Streb, Chapter 2  
-- RODRIGO DOMINGUEZ-VILLEGAS & MICHAEL RIOS, FROM ELIGIBILITY TO THE
-  BALLOT BOX: EXAMINING THE RACIAL AND ETHNIC VOTER TURNOUT GAPS IN THE
-  U.S. AND CALIFORNIA (UCLA Latino Policy & Politics Institute) (2022),
+- Rodrigo Dominguez-villegas & Michael Rios, From Eligibility To The
+  Ballot Box: Examining The Racial And Ethnic Voter Turnout Gaps In The
+  U.s. And California (UCLA Latino Policy & Politics Institute) (2022),
   <https://latino.ucla.edu/research/voter-turnout-gaps-2020/>
 
 ##### Feb 16 – The offices we elect/direct democracy
@@ -409,30 +406,28 @@ Putnam, What’s Past is Prologue (Chapter 1, available online)
 
 ##### Feb 23 – Presidential Primaries
 
-**Book Review Due**  
-*Book Review presentations (grad students)*  
-- Streb, Chapter 8  
-- Jeff Greenfield, Iowa and New Hampshire Are Getting the Boot. So
-What?, POLITICO, Dec. 6, 2022,
-<https://www.politico.com/news/magazine/2022/12/06/democrats-2024-primary-schedule-iowa-new-hampshire-00072221>  
-- Paul E. Peterson, How to stop Trump from becoming the GOP nominee
-again, CNN, Jan. 5, 2023,
+**Book Review Due** *Book Review presentations (grad students)* - Streb,
+Chapter 8 - Jeff Greenfield, Iowa and New Hampshire Are Getting the
+Boot. So What?, POLITICO, Dec. 6, 2022,
+<https://www.politico.com/news/magazine/2022/12/06/democrats-2024-primary-schedule-iowa-new-hampshire-00072221> -
+Paul E. Peterson, How to stop Trump from becoming the GOP nominee again,
+CNN, Jan. 5, 2023,
 <https://www.cnn.com/2023/01/05/opinions/stopping-trump-2024-proportional-representation-peterson/index.html>
 
 #### Week 7 – Rethinking National Elections
 
 ##### Feb 28 – The Electoral College
 
-- Streb, Chapter 9  
+- Streb, Chapter 9
 - Tim Lau, The Electoral College, Explained, BRENNAN CENTER FOR JUSTICE,
   Feb. 17, 2021,
   <https://www.brennancenter.org/our-work/research-reports/electoral-college-explained>
 
 ##### March 2 – Campaign Finance/ Moving Towards a Model Electoral Democracy
 
-- Streb, Chapter 10 and 11  
-- TOTAL COST OF 2022 STATE AND FEDERAL ELECTIONS PROJECTED TO EXCEED
-  \$16.7 BILLION OPENSECRETS NEWS,
+- Streb, Chapter 10 and 11
+- Total Cost Of 2022 State And Federal Elections Projected To Exceed
+  \$16.7 Billion Opensecrets News,
   <https://www.opensecrets.org/news/2022/11/total-cost-of-2022-state-and-federal-elections-projected-to-exceed-16-7-billion/>
 
 **Spring Break March 7 and March 9**
@@ -443,7 +438,7 @@ again, CNN, Jan. 5, 2023,
 
 - Morris P. Fiorina, Has the American Public Polarized?, 2 HOOVER
   INSTITUTION PRESS 24 (2016),
-  <https://www.hoover.org/research/has-american-public-polarized>  
+  <https://www.hoover.org/research/has-american-public-polarized>
 - Party Sorting And Democratic Politics, 4 HOOVER INSTITUTION PRESS
   (2016),
   <https://www.hoover.org/research/party-sorting-and-democratic-politics>
@@ -462,8 +457,8 @@ Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018,
 
 ##### March 21 - Election Reform (Wyatt Brooks Guest Lecture)
 
-\*In-class exercise – Design an electoral reform\*\*  
-- Lee Drutman, How Democracies Revive, NISKANEN CENTER 15 (2022),
+**In-class exercise – Design an electoral reform** - Lee Drutman, How
+Democracies Revive, NISKANEN CENTER 15 (2022),
 <https://www.niskanencenter.org/wp-content/uploads/2022/04/drutman_howdemocracyrevives_final.pdf>
 
 ##### March 23 – Immigration, diversity explosion

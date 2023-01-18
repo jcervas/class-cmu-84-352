@@ -1,15 +1,15 @@
 ---
 title: "Voting Rights and Representation"
 author: "Prof. Jonathan Cervas"
-date: "`r Sys.Date()`"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
 output:
-  md_document:
-    variant: gfm
   pdf_document:
     citation_package: natbib
     keep_tex: false
     fig_caption: true
     latex_engine: pdflatex
+  md_document:
+    variant: gfm
 bibliography: /Users/cervas/Downloads/library.bib
 biblio-style: apsr
 geometry: margin=1in
@@ -69,6 +69,17 @@ In general, submitting assignments on time lets me provide feedback in a more ti
 | Ohio U.S. House Map (and write up)  | 10% |
 | Expert Witness Report               | 20% |
 
+## Important Dates:
+|      |                                |
+|------|--------------------------------|
+| 1/17 | First day of class             |
+| 2/23 | Book Review due                |
+| 4/25 | Plan comparison due            |
+| 4/27 | Maps and analysis due          |
+| 4/27 | Final day of class             |
+| 5/5  | Expert Witness Report due      |
+| 5/16 | Final Grades must be submitted |
+
 ## Books:   
 - NATIONAL CONFERENCE OF STATE LEGISLATURES, REDISTRICTING LAW 2020 (National Conference of State Legislatures) (2019) – available free of charge, courtesy of Wendy Underhill and Tim Storey at NCSL [available online](https://drive.google.com/file/d/1iyicpT_QZiG4ndwNxRcmFzR3mcqkKqzK/view?usp=sharing)     
 - MATTHEW J. STREB, RETHINKING AMERICAN ELECTORAL DEMOCRACY (Routledge 3rd Edition) (2015), Available via [Virtual Reserve](https://cmu.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01CMU_INST:01CMU&collectionId=81278879090004436) from CMU library, or [from the publisher](https://www.taylorfrancis.com/books/mono/10.4324/9781315720722/rethinking-american-electoral-democracy-matthew-streb).    
@@ -103,17 +114,6 @@ You will create a Congressional plan for US House in Ohio. Each plan should cons
 
 ### Expert Witness Report: 
 Using the two prior assignments, you will construct a report analyzing the illegal Congressional districting plan used in the 2022 election in Ohio. You will be writing as if you were hired by either the plaintiffs or the defendants in response to the Ohio congressional plan. You will evaluate the plan in comparison to your plan (“YOUR-LAST-NAME illustrative plan”), and the other two alternative plans you have analyzed. In your write up, you will describe why the plan should be determined to be legal or illegal (your choice). You can use reports that I have written in this capacity as a guide for your own report. It should be at least 3 and not to exceed 6 single-spaced pages (excluding tables and maps, which you should include). You should also put links to each of the plan’s DRA page so that the reader can access the plans. You should briefly describe the legal requirements for a redistricting plan in Ohio, include state and federal statutory law. You may work with at most 3 other people as a group on this report. If you do this, then you should use maps created by each member in the comparison, and the page length can be at most 10 single-spaced pages to accommodate the extra plans.
-
-## Important Dates:
-|      |                                |
-|------|--------------------------------|
-| 1/17 | First day of class             |
-| 2/23 | Book Review due                |
-| 4/25 | Plan comparison due            |
-| 4/27 | Maps and analysis due          |
-| 4/27 | Final day of class             |
-| 5/5  | Expert Witness Report due      |
-| 5/16 | Final Grades must be submitted |
 
 ## Course Structure: 
 This provides an outline of the course, including topics and a reading schedule. Topics are subject to change (1) because of the virtual nature of the course and (2) democracy often gives us more urgent topics to address. This is not a history course, and we are living in a time when redistricting will be taking place. That said, I will spend a few weeks talking about the history of voting rights in America and how that informs our understanding of contemporary rights.    

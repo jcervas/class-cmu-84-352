@@ -74,7 +74,8 @@ You will select from the list below, or from a reading of your choice related to
 -	E.J. DIONNE JR. & MILES RAPOPORT, 100% DEMOCRACY: THE CASE FOR UNIVERSAL VOTING (The New Press) (2022), https://thenewpress.com/books/100-democracy   
 -	DAVID A. HOPKINS, RED FIGHTING BLUE: HOW GEOGRAPHY AND ELECTORAL RULES POLARIZE AMERICAN POLITICS (Cambridge University Press 1) (2017), https://www.cambridge.org/core/product/identifier/9781108123594/type/book    
 -	ANGELA Y. DAVIS ET AL., ABOLITION. FEMINISM. NOW. (Haymarket Books) (2022), https://www.haymarketbooks.org/books/1546-abolition-feminism-now    
--	JOHN LEWIS ET AL., CARRY ON: REFLECTIONS FOR A NEW GENERATION (Grand Central Publishing) (2021), https://www.grandcentralpublishing.com/titles/john-lewis/carry-on/9781538707142/   
+-	JOHN LEWIS ET AL., CARRY ON: REFLECTIONS FOR A NEW GENERATION (Grand Central Publishing) (2021), https://www.grandcentralpublishing.com/titles/john-lewis/carry-on/9781538707142/  
+- Alexander Keyssar, Why Do We Still Have the Electoral College? (Harvard University Press) (2020), https://www.degruyter.com/document/doi/10.4159/9780674974104/html
 
 ### In-class exercises: 
 Throughout the semester, we will have several in-class exercises. These are short, creative-type assignments designed to support your other assignments and to provoke thoughtful evaluations of our democracy. You will be able to collaborate in teams, but each student must submit individually. You will begin these in class and will have until the following day at midnight to submit on Canvas.

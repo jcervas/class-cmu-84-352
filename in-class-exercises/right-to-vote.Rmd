@@ -24,7 +24,7 @@ endnote: no
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-The right to vote is sacred in the United States; or is is? As we will learn over the next several weeks, the voting public has expanded from a narrow set of individuals, to a larger share of residents. But, who is enfranchised has been contested throughout U.S. history, including in modern America.
+The right to vote is sacred in the United States; or is it? As we will learn over the next several weeks, the voting public has expanded from a narrow set of individuals, to a larger share of residents. But, who is enfranchised has been contested throughout U.S. history, including in modern America.
 
 ## Question I
 
@@ -77,7 +77,7 @@ Are there other context in which this list would change? Would the same exclusio
 Open a blank text file. Type:
 
 1) your name, 
-2) today's data, 
+2) today's date, 
 3) "Voting Rights and Representation", and 
 4) "Assignment 1" on four consecutive lines. 
 

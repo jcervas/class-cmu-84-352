@@ -309,7 +309,7 @@ during this part of class.
 - **In-class exercise – Who has the right to vote?**
 - [**Introduction, pages
   XVIII-XXVI**](https://drive.google.com/file/d/1tnQBW4MWurYs9tSOM0qLSWw4tyTrizfK/view?usp=sharing)
-  ALexander Keyssar, The Right To Vote: The Contested History Of
+  Alexander Keyssar, The Right To Vote: The Contested History Of
   Democracy In The United States (Basic Books) (2009),
   <https://ash.harvard.edu/publications/right-vote-contested-history-democracy-united-states>
 
@@ -361,7 +361,7 @@ during this part of class.
   Illustrate The Complexity Of America’s Urban-Rural Divide,
   FiveThrityEight, Jan. 27, 2021,
   <https://fivethirtyeight.com/features/how-the-frost-belt-and-sun-belt-illustrate-the-complexity-of-americas-urban-rural-divide/>  
-- Voting Rights: A Short History Carnegie Corporation Of New York,
+- Voting Rights: A Short History Carnegie Corporation of New York,
   <https://www.carnegie.org/our-work/article/voting-rights-timeline/>  
 - The ‘Stolen’ Election That Poisoned American Politics. It Happened in
   1984.,
@@ -375,17 +375,18 @@ introduce other topics during lecture/discussion.
 
 ##### Feb 9 – Representation
 
-In-class exercise – Design your ideal representative - Streb, Chapter 1,
-<https://drive.google.com/file/d/1PliPWsXl3LQfEoigTSkRcPaZijrgRyY4/view?usp=sharing> -
-Putnam, What’s Past is Prologue (Chapter 1, available online)
+- **In-class exercise – Design your ideal representative**
+- Streb, Chapter 1,
+  <https://drive.google.com/file/d/1PliPWsXl3LQfEoigTSkRcPaZijrgRyY4/view?usp=sharing> -
+  Putnam, What’s Past is Prologue (Chapter 1, available online)
 
 #### Week 5 – Rethinking the Costs of Voting
 
 ##### Feb 14 – Turnout
 
-- **In-class exercise – Conspiracy Theories**  
-- Streb, Chapter 2  
-- Rodrigo Dominguez-villegas & Michael Rios, From Eligibility To The
+- **In-class exercise – Conspiracy Theories**
+- Streb, Chapter 2
+- Rodrigo Dominguez-Villegas & Michael Rios, From Eligibility To The
   Ballot Box: Examining The Racial And Ethnic Voter Turnout Gaps In The
   U.s. And California (UCLA Latino Policy & Politics Institute) (2022),
   <https://latino.ucla.edu/research/voter-turnout-gaps-2020/>
@@ -401,14 +402,14 @@ Putnam, What’s Past is Prologue (Chapter 1, available online)
 - Streb, Chapter 5
 - Streb, Chapter 6
 - Mark Scolforo, Majority of 16k canceled Pa. mail-in ballots were from
-  Dems, AP NEWS, Jan. 6, 2023,
+  Dems, AP News, Jan. 6, 2023,
   <https://apnews.com/article/2022-midterm-elections-pennsylvania-united-states-government-a1c75c9cfc2f1bfca21ac4a4cbfe60f0>
 
 ##### Feb 23 – Presidential Primaries
 
 **Book Review Due** *Book Review presentations (grad students)* - Streb,
 Chapter 8 - Jeff Greenfield, Iowa and New Hampshire Are Getting the
-Boot. So What?, POLITICO, Dec. 6, 2022,
+Boot. So What?, Politico, Dec. 6, 2022,
 <https://www.politico.com/news/magazine/2022/12/06/democrats-2024-primary-schedule-iowa-new-hampshire-00072221> -
 Paul E. Peterson, How to stop Trump from becoming the GOP nominee again,
 CNN, Jan. 5, 2023,
@@ -419,7 +420,7 @@ CNN, Jan. 5, 2023,
 ##### Feb 28 – The Electoral College
 
 - Streb, Chapter 9
-- Tim Lau, The Electoral College, Explained, BRENNAN CENTER FOR JUSTICE,
+- Tim Lau, The Electoral College, Explained, Brennan Center For Justice,
   Feb. 17, 2021,
   <https://www.brennancenter.org/our-work/research-reports/electoral-college-explained>
 
@@ -436,10 +437,10 @@ CNN, Jan. 5, 2023,
 
 ##### March 14 – Polarization
 
-- Morris P. Fiorina, Has the American Public Polarized?, 2 HOOVER
-  INSTITUTION PRESS 24 (2016),
+- Morris P. Fiorina, Has the American Public Polarized?, 2 Hoover
+  Institution Press 24 (2016),
   <https://www.hoover.org/research/has-american-public-polarized>
-- Party Sorting And Democratic Politics, 4 HOOVER INSTITUTION PRESS
+- Party Sorting And Democratic Politics, 4 Hoover Institution Press
   (2016),
   <https://www.hoover.org/research/party-sorting-and-democratic-politics>
 
@@ -458,12 +459,12 @@ Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018,
 ##### March 21 - Election Reform (Wyatt Brooks Guest Lecture)
 
 **In-class exercise – Design an electoral reform** - Lee Drutman, How
-Democracies Revive, NISKANEN CENTER 15 (2022),
+Democracies Revive, Niskanen Center 15 (2022),
 <https://www.niskanencenter.org/wp-content/uploads/2022/04/drutman_howdemocracyrevives_final.pdf>
 
 ##### March 23 – Immigration, diversity explosion
 
-- Chapter 1, pages 1-19 WILLIAM H. FREY, DIVERSITY EXPLOSION (Brookings
+- Chapter 1, pages 1-19 WILLIAM H. FREY, Diversity Explosion (Brookings
   Institution Press) (2015),
   <http://www.jstor.org/stable/10.7864/j.ctt6wpc40>
 
@@ -471,7 +472,7 @@ Democracies Revive, NISKANEN CENTER 15 (2022),
 
 The third and final part of the class, approximately one month, will be
 devoted to the topic of legislative redistricting. This is my major area
-of speciality, and I intend this to be the most interesting part of the
+of specialty, and I intend this to be the most interesting part of the
 course.
 
 #### Week 11 – Counting the people
@@ -481,7 +482,7 @@ course.
 - **In-class exercise – Census data collections**  
 - NCSL Chapter 1 – Census  
 - NCSL Chapter 2 – Equal Population  
-- MOMENTUM GATHERS TO IMPROVE 2030 CENSUS,
+- Momentum Gathers to Improve 2030 Census,
   <https://www.brennancenter.org/our-work/analysis-opinion/momentum-gathers-improve-2030-census>
 
 #### Principles, criteria, and who draws the lines, Redistricting Commissions
@@ -498,12 +499,12 @@ course.
 - **In-class exercise – Drawing a districting plan**  
 - Richard J. Meislin, Computers to Redistrict State in a Beep and a
   Flash; “An Expensive Pencil” Computers to Redraw the Districts In New
-  York in a Beep and a Flash Graphics in Seconds, THE NEW YORK TIMES,
+  York in a Beep and a Flash Graphics in Seconds, The New York Times,
   Jul. 10, 1980,
   <https://www.nytimes.com/1980/07/10/archives/computers-to-redistrict-state-in-a-beep-and-a-flash-an-expensive.html>  
-- GETTING STARTED IN DRA 2020 DRA 2020,
+- Getting Started in DRA 2020, DRA 2020,
   <https://medium.com/dra-2020/getting-started-in-dra-2020-84b76e6ae014>  
-- BUILDING YOUR DISTRICT MAP DRA 2020,
+- Building Your District Map, DRA 2020,
   <https://medium.com/dra-2020/building-your-district-map-c4368670648e>
 
 #### Racial and Partisan Gerrymandering
@@ -544,7 +545,7 @@ course.
 
 - Kagan, Dissenting, pages 1-33
   <https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf#page=40>  
-- JONATHAN CERVAS, REPORT OF THE SPECIAL MASTER: HARKENRIDER V. HOCHUL
+- Jonathan Cervas, Report of The Special Master: Harkenrider v. Hochul
   (2022), <http://jonathancervas.com/2022/NY/CERVAS-SM-NY-2022.pdf>
 
 #### Week 15 – Computer redistricting
@@ -560,8 +561,8 @@ course.
 - Audie Cornish et al., How the U.S. became a “backsliding democracy,”
 according to a European think tank, NPR, Nov. 25, 2021,
 <https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank>  
-- STOP PROJECTING AMERICA’S DEMOCRATIC DECLINE ONTO THE WORLD FOREIGN
-POLICY,
+- Stop Projecting America’s Democratic Decline onto the World Foreign
+Policy,
 <https://foreignpolicy.com/2022/10/18/united-states-democracy-backsliding-world-trump-populism-russia-china/>
 
 ------------------------------------------------------------------------

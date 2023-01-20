@@ -6,6 +6,9 @@ Office Hours by appointment (arrange via email)
 [CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)  
 Teaching Fellow: Wyatt Brooks (<wmbrooks@andrew.cmu.edu>)
 
+Full Syllabus:
+<https://github.com/jcervas/class-cmu-84-352/blob/main/syllabus.md>
+
 |                                                                                |
 |--------------------------------------------------------------------------------|
 | If needed, our Zoom room will be <https://bit.ly/representation_voting_rights> |
@@ -177,40 +180,40 @@ appx 10 mins.
 #### Potential Books (or another, with approval):
 
 - David Daley, Unrigged: How Americans Are Battling Back To Save
-  Democracy (liveright) (2020),
+  Democracy (Liveright) (2020),
   <https://wwnorton.com/books/9781631495755>  
 - Robert D. Putnam & Shaylyn Romney Garrett, The Upswing: How America
-  Came Together A Century Ago And How We Can Do It Again (simon &
+  Came Together A Century Ago And How We Can Do It Again (Simon &
   Schuster) (2021),
   <https://www.simonandschuster.com/books/the-upswing/robert-d-putnam/9781982129156>  
 - Morris Fiorina, Unstable Majorities: Polarization, Party Sorting, And
   Political Stalemate (hoover Institution Press) (2017),
   <https://books.google.com/books?id=clw8dwaaqbaj>  
 - Jonathan A. Rodden, Why Cities Lose: The Deep Roots Of The Urban-rural
-  Political Divide (basic Books) (2019),
+  Political Divide (Basic Books) (2019),
   <https://www.basicbooks.com/titles/jonathan-a-rodden/why-cities-lose/9781541644250/>  
 - Richard L. Hasen, Cheap Speech: How Disinformation Poisons Our
-  Politics–and How To Cure It (yale University Press) (2022)
-- Paul Starr, Entrenchment: Wealth, Power, And The Constitution Of
-  Democratic Societies (yale University Press) (2019),
+  Politics–and How To Cure It (Yale University Press) (2022)
+- Paul Starr, Entrenchment: Wealth, Power, And The Constitution of
+  Democratic Societies (Yale University Press) (2019),
   <https://yalebooks.yale.edu/9780300238471/entrenchment>  
 - Richard Rothstein, The Color Of Law: A Forgotten History Of How Our
-  Government Segregated America (liveright) (2017),
+  Government Segregated America (Liveright) (2017),
   <https://wwnorton.com/books/the-color-of-law/>  
 - E.J. Dionne Jr. & Miles Rapoport, 100% Democracy: The Case For
-  Universal Voting (the New Press) (2022),
+  Universal Voting (The New Press) (2022),
   <https://thenewpress.com/books/100-democracy>  
 - David A. Hopkins, Red Fighting Blue: How Geography And Electoral Rules
-  Polarize American Politics (cambridge University Press 1) (2017),
+  Polarize American Politics (Cambridge University Press) (2017),
   <https://www.cambridge.org/core/product/identifier/9781108123594/type/book>  
-- Angela Y. Davis Et Al., Abolition. Feminism. Now. (haymarket Books)
+- Angela Y. Davis et al., Abolition. Feminism. Now. (Haymarket Books)
   (2022),
   <https://www.haymarketbooks.org/books/1546-abolition-feminism-now>  
-- John Lewis Et Al., Carry On: Reflections For A New Generation (grand
+- John Lewis et al., Carry On: Reflections For A New Generation (Grand
   Central Publishing) (2021),
   <https://www.grandcentralpublishing.com/titles/john-lewis/carry-on/9781538707142/>  
 - Alexander Keyssar, Why Do We Still Have The Electoral College?
-  (harvard University Press) (2020),
+  (Harvard University Press) (2020),
   <https://www.degruyter.com/document/doi/10.4159/9780674974104/html>
 
 ### In-class exercises:

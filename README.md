@@ -11,7 +11,7 @@ Office Hours by appointment (arrange via email)
 [CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)  
 Teaching Fellow: Wyatt Brooks (<wmbrooks@andrew.cmu.edu>)
 
-[Syllabus}(syllabus.md)
+[Syllabus](syllabus.md)
 
 ------------------------------------------------------------------------
 

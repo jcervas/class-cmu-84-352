@@ -79,7 +79,7 @@ Open a blank text file. Type:
 1) your name, 
 2) today's date, 
 3) "Voting Rights and Representation", and 
-4) "Assignment 1" 
+4) "Assignment 1"
 
 In this document, either scan (ie., take a picture) of your worksheet and paste it into the document, or repeat your list from Question II in the document. 
 

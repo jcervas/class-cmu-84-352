@@ -3,8 +3,7 @@ Representation and Voting Rights
 
 ### \[84-352/84-652\] – Elections, Fair Redistricting, Equitable Democracy
 
-Prof. Jonathan Cervas  
-Email: <cervas@cmu.edu>  
+Prof. Jonathan Cervas (<cervas@cmu.edu>)  
 Location: DH 1112 (Doherty Hall)  
 Time: Tuesdays and Thursdays 2:00p-3:20p Eastern  
 Office Hours by appointment (arrange via email)  

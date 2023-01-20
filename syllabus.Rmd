@@ -1,7 +1,6 @@
 ---
 title: "Voting Rights and Representation"
 subtitle: "[84-352/84-652] – Elections, Fair Redistricting, Equitable Democracy"
-School: Carnegie Mellon University
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 author:
   - name: Prof. Jonathan Cervas
@@ -21,7 +20,6 @@ output:
     variant: gfm
 bibliography: /Users/cervas/Downloads/library.bib
 csl: /Users/cervas/Zotero/styles/bluebook-inline.csl
-geometry: margin=1in
 ---
 
 ```{r setup, include=FALSE}

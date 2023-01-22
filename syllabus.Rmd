@@ -18,6 +18,7 @@ csl: /Users/cervas/Zotero/styles/bluebook-inline.csl
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+## rmarkdown::render('/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@uci.edu/My Drive/GitHub/teaching/classes/class-cmu-84-352/syllabus.Rmd', output_format = 'all')
 ```
 
 Prof. Jonathan Cervas\
@@ -228,7 +229,7 @@ The second part of the class we will deal with representation more broadly. Much
 #### Week 7 -- Rethinking National Elections
 
 ##### Feb 28 -- The Electoral College
-
+- **In-class exercise -- Electoral College game**
 -  Streb, Chapter 9
 -  Tim Lau, The Electoral College, Explained, Brennan Center For Justice, Feb. 17, 2021, <https://www.brennancenter.org/our-work/research-reports/electoral-college-explained>
 

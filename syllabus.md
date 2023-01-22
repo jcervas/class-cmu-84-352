@@ -419,6 +419,7 @@ CNN, Jan. 5, 2023,
 
 ##### Feb 28 – The Electoral College
 
+- **In-class exercise – Electoral College game**
 - Streb, Chapter 9
 - Tim Lau, The Electoral College, Explained, Brennan Center For Justice,
   Feb. 17, 2021,

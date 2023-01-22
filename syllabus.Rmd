@@ -29,7 +29,7 @@ Office Hours by appointment (arrange via email)\
 [CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)\
 Teaching Fellow: Wyatt Brooks ([wmbrooks\@andrew.cmu.edu](mailto:wmbrooks@andrew.cmu.edu){.email})
 
-Full Syllabus: <https://github.com/jcervas/class-cmu-84-352/blob/main/syllabus.md>
+Full Syllabus: <https://jcervas.github.io/class-cmu-84-352/syllabus>
 
 |                                                                                |
 |------------------------------------------------------------------------|

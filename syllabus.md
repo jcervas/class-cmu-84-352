@@ -6,8 +6,7 @@ Office Hours by appointment (arrange via email)
 [CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)  
 Teaching Fellow: Wyatt Brooks (<wmbrooks@andrew.cmu.edu>)
 
-Full Syllabus:
-<https://github.com/jcervas/class-cmu-84-352/blob/main/syllabus.md>
+Full Syllabus: <https://jcervas.github.io/class-cmu-84-352/syllabus>
 
 |                                                                                |
 |--------------------------------------------------------------------------------|
@@ -639,6 +638,68 @@ effectiveness of the course for you personally or for other students or
 student groups. In addition, if any of our class meetings conflict with
 your religious events, please let me know so that we can plan
 accordingly.
+
+### AI POLICY
+
+##### Introduction:
+
+AI is a powerful tool that can be used to enhance the learning
+experience for students. However, it is important to approach the use of
+AI with a positive attitude and a respect for its capabilities and
+limitations. This policy outlines the guidelines for using AI in the
+classroom, with a focus on creating a positive and inclusive environment
+for all students.
+
+##### Guidelines for using AI in the classroom:
+
+- AI should be used to supplement, not replace, human interaction and
+  instruction.
+- Students should be made aware of the limitations of AI, and encouraged
+  to question and critically evaluate the information provided by AI
+  systems.
+- AI should be used in a way that is inclusive and respectful of all
+  students, regardless of their background or abilities.
+- AI should be used to enhance the learning experience, not to create
+  additional barriers or challenges for students.
+- AI should be used to promote collaboration and teamwork among
+  students.
+- Students should be encouraged to use AI in a responsible and ethical
+  manner.
+
+##### Responsibilities of instructors:
+
+- Instructors are responsible for ensuring that AI is used in a way that
+  is consistent with this policy.
+- Instructors should be familiar with the capabilities and limitations
+  of the AI systems they are using in the classroom.
+- Instructors should provide students with appropriate guidance and
+  support when using AI in the classroom.
+- Instructors should be responsive to any concerns or issues that
+  students may have regarding the use of AI in the classroom.
+
+##### Responsibilities of students:
+
+- Students are responsible for using AI in a way that is consistent with
+  this policy.
+- Students should be familiar with the capabilities and limitations of
+  the AI systems they are using in the classroom.
+- Students should use AI in a responsible and ethical manner.
+- Students should seek assistance from instructors if they have any
+  concerns or issues regarding the use of AI in the classroom.
+
+##### Conclusion:
+
+By following these guidelines, we can ensure that the use of AI in the
+classroom is a positive and inclusive experience for all students. We
+believe that AI can be a powerful tool for enhancing the learning
+experience, but it is important to approach it with a positive attitude
+and a respect for its capabilities and limitations. Together, we can
+create a classroom environment that is both engaging and respectful of
+all students.
+
+*Note: This policy was written by ChatGPT.*
+
+------------------------------------------------------------------------
 
 > Like American democracy itself, this syllabus is subject to amendment.
 > The process of amendment is as follows: (1) all students and the

@@ -3,13 +3,13 @@ title: "Voting Rights and Representation"
 subtitle: "[84-352/84-652] – Elections, Fair Redistricting, Equitable Democracy"
 date: "Updated: `r format(Sys.time(), '%B %d, %Y')`"
 output:
-  html_document:
-    theme: yeti
-    highlight: textmate
   pdf_document:
     citation_package: natbib
     keep_tex: false
     latex_engine: pdflatex
+  html_document:
+    theme: yeti
+    highlight: textmate
   md_document:
     variant: gfm
 bibliography: /Users/cervas/Downloads/library.bib
@@ -357,5 +357,38 @@ As a student, you may experience a range of challenges that can interfere with l
 ### DIVERSITY STATEMENT:
 
 It is my intent that students from all diverse backgrounds and perspectives be well served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. It is my intent to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally or for other students or student groups. In addition, if any of our class meetings conflict with your religious events, please let me know so that we can plan accordingly.
+
+### AI POLICY
+
+##### Introduction:
+AI is a powerful tool that can be used to enhance the learning experience for students. However, it is important to approach the use of AI with a positive attitude and a respect for its capabilities and limitations. This policy outlines the guidelines for using AI in the classroom, with a focus on creating a positive and inclusive environment for all students.
+  
+##### Guidelines for using AI in the classroom:
+- AI should be used to supplement, not replace, human interaction and instruction.
+- Students should be made aware of the limitations of AI, and encouraged to question and critically evaluate the information provided by AI systems.
+- AI should be used in a way that is inclusive and respectful of all students, regardless of their background or abilities.
+- AI should be used to enhance the learning experience, not to create additional barriers or challenges for students.
+- AI should be used to promote collaboration and teamwork among students.
+- Students should be encouraged to use AI in a responsible and ethical manner.
+  
+##### Responsibilities of instructors:
+- Instructors are responsible for ensuring that AI is used in a way that is consistent with this policy.
+- Instructors should be familiar with the capabilities and limitations of the AI systems they are using in the classroom.
+- Instructors should provide students with appropriate guidance and support when using AI in the classroom.
+- Instructors should be responsive to any concerns or issues that students may have regarding the use of AI in the classroom.
+  
+##### Responsibilities of students:
+- Students are responsible for using AI in a way that is consistent with this policy.
+- Students should be familiar with the capabilities and limitations of the AI systems they are using in the classroom.
+- Students should use AI in a responsible and ethical manner.
+- Students should seek assistance from instructors if they have any concerns or issues regarding the use of AI in the classroom.
+
+##### Conclusion:
+
+By following these guidelines, we can ensure that the use of AI in the classroom is a positive and inclusive experience for all students. We believe that AI can be a powerful tool for enhancing the learning experience, but it is important to approach it with a positive attitude and a respect for its capabilities and limitations. Together, we can create a classroom environment that is both engaging and respectful of all students.
+
+_Note: This policy was written by ChatGPT._
+
+* * *
 
 > Like American democracy itself, this syllabus is subject to amendment. The process of amendment is as follows: (1) all students and the professor get one vote; (2) a simple majority of voters agree to a change; (2) a student's vote is weighted as 1/n where n=number of students and a professor has a vote weighted as n+1. All amendments will be announced publicly and no student shall be injured by changes. You might notice that this clause creates uneven voting power. Basically, I'm a dictator; but I am benevolent, and I want you to succeed, so I will listen to all requests.

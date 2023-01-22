@@ -567,8 +567,8 @@ Policy,
 
 ------------------------------------------------------------------------
 
-> Parliament is not a congress of ambassadors from different and hostile
-> interests; which interests each must maintain, as an agent and
+> *Parliament is not a congress of ambassadors from different and
+> hostile interests; which interests each must maintain, as an agent and
 > advocate, against other agents and advocates; but parliament is a
 > deliberative assembly of one nation, with one interest, that of the
 > whole; where, not local purposes, not local prejudices, ought to
@@ -578,7 +578,7 @@ Policy,
 > constituent should have an interest, or should form an hasty opinion,
 > evidently opposite to the real good of the rest of the community, the
 > member for that place ought to be as far, as any other, from any
-> endeavour to give it effect. – Edmund Burke
+> endeavour to give it effect.* – Edmund Burke
 
 ------------------------------------------------------------------------
 
@@ -626,18 +626,16 @@ Services: 412-268-2922
 
 ### DIVERSITY STATEMENT:
 
-It is my intent that students from all diverse backgrounds and
-perspectives be well served by this course, that students’ learning
-needs be addressed both in and out of class, and that the diversity that
-students bring to this class be viewed as a resource, strength and
-benefit. It is my intent to present materials and activities that are
-respectful of diversity: gender, sexuality, disability, age,
-socioeconomic status, ethnicity, race, and culture. Your suggestions are
-encouraged and appreciated. Please let me know ways to improve the
-effectiveness of the course for you personally or for other students or
-student groups. In addition, if any of our class meetings conflict with
-your religious events, please let me know so that we can plan
-accordingly.
+It is my goal to create an inclusive and equitable learning environment
+in this course, where the diversity of all students is acknowledged,
+respected, and valued as a resource and strength. I will strive to
+address the learning needs of all students, both in and out of class,
+and will incorporate materials and activities that are respectful of
+diversity in terms of gender, sexuality, disability, age, socioeconomic
+status, ethnicity, race, and culture. I welcome and encourage feedback
+on ways to improve the course for all students, and am happy to
+accommodate any religious observances that may conflict with class
+meetings.
 
 ### AI POLICY
 

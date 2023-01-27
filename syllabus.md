@@ -1,10 +1,8 @@
-Prof. Jonathan Cervas  
-Email: <cervas@cmu.edu>  
-Location: Posner Hall 151 (Posner Hall)  
-Time: Tuesdays and Thursdays 2:00p-3:20p Eastern  
-Office Hours by appointment (arrange via email)  
-[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)  
-Teaching Fellow: Wyatt Brooks (<wmbrooks@andrew.cmu.edu>)
+Prof. Jonathan Cervas Email: <cervas@cmu.edu> Location: Posner Hall 151
+(Posner Hall) Time: Tuesdays and Thursdays 2:00p-3:20p Eastern Office
+Hours by appointment (arrange via email) [CMU Academic
+Calendar](https://www.cmu.edu/hub/calendar/) Teaching Fellow: Wyatt
+Brooks (<wmbrooks@andrew.cmu.edu>)
 
 Full Syllabus: <https://jcervas.github.io/class-cmu-84-352/syllabus>
 
@@ -154,7 +152,7 @@ possible so we can plan.
 - National Conference Of State Legislatures, Redistricting Law 2020
   (National Conference Of State Legislatures) (2019) – Available Free Of
   Charge, Courtesy Of Wendy Underhill And Tim Storey at NCSL [available
-  Online](https://drive.google.com/file/d/1iyicpt_qzig4ndwnxrcmfzr3mcqkkqzk/view?usp=sharing)  
+  Online](https://drive.google.com/file/d/1iyicpt_qzig4ndwnxrcmfzr3mcqkkqzk/view?usp=sharing)
 - Matthew J. Streb, Rethinking American Electoral Democracy (routledge
   3rd Edition) (2015), Available via [virtual
   Reserve](https://cmu.primo.exlibrisgroup.com/discovery/collectiondiscovery?vid=01cmu_inst:01cmu&collectionid=81278879090004436)
@@ -292,7 +290,7 @@ informs our understanding of contemporary rights.
 
 - What Does The Constitution Say About The Right To Vote? Democracy
   Docket,
-  <https://www.democracydocket.com/news/what-does-the-constitution-say-about-the-right-to-vote/>  
+  <https://www.democracydocket.com/news/what-does-the-constitution-say-about-the-right-to-vote/>
 - Ed Crews, Voting in Early America, Colonial Williamsburg Journal
   (2007),
   <https://research.colonialwilliamsburg.org/Foundation/journal/Spring07/elections.cfm>
@@ -321,7 +319,7 @@ during this part of class.
 
 - Francis Newton Thorpe, Democracy in America, The Atlantic, Dec. 1,
   1893,
-  <https://web.archive.org/web/20221104152812/https://www.theatlantic.com/magazine/archive/1893/12/democracy-in-america/523974/>  
+  <https://web.archive.org/web/20221104152812/https://www.theatlantic.com/magazine/archive/1893/12/democracy-in-america/523974/>
 - The Citizen In De Tocqueville’s America Constitutional Rights
   Foundations,
   <https://www.crf-usa.org/election-central/de-tocqueville-america.html>
@@ -330,7 +328,7 @@ during this part of class.
 
 - Danyelle Soloman et al., Systematic Inequality And American Democracy
   (2019),
-  <https://www.americanprogress.org/article/systematic-inequality-american-democracy/>  
+  <https://www.americanprogress.org/article/systematic-inequality-american-democracy/>
 - Kate Masur, Winning the Right to Ride, Slate, Dec. 26, 2017,
   <https://slate.com/human-interest/2017/12/black-activists-post-emancipation-battle-for-d-c-s-city-streetcars-one-of-the-first-civil-rights-victories-on-public-transportation.html>
 
@@ -347,8 +345,7 @@ during this part of class.
 
 - Richard Rothstein, Brown V. Board At 60: Why Have We Been So
   Disappointed? What Have We Learned? (Economic Policy Institute)
-  (2014),
-  <https://files.epi.org/2014/EPI-Brown-v-Board-04-17-2014.pdf>  
+  (2014), <https://files.epi.org/2014/EPI-Brown-v-Board-04-17-2014.pdf>
 - An Assessment Of Minority Voting Rights Access (U.S. Commission on
   Civil Rights) (2018),
   <https://www.usccr.gov/files/pubs/2018/Minority_Voting_Access_2018.pdf>
@@ -362,9 +359,9 @@ during this part of class.
 - Geoffrey Skelley & Anna Wiederkehr, How The Frost Belt And Sun Belt
   Illustrate The Complexity Of America’s Urban-Rural Divide,
   FiveThrityEight, Jan. 27, 2021,
-  <https://fivethirtyeight.com/features/how-the-frost-belt-and-sun-belt-illustrate-the-complexity-of-americas-urban-rural-divide/>  
+  <https://fivethirtyeight.com/features/how-the-frost-belt-and-sun-belt-illustrate-the-complexity-of-americas-urban-rural-divide/>
 - Voting Rights: A Short History Carnegie Corporation of New York,
-  <https://www.carnegie.org/our-work/article/voting-rights-timeline/>  
+  <https://www.carnegie.org/our-work/article/voting-rights-timeline/>
 - The ‘Stolen’ Election That Poisoned American Politics. It Happened in
   1984.,
   <https://www.politico.com/news/magazine/2023/01/06/indiana-8th-1984-election-recount-00073924>
@@ -452,8 +449,8 @@ CNN, Jan. 5, 2023,
 In-class exercise – Sorting/Segregation/Partisan & Racial Bias - Greg
 Martin & Steven Webster, Why Are Americans So Geographically
 Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018,
-<https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/>  
-- Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among
+<https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/> -
+Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among
 180 Million Voters, THE NEW YORK TIMES, Mar. 17, 2021,
 <https://web.archive.org/web/20221223201803/https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html>
 
@@ -482,9 +479,9 @@ course.
 
 ##### March 28 – The U.S. Census/ Malapportionment
 
-- **In-class exercise – Census data collections**  
-- NCSL Chapter 1 – Census  
-- NCSL Chapter 2 – Equal Population  
+- **In-class exercise – Census data collections**
+- NCSL Chapter 1 – Census
+- NCSL Chapter 2 – Equal Population
 - Momentum Gathers to Improve 2030 Census,
   <https://www.brennancenter.org/our-work/analysis-opinion/momentum-gathers-improve-2030-census>
 
@@ -492,21 +489,21 @@ course.
 
 ##### March 30 – Criteria for districting, from traditional principles to more expansive principles
 
-- NCSL Chapter 4 – Redistricting Principles and Criteria  
+- NCSL Chapter 4 – Redistricting Principles and Criteria
 - NCSL Chapter 5 – Redistricting Commissions
 
 #### Week 12 –How to create a plan
 
 ##### April 4 – Intro to DRA, Redistricting by Computer
 
-- **In-class exercise – Drawing a districting plan**  
+- **In-class exercise – Drawing a districting plan**
 - Richard J. Meislin, Computers to Redistrict State in a Beep and a
   Flash; “An Expensive Pencil” Computers to Redraw the Districts In New
   York in a Beep and a Flash Graphics in Seconds, The New York Times,
   Jul. 10, 1980,
-  <https://www.nytimes.com/1980/07/10/archives/computers-to-redistrict-state-in-a-beep-and-a-flash-an-expensive.html>  
+  <https://www.nytimes.com/1980/07/10/archives/computers-to-redistrict-state-in-a-beep-and-a-flash-an-expensive.html>
 - Getting Started in DRA 2020, DRA 2020,
-  <https://medium.com/dra-2020/getting-started-in-dra-2020-84b76e6ae014>  
+  <https://medium.com/dra-2020/getting-started-in-dra-2020-84b76e6ae014>
 - Building Your District Map, DRA 2020,
   <https://medium.com/dra-2020/building-your-district-map-c4368670648e>
 
@@ -514,10 +511,10 @@ course.
 
 ##### April 6 – Racial Minorities and Racial Gerrymandering
 
-- NCSL Chapter 3 – Racial and Language Minorities  
+- NCSL Chapter 3 – Racial and Language Minorities
 - Nicholas Casey, Voting Rights Battle in a School Board ‘Coup,’ THE NEW
   YORK TIMES, Oct. 26, 2020, at 1,
-  <https://www.nytimes.com/2020/10/25/us/politics/voting-rights-georgia.html>  
+  <https://www.nytimes.com/2020/10/25/us/politics/voting-rights-georgia.html>
 - FORMER ATTORNEY GENERAL ERIC HOLDER,
   <https://www.npr.org/2022/05/10/1097997303/former-attorney-general-eric-holder>
 
@@ -527,27 +524,27 @@ course.
 
 - Carrie Johnson, How The Voting Rights Act Came To Be And How It’s
   Changed, NPR, Aug. 26, 2021,
-  <https://www.npr.org/2021/08/26/1026457264/1965-voting-rights-act-supreme-court-john-lewis>  
+  <https://www.npr.org/2021/08/26/1026457264/1965-voting-rights-act-supreme-court-john-lewis>
 - Nina Totenberg, The Supreme Court Deals A New Blow To Voting Rights,
   Upholding Arizona Restrictions, NPR, Jul. 1, 2021,
-  <https://www.npr.org/2021/07/01/998758022/the-supreme-court-upheld-upholds-arizona-measures-that-restrict-voting>  
+  <https://www.npr.org/2021/07/01/998758022/the-supreme-court-upheld-upholds-arizona-measures-that-restrict-voting>
 - Eyder Peralta et al., Supreme Court Strikes Down Key Provision Of
   Voting Rights Law, NPR, Jun. 25, 2013,
-  <https://www.npr.org/sections/thetwo-way/2013/06/25/195506795/supreme-court-strikes-down-key-provision-of-voting-rights-law>  
+  <https://www.npr.org/sections/thetwo-way/2013/06/25/195506795/supreme-court-strikes-down-key-provision-of-voting-rights-law>
   **No Class April 13 – Carnival**
 
 #### Week 14 – Political Gerrymandering
 
 ##### April 18 – Partisan Gerrymandering
 
-- NCSL Chapter 6 – Partisan Redistricting  
+- NCSL Chapter 6 – Partisan Redistricting
 - Opinion of the Court, pages 1-34 Rucho v. Common Cause, 139 S.Ct.
   <https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf>
 
 ##### April 20 – Rucho/Pennsylvania 2018/NY 2022 Court Cases
 
 - Kagan, Dissenting, pages 1-33
-  <https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf#page=40>  
+  <https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf#page=40>
 - Jonathan Cervas, Report of The Special Master: Harkenrider v. Hochul
   (2022), <http://jonathancervas.com/2022/NY/CERVAS-SM-NY-2022.pdf>
 
@@ -555,16 +552,16 @@ course.
 
 ##### April 25 – Automated Redistricting
 
-**Plan comparison due**  
-- REDISTRICTING ALGORITHMS, <http://arxiv.org/abs/2011.09504>
+**Plan comparison due** - REDISTRICTING ALGORITHMS,
+<http://arxiv.org/abs/2011.09504>
 
 ##### April 27 – Democracy in limbo, the future of American Democracy
 
-**Redistricting Plan due**  
-- Audie Cornish et al., How the U.S. became a “backsliding democracy,”
-according to a European think tank, NPR, Nov. 25, 2021,
-<https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank>  
-- Stop Projecting America’s Democratic Decline onto the World Foreign
+**Redistricting Plan due** - Audie Cornish et al., How the U.S. became a
+“backsliding democracy,” according to a European think tank, NPR,
+Nov. 25, 2021,
+<https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank> -
+Stop Projecting America’s Democratic Decline onto the World Foreign
 Policy,
 <https://foreignpolicy.com/2022/10/18/united-states-democracy-backsliding-world-trump-populism-russia-china/>
 

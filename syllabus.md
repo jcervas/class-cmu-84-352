@@ -210,7 +210,7 @@ appx 10 mins.
   <https://www.haymarketbooks.org/books/1546-abolition-feminism-now>
 - John Lewis et al., Carry On: Reflections For A New Generation (Grand
   Central Publishing) (2021),
-  <https://www.grandcentralpublishing.com/titles/john-lewis/carry-on/9781538707142/>  
+  <https://www.grandcentralpublishing.com/titles/john-lewis/carry-on/9781538707142/>
 - Alexander Keyssar, Why Do We Still Have The Electoral College?
   (Harvard University Press) (2020),
   <https://www.degruyter.com/document/doi/10.4159/9780674974104/html>

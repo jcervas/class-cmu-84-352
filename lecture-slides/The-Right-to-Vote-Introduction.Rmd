@@ -68,5 +68,17 @@ plot(1, type = "n", xlab = "",
 ```
 
 
+```{r}
 
+years <- seq(1790, 1850, 6)
+pop <- c(4, 10, 20)
+
+plot(1, type = "n", xlab = "",
+     ylab = "U.S. Population", xlim = c(1790, 1850), 
+     ylim = c(0, 25), axes=F)
+			axis(side=2, las=2, at=seq(0, 25, 5), labels=paste0(seq(0, 25, 5), " Mil"))
+			axis(side=1, las=1, at=years, labels=years, cex.axis=0.85)
+			box(col="black")
+			lines(c(1790,1820,1850), pop)
+```
 

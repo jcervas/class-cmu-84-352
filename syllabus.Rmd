@@ -21,13 +21,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ## rmarkdown::render('/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@uci.edu/My Drive/GitHub/teaching/classes/class-cmu-84-352/syllabus.Rmd', output_format = 'all')
 ```
 
-Prof. Jonathan Cervas
-Email: [cervas@cmu.edu](mailto:cervas@cmu.edu){.email}
-Location: Posner Hall 151 (Posner Hall)
-Time: Tuesdays and Thursdays 2:00p-3:20p Eastern
-Office Hours by appointment (arrange via email)
-[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)
-Teaching Fellow: Wyatt Brooks ([wmbrooks@andrew.cmu.edu](mailto:wmbrooks@andrew.cmu.edu){.email})
+Prof. Jonathan Cervas\
+Email: [cervas@cmu.edu](mailto:cervas@cmu.edu){.email}\
+Location: Posner Hall 151 (Posner Hall)\
+Time: Tuesdays and Thursdays 2:00p-3:20p Eastern\
+Office Hours by appointment (arrange via email)\
+[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)\
+Teaching Fellow: Wyatt Brooks\ ([wmbrooks@andrew.cmu.edu](mailto:wmbrooks@andrew.cmu.edu){.email})\
 
 Full Syllabus: <https://jcervas.github.io/class-cmu-84-352/syllabus>
 

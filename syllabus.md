@@ -1,8 +1,10 @@
-Prof. Jonathan Cervas Email: <cervas@cmu.edu> Location: Posner Hall 151
-(Posner Hall) Time: Tuesdays and Thursdays 2:00p-3:20p Eastern Office
-Hours by appointment (arrange via email) [CMU Academic
-Calendar](https://www.cmu.edu/hub/calendar/) Teaching Fellow: Wyatt
-Brooks (<wmbrooks@andrew.cmu.edu>)
+Prof. Jonathan Cervas  
+Email: <cervas@cmu.edu>  
+Location: Posner Hall 151 (Posner Hall)  
+Time: Tuesdays and Thursdays 2:00p-3:20p Eastern  
+Office Hours by appointment (arrange via email)  
+[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)  
+Teaching Fellow: Wyatt Brooks (<wmbrooks@andrew.cmu.edu>)  
 
 Full Syllabus: <https://jcervas.github.io/class-cmu-84-352/syllabus>
 

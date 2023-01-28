@@ -1,6 +1,6 @@
 Prof. Jonathan Cervas  
 Email: <cervas@cmu.edu>  
-Location: Posner Hall 151 (Posner Hall)  
+Location: Posner Hall 151  
 Time: Tuesdays and Thursdays 2:00p-3:20p Eastern  
 Office Hours by appointment (arrange via email)  
 [CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)  

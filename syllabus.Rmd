@@ -1,5 +1,5 @@
 ---
-title: "Voting Rights and Representation"
+title: "Representation and Voting Rights"
 subtitle: "[84-352/84-652] – Elections, Fair Redistricting, Equitable Democracy"
 date: "Updated: `r format(Sys.time(), '%B %d, %Y')`"
 output:

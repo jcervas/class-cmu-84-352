@@ -1,0 +1,86 @@
+---
+title: "The Right to Vote?"
+author: "Prof. Jonathan Cervas"
+affiliation: Carnegie Mellon University
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  tufte::tufte_handout: default
+  pdf_document:
+    citation_package: natbib
+    keep_tex: false
+    fig_caption: true
+    latex_engine: pdflatex
+bibliography: /Users/cervas/Downloads/library.bib
+biblio-style: apsr
+geometry: margin=1in
+# fontfamily: libertine
+fontsize: 11pt
+# spacing: double
+
+endnote: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The right to vote is sacred in the United States; or is it? As we will learn over the next several weeks, the voting public has expanded from a narrow set of individuals, to a larger share of residents. But, who is enfranchised has been contested throughout U.S. history, including in modern America.
+
+## Question I
+
+What do you imagine the _actual_ trajectory of voting rights to be?
+
+```{r, fig-fullwidth, fig.width = 7, fig.height = 4.5, fig.fullwidth = TRUE, warning=FALSE, message=FALSE, cache=FALSE, out.width='100%'}
+plot(1, type = "n", xlab = "",
+     ylab = "Suffrage (%)", xlim = c(1776, 2022), 
+     ylim = c(0, 1), axes=F)
+      axis(side=2, las=2, at=seq(0, 1, 0.25), labels=paste0(seq(0,100, 25), "%"), cex.axis=1)
+      axis(side=1, las=2, at=seq(1776, 2022, 6), labels=seq(1776, 2022, 6), cex.axis=0.8)
+      box(col="black")
+      abline(h=seq(0,1,0.25), lty=2, lwd = .5, col="gray40") 
+```
+
+## Question II (90 seconds)
+
+In 2024, the U.S. will hold a presidential election. But not everyone *can* or *should* be allowed to participate. Make a list of **three** individuals, classes of people, or groups which should **not** be allowed to vote in Pennsylvania.
+
+1) 
+
+2) 
+
+3)  
+
+## Question III (90 seconds)
+
+In 2024, the U.S. will hold a presidential election. But not everyone *can* or *should* be allowed to participate. Make a list of **three** individuals, classes of people, or groups which should **not** be allowed to vote in Pennsylvania. _Wait for instruction_.
+
+1) 
+
+2) 
+
+3)  
+
+## Discussion
+
+How do your lists compare to those seated next to you? Compare your lists to 3-5 other students. 
+
+Are there any individuals or groups that everyone has included on these lists? 
+
+Do you have unique entries on your lists? Discuss with your group why you think there is some agreement and some that differ. 
+
+For those where there is less agreement, contemplate why either they, or you, believe this group should not be given the right to vote in the presidential election.
+
+Are there other context in which this list would change? Would the same exclusions apply for state-level elections, like for governor? How about local elections, such as school board?
+
+## Directions
+
+Open a blank text file. Type:
+
+1) your name, 
+2) today's date, 
+3) "Voting Rights and Representation", and 
+4) "Assignment 1"
+
+In this document, either scan (ie., take a picture) of your worksheet and paste it into the document, or repeat your list from Question II in the document. 
+
+Save the document, and by Friday at 11:59p upload it to Canvas. You can submit this in the assignment "In-class exercise - Assignment 1".

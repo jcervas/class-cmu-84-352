@@ -1,5 +1,5 @@
 ---
-title: "The Right to Vote?"
+title: "Who’s got talent?"
 author: "Prof. Jonathan Cervas"
 affiliation: Carnegie Mellon University
 date: "`r format(Sys.time(), '%B %d, %Y')`"

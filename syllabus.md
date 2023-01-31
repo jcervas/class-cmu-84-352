@@ -408,13 +408,15 @@ introduce other topics during lecture/discussion.
 
 ##### Feb 23 – Presidential Primaries
 
-**Book Review Due** *Book Review presentations (grad students)* - Streb,
-Chapter 8 - Jeff Greenfield, Iowa and New Hampshire Are Getting the
-Boot. So What?, Politico, Dec. 6, 2022,
-<https://www.politico.com/news/magazine/2022/12/06/democrats-2024-primary-schedule-iowa-new-hampshire-00072221> -
-Paul E. Peterson, How to stop Trump from becoming the GOP nominee again,
-CNN, Jan. 5, 2023,
-<https://www.cnn.com/2023/01/05/opinions/stopping-trump-2024-proportional-representation-peterson/index.html>
+**Book Review Due** *Book Review presentations (grad students)*
+
+- Streb, Chapter 8
+- Jeff Greenfield, Iowa and New Hampshire Are Getting the Boot. So
+  What?, Politico, Dec. 6, 2022,
+  <https://www.politico.com/news/magazine/2022/12/06/democrats-2024-primary-schedule-iowa-new-hampshire-00072221>
+- Paul E. Peterson, How to stop Trump from becoming the GOP nominee
+  again, CNN, Jan. 5, 2023,
+  <https://www.cnn.com/2023/01/05/opinions/stopping-trump-2024-proportional-representation-peterson/index.html>
 
 #### Week 7 – Rethinking National Elections
 

@@ -223,6 +223,7 @@ The second part of the class we will deal with representation more broadly. Much
 
 **Book Review Due**
 *Book Review presentations (grad students)*
+
 - Streb, Chapter 8
 - Jeff Greenfield, Iowa and New Hampshire Are Getting the Boot. So What?, Politico, Dec. 6, 2022, <https://www.politico.com/news/magazine/2022/12/06/democrats-2024-primary-schedule-iowa-new-hampshire-00072221>
 - Paul E. Peterson, How to stop Trump from becoming the GOP nominee again, CNN, Jan. 5, 2023, <https://www.cnn.com/2023/01/05/opinions/stopping-trump-2024-proportional-representation-peterson/index.html>
@@ -230,6 +231,7 @@ The second part of the class we will deal with representation more broadly. Much
 #### Week 7 -- Rethinking National Elections
 
 ##### Feb 28 -- The Electoral College
+
 - **In-class exercise -- Electoral College game**
 - Streb, Chapter 9
 - Tim Lau, The Electoral College, Explained, Brennan Center For Justice, Feb. 17, 2021, <https://www.brennancenter.org/our-work/research-reports/electoral-college-explained>

@@ -24,63 +24,48 @@ endnote: no
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-The right to vote is sacred in the United States; or is it? As we will learn over the next several weeks, the voting public has expanded from a narrow set of individuals, to a larger share of residents. But, who is enfranchised has been contested throughout U.S. history, including in modern America.
+# Writing Lyrics to a Song or Poem about Voting Rights
 
-## Question I
+## Objective: 
+To understand the importance of voting rights and to express this through the creation of a song lyric or poem.
 
-What do you imagine the _actual_ trajectory of voting rights to be?
+## Instructions:
 
-```{r, fig-fullwidth, fig.width = 7, fig.height = 4.5, fig.fullwidth = TRUE, warning=FALSE, message=FALSE, cache=FALSE, out.width='100%'}
-plot(1, type = "n", xlab = "",
-     ylab = "Suffrage (%)", xlim = c(1776, 2022), 
-     ylim = c(0, 1), axes=F)
-      axis(side=2, las=2, at=seq(0, 1, 0.25), labels=paste0(seq(0,100, 25), "%"), cex.axis=1)
-      axis(side=1, las=2, at=seq(1776, 2022, 6), labels=seq(1776, 2022, 6), cex.axis=0.8)
-      box(col="black")
-      abline(h=seq(0,1,0.25), lty=2, lwd = .5, col="gray40") 
-```
+1. Form a group of 2 or 3 students.
+2. Consider the history of voting rights you've learned in class or recent developments in voting rights legislation.
+3. Write a song lyric that includes:
 
-## Question II (90 seconds)
+  * A chorus
+  * At least one refrain (which should be equivalent to a paragraph or so)
 
-In 2024, the U.S. will hold a presidential election. But not everyone *can* or *should* be allowed to participate. Make a list of **three** individuals, classes of people, or groups which should **not** be allowed to vote in Pennsylvania.
+Or write a poem containing at least 5 sentences expressing:
 
-1) 
+  * The importance of voting rights 
+  * The ongoing struggles to protect and expand these rights
+  
+4. Incorporate themes such as empowerment, equality, and justice into your lyric or poem.
+5. Focus on your unique perspectives or experiences.
+6. Use rhyming structures, metaphors, and other literary devices to make your song or poem engaging and memorable.
 
-2) 
+## Evaluation Criteria:
+- Accuracy of historical information and understanding of voting rights
+- Creativity and originality of lyrics or poem
+- Use of literary devices to engage the listener or reader
+- Originality
+- Effective expression of the importance of voting rights
 
-3)  
+## Extra Credit:
+- Performance of the song or poem in front of the class (or recorded and submitted for review). 
+  * This will require you to bring your lyrics or poem to life by setting them to music or presenting them as a spoken word piece.
+- You can do this during Tuesday's class (Feb 7, 2023). 
+  * If one member of the group performs, each member gets 1 percentage point increase on their overall grade. 
+  * If all members participate, each member gets 2 percentage points increase.
 
-## Question III (90 seconds)
+###### Note: Your song does not need to be fully produced, but it must include a chorus and at least one refrain. The focus of this assignment is on the lyrics.
 
-In 2024, the U.S. will hold a presidential election. But not everyone *can* or *should* be allowed to participate. Make a list of **three** individuals, classes of people, or groups which should **not** be allowed to vote in Pennsylvania. _Wait for instruction_.
+## Directions:
+- In Canvas, submit your song or poem lyrics into the text entry as part of the Assignment 2 submission portal. 
+- If you choose to do the extra credit, a separate portal will be available to submit your composition.
+- Words to your song or poem are due by Friday, February 10th at 11:59p. 
+- You can submit this in the assignment "In-class exercise - Assignment 2".
 
-1) 
-
-2) 
-
-3)  
-
-## Discussion
-
-How do your lists compare to those seated next to you? Compare your lists to 3-5 other students. 
-
-Are there any individuals or groups that everyone has included on these lists? 
-
-Do you have unique entries on your lists? Discuss with your group why you think there is some agreement and some that differ. 
-
-For those where there is less agreement, contemplate why either they, or you, believe this group should not be given the right to vote in the presidential election.
-
-Are there other context in which this list would change? Would the same exclusions apply for state-level elections, like for governor? How about local elections, such as school board?
-
-## Directions
-
-Open a blank text file. Type:
-
-1) your name, 
-2) today's date, 
-3) "Voting Rights and Representation", and 
-4) "Assignment 1"
-
-In this document, either scan (ie., take a picture) of your worksheet and paste it into the document, or repeat your list from Question II in the document. 
-
-Save the document, and by Friday at 11:59p upload it to Canvas. You can submit this in the assignment "In-class exercise - Assignment 1".

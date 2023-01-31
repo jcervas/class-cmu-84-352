@@ -345,7 +345,7 @@ during this part of class.
 
 ##### Feb 2 – World Wars and civil rights
 
-- Richard Rothstein, Brown V. Board At 60: Why Have We Been So
+- Richard Rothstein, Brown v. Board At 60: Why Have We Been So
   Disappointed? What Have We Learned? (Economic Policy Institute)
   (2014), <https://files.epi.org/2014/EPI-Brown-v-Board-04-17-2014.pdf>
 - An Assessment Of Minority Voting Rights Access (U.S. Commission on

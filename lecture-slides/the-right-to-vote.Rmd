@@ -40,17 +40,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Constitutional Amendments
 
-- The**14th Amendment** extends citizenship to all natural born or naturalized Americans regardless of race and guaranteed that rights of citizenship, like voting, cannot be restricted by the states.
+- The **14th Amendment** extends citizenship to all natural born or naturalized Americans regardless of race and guaranteed that rights of citizenship, like voting, cannot be restricted by the states.
 
-- The**15th Amendment** prohibits restricting the right to vote due to race.
+- The **15th Amendment** prohibits restricting the right to vote due to race.
 
-- The**17th Amendment** requires states to elect senators by popular vote.
+- The **17th Amendment** requires states to elect senators by popular vote.
 
-- The**19th Amendment** extends voting rights to all women.
+- The **19th Amendment** extends voting rights to all women.
 
-- The**26th Amendment** extends the right to vote to everyone 18 years of age and older.
+- The **26th Amendment** extends the right to vote to everyone 18 years of age and older.
 
-- Additionally, the**24th Amendment** explicitly bans poll taxes, which often prevented low-income citizens of all races from voting.
+- Additionally, the **24th Amendment** explicitly bans poll taxes, which often prevented low-income citizens of all races from voting.
 
 ## Should we have this amendment?
 

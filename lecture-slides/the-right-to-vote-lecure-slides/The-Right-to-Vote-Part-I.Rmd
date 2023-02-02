@@ -1,5 +1,5 @@
 ---
-title: "The Right to Vote"
+title: "The Right to Vote - Part I"
 author: "Prof. Jonathan Cervas"
 date: "Updated: `r format(Sys.time(), '%B %d, %Y')`"
 output: 

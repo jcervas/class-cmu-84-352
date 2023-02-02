@@ -3,15 +3,15 @@ title: "The Right to Vote - Part II"
 author: "Prof. Jonathan Cervas"
 date: "Updated: `r format(Sys.time(), '%B %d, %Y')`"
 output: 
+ md_document:
+  variant: gfm
  beamer_presentation:
-  keep_tex: false
- pdf_document:
   keep_tex: false
  html_document:
   theme: yeti
   highlight: textmate
- md_document:
-  variant: gfm
+ pdf_document:
+  keep_tex: false
 ---
 
 ```{r setup, include=FALSE}
@@ -75,6 +75,7 @@ the part of those seeking to contract the right to vote or limit its further exp
 
 - Charges that immigrants corrupted elections by voting illegally and selling their votes were commonplace, as were stories of politically motivated mass naturalizations in the days before elections
 
+## Trump equivlent (there's always one it seems)
 ![](img/The%20Right%20to%20Vote%20-%20Part%20II0.png)
 
 

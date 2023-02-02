@@ -3,15 +3,16 @@ title: "The Right to Vote - Part II"
 author: "Prof. Jonathan Cervas"
 date: "Updated: `r format(Sys.time(), '%B %d, %Y')`"
 output: 
- md_document:
-  variant: gfm
  beamer_presentation:
   keep_tex: false
+ md_document:
+  variant: gfm
  html_document:
   theme: yeti
   highlight: textmate
  pdf_document:
   keep_tex: false
+classoption: aspectratio=169
 ---
 
 ```{r setup, include=FALSE}
@@ -44,7 +45,7 @@ the part of those seeking to contract the right to vote or limit its further exp
 - The first targets of the nation’s shifting political mood in the 1850s were working-class immigrants, especially those from Ireland
 
 - Although foreshadowed by the public debates of the 1840s, a full-blown _nativist_ movement surfaced only during the following decade, precipitated by an extraordinary surge in immigration after 1845
-  - Between 1845 and 1854, nearly three million foreigners arrived, equal to roughly 15 percent of the population in 1845; in 1854 alone, the flow reached a record high of 427,833, a figure that would not be surpassed until the 1870s
+ - Between 1845 and 1854, nearly three million foreigners arrived, equal to roughly 15 percent of the population in 1845; in 1854 alone, the flow reached a record high of 427,833, a figure that would not be surpassed until the 1870s
 
 **By the mid-1850s, more than one-fifth of all residents of Boston and New York were Irish-born**
 
@@ -54,7 +55,7 @@ the part of those seeking to contract the right to vote or limit its further exp
 
 - Laws permitting declarant non-citizens to vote after a limited residence period were passed in Wisconsin, Minnesota, Michigan, Indiana, Oregon, Kansas, and Washington territory between 1848 and 1859.
   - All of these states were predominantly _agricultural_, thinly _populated_ , and hoping to encourage _settlement_
-    - their immigrant populations, actual and prospective, consisted primarily of farmers
+  - their immigrant populations, actual and prospective, consisted primarily of farmers
 
 ## Immigrants, workers
 
@@ -77,7 +78,6 @@ the part of those seeking to contract the right to vote or limit its further exp
 
 ## Trump equivlent (there's always one it seems)
 ![](img/The%20Right%20to%20Vote%20-%20Part%20II0.png)
-
 
 ## Objections
 
@@ -210,6 +210,8 @@ _Order of the Star Spangled Banner became known as “know-nothings” because t
 
 ## XIV Amendment
 
+## XIV Amendment
+
 Fourteenth Amendment:
 
 * Section 1
@@ -324,7 +326,7 @@ The act was the legal centerpiece of Radical Reconstruction
 - Republicans sensed that control of the national government might be slipping from their grasp
   - White Southerners were intensifying their opposition to Black equality
   - Something had to be done soon to guarantee Black political rights, particularly in the event that the Democrats returned to power in the South or nationally.
-  - Election results also indicated that black voters might be important to the fortunes of the Republican Party in northern as well as southern states
+  - Election results also indicated that Black voters might be important to the fortunes of the Republican Party in northern as well as southern states
 
 ## Amendment XV Debate
 
@@ -337,18 +339,18 @@ The act was the legal centerpiece of Radical Reconstruction
 - Several proposals for the 15th amendment were put forward.
 
 - Samuel Shellabarger’s amendment prohibited the states from denying or abridging the voting rights of any adult male of “sound mind,” except those who had engaged in rebellion against the United States or committed other “infamous” crimes. 
-    — it implicitly would have ended not only racial discrimination but also property, tax, nativity, and literacy requirements
+  — it implicitly would have ended not only racial discrimination but also property, tax, nativity, and literacy requirements
 
 - George Boutwell's proposal guaranteed "the right of any citizen of the United States to vote shall not be denied or abridged by the United States or any State by reason of race, color, or previous condition of slavery of any citizens or class of citizens of the United States."
 
 - Massachusetts Senator Henry Wilson a shoemaker by trade, a long- time foe of slavery, and later vice president of the United States:
   - prohibited discrimination “among the citizens of the United States in the exercise of the elective franchise or in the right to hold office in any State on account of race, color, nativity, property, education or creed.”
-    - tacitly permitted suffrage qualifications based on age and residence
+  - tacitly permitted suffrage qualifications based on age and residence
 
 ## Wilson
 
 - Wilson and his allies, many from the Midwest, mounted a powerful array of arguments in favor of a broadly phrased amendment. 
- - They voiced a prescient fear (as had Shellabarger) that a watered down amendment such as Boutwell’s would end up being circumvented by southern states that could disfranchise blacks through literacy, tax, or property requirements. 
+ - They voiced a prescient fear (as had Shellabarger) that a watered down amendment such as Boutwell’s would end up being circumvented by southern states that could disfranchise Blacks through literacy, tax, or property requirements. 
  - Wilson maintained shrewdly that his proposal might have the best chance of being ratified by the states because it effectively would enfranchise everyone (including many immigrant supporters of the Democrats) and not appear to be granting special privileges to African Americans
 
 ## “Rights” argument
@@ -362,7 +364,7 @@ The act was the legal centerpiece of Radical Reconstruction
 
 ## Pushback
 
-- That the Wilson amendment sanctioned black office-holding, as well as suffrage, only intensified the opposition
+- That the Wilson amendment sanctioned Black office-holding, as well as suffrage, only intensified the opposition
 
 - Senators from the West were apprehensive that it would enfranchise the Chinese
 
@@ -391,14 +393,14 @@ The act was the legal centerpiece of Radical Reconstruction
 ## Opposition on other grounds to the 15th
 
 - Opposition to the amendment was widespread and intense
-  - it was passed easily only in New England, where blacks already voted, and in the South, where the federal government had already intervened to compel black enfranchisement
+  - it was passed easily only in New England, where Blacks already voted, and in the South, where the federal government had already intervened to compel Black enfranchisement
   - Elsewhere, battles over ratification were closely fought and heavily partisan
 
 - On the West Coast, especially in California, opposition to the Fifteenth Amendment was fueled by the anti-Chinese furor that would sour the region’s politics for decades: 
   - whites, including many working-class whites, feared that the amendment would 
-    - enfranchise the Chinese
-    - encourage further Chinese immigration 
-    - lower the wages and living standards of white workers
+  - enfranchise the Chinese
+  - encourage further Chinese immigration 
+  - lower the wages and living standards of white workers
   - State legislatures in the western states (excepting Nevada) refused to ratify the amendment, despite the tiny African-American presence in the region
   
 ## (Un)remarkable
@@ -438,6 +440,9 @@ Section 2
 
 **The celebrations of the Black community would soon prove to be premature, and the unresolved tension between federal and state authorities would vibrate for another century**
 
+## END
+
+END
 
 ## Rights under attack
 
@@ -495,9 +500,9 @@ Section 2
 
 - After they were victorious in that year’s elections, the Republicans had a chance to do something about it: they had won the presidency and control of both houses of Congress
   - They proposed the _Federal Elections Bill_
-    - a small number of petitions to federal circuit courts could lead to the appointment of federal supervisors were entrusted with:
-      - attending elections, inspecting registration lists, verifying information given by doubtful voters, administering oaths to challenged voters, preventing illegal immigrants from voting, and certifying the count
-    - the bill gave federal officials and courts the power to overturn election results that had been declared and certified by state officials
+  - a small number of petitions to federal circuit courts could lead to the appointment of federal supervisors were entrusted with:
+    - attending elections, inspecting registration lists, verifying information given by doubtful voters, administering oaths to challenged voters, preventing illegal immigrants from voting, and certifying the count
+  - the bill gave federal officials and courts the power to overturn election results that had been declared and certified by state officials
 
 ## Federal Elections Bill
 
@@ -512,7 +517,7 @@ Section 2
 
 ## Federal Involvement
 
-- This signaled to the South that the federal government was not prepared to act energetically to guarantee the voting rights of blacks
+- This signaled to the South that the federal government was not prepared to act energetically to guarantee the voting rights of Blacks
 
 **Whatever the Fourteenth and Fifteenth Amendments said on paper, the right to vote was back in the hands of the states**
 

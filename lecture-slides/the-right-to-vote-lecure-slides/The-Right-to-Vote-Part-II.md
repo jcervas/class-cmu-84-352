@@ -38,10 +38,10 @@
   *nativist* movement surfaced only during the following decade,
   precipitated by an extraordinary surge in immigration after 1845
 
-  - Between 1845 and 1854, nearly three million foreigners arrived,
-    equal to roughly 15 percent of the population in 1845; in 1854
-    alone, the flow reached a record high of 427,833, a figure that
-    would not be surpassed until the 1870s
+- Between 1845 and 1854, nearly three million foreigners arrived, equal
+  to roughly 15 percent of the population in 1845; in 1854 alone, the
+  flow reached a record high of 427,833, a figure that would not be
+  surpassed until the 1870s
 
 **By the mid-1850s, more than one-fifth of all residents of Boston and
 New York were Irish-born**
@@ -58,8 +58,8 @@ New York were Irish-born**
 
   - All of these states were predominantly *agricultural*, thinly
     *populated* , and hoping to encourage *settlement*
-    - their immigrant populations, actual and prospective, consisted
-      primarily of farmers
+  - their immigrant populations, actual and prospective, consisted
+    primarily of farmers
 
 ## Immigrants, workers
 
@@ -550,8 +550,7 @@ compelled to permit Blacks to vote**
     in the exercise of the elective franchise or in the right to hold
     office in any State on account of race, color, nativity, property,
     education or creed.”
-    - tacitly permitted suffrage qualifications based on age and
-      residence
+  - tacitly permitted suffrage qualifications based on age and residence
 
 ## Wilson
 
@@ -649,9 +648,9 @@ compelled to permit Blacks to vote**
   sour the region’s politics for decades:
   - whites, including many working-class whites, feared that the
     amendment would
-    - enfranchise the Chinese
-    - encourage further Chinese immigration
-    - lower the wages and living standards of white workers
+  - enfranchise the Chinese
+  - encourage further Chinese immigration
+  - lower the wages and living standards of white workers
   - State legislatures in the western states (excepting Nevada) refused
     to ratify the amendment, despite the tiny African-American presence
     in the region
@@ -810,15 +809,15 @@ authorities would vibrate for another century**
   control of both houses of Congress
 
   - They proposed the *Federal Elections Bill*
-    - a small number of petitions to federal circuit courts could lead
-      to the appointment of federal supervisors were entrusted with:
-      - attending elections, inspecting registration lists, verifying
-        information given by doubtful voters, administering oaths to
-        challenged voters, preventing illegal immigrants from voting,
-        and certifying the count
-    - the bill gave federal officials and courts the power to overturn
-      election results that had been declared and certified by state
-      officials
+  - a small number of petitions to federal circuit courts could lead to
+    the appointment of federal supervisors were entrusted with:
+    - attending elections, inspecting registration lists, verifying
+      information given by doubtful voters, administering oaths to
+      challenged voters, preventing illegal immigrants from voting, and
+      certifying the count
+  - the bill gave federal officials and courts the power to overturn
+    election results that had been declared and certified by state
+    officials
 
 ## Federal Elections Bill
 

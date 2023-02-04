@@ -1299,3 +1299,725 @@ the changes in suffrage laws**
 **These barriers were expressions of the nation’s reluctance to embrace
 universal suffrage, of the limits to the democratic impulses that
 characterized the era**
+
+## Part II
+
+## Mid-Nineteenth Century to the Twentieth Century
+
+## Changing Country
+
+- After 1850, conflict over the right to vote heightened dramatically
+
+- There was a shift in temper after mid-century, marked by a heightened
+  resolve on the part of those seeking to contract the right to vote or
+  limit its further expansion
+
+- Freedmen were enfranchised during Reconstruction because Republicans
+  in Congress came to believe that freedom would be illusory without
+  political rights
+
+- The potential electorate in 1880 or 1900 looked very different than it
+  had in 1840
+
+- The optimism about popular participation, so visible in the 1830s and
+  1840s, gave way to apprehension and fear by the late 1870s and 1880s
+
+- Country increasingly consisted of men and women who were racially,
+  ethnically, and culturally unlike old-stock white Americans
+
+## High Point of Democracy
+
+> “the democratic principle… reached its culmination about 1850.” -
+> *Atlantic Monthly*
+
+- The high tide of faith in democracy in the United States was reached
+  at mid-century in the 1800s; thereafter it ebbed
+
+## Immigrants
+
+- The first targets of the nation’s shifting political mood in the 1850s
+  were working-class immigrants, especially those from Ireland
+
+- Although foreshadowed by the public debates of the 1840s, a full-blown
+  *nativist* movement surfaced only during the following decade,
+  precipitated by an extraordinary surge in immigration after 1845
+
+- Between 1845 and 1854, nearly three million foreigners arrived, equal
+  to roughly 15 percent of the population in 1845; in 1854 alone, the
+  flow reached a record high of 427,833, a figure that would not be
+  surpassed until the 1870s
+
+**By the mid-1850s, more than one-fifth of all residents of Boston and
+New York were Irish-born**
+
+## Immigrants, settlers
+
+- In the 1850s, foreign-born settlers were not only welcomed to the
+  United States but often *encouraged* to participate in politic
+
+- Laws permitting declarant non-citizens to vote after a limited
+  residence period were passed in Wisconsin, Minnesota, Michigan,
+  Indiana, Oregon, Kansas, and Washington territory between 1848 and
+  1859.
+
+  - All of these states were predominantly *agricultural*, thinly
+    *populated* , and hoping to encourage *settlement*
+  - their immigrant populations, actual and prospective, consisted
+    primarily of farmers
+
+## Immigrants, workers
+
+- Workers, however, were a different story
+
+- They were generally poor
+
+  - they crowded into densely populated, urban neighborhoods
+  - they were commonly depicted as rowdy rather than “upright,
+    honorable, and industrious”
+  - most were Irish Catholic.
+
+- Although their labor was welcome and there was substantial sympathy
+  for the desperate poverty that had impelled them to emigrate, their
+  *religion* , *ethnicity* , and *class* converged to cast doubt on
+  their *desirability* as members of the polity
+
+## Nativism
+
+- Some natives regarded recently arrived immigrants, *even citizens*, as
+  insufficiently tutored in American values and the workings of American
+  democracy
+
+- Others feared that Catholics were controlled by the Pope and would
+  seek to undermine Protestant society.
+
+- Charges that immigrants corrupted elections by voting illegally and
+  selling their votes were commonplace, as were stories of politically
+  motivated mass naturalizations in the days before elections
+
+## Trump equivlent (there’s always one it seems)
+
+![](img/The%20Right%20to%20Vote%20-%20Part%20II0.png)
+
+## Objections
+
+- Whig and then Republican objections were strengthened by the tendency
+  of many immigrants to drink alcohol and vote Democratic
+
+- Abolitionists came to regard immigrants as a pro-slavery voting bloc
+  that would help to keep the planter aristocracy in power in the South
+
+**Political nativism moved to the foreground of the political stage,
+however, when the Know-Nothings burst onto the scene in 1853–1854**
+
+## Know-Nothings
+
+- The Know-Nothings dominated political life in the Northeast, parts of
+  the Midwest, and even southern states with sizable immigrant
+  populations, such as Louisiana and Maryland
+
+- By 1854, the Know-Nothings had a million members, as well as chapters
+  in all northern states
+
+- The Know-Nothings expressed disdain for the existing party system,
+  opposed the extension of slavery, and endorsed a host of genuinely
+  progressive reforms:
+
+- strengthened lien laws for mechanics
+
+- property rights for married women
+
+- expansion of public schools
+
+## Religious Bigotry
+
+- But, they gave voice to unvarnished ethnic and religious bigotry,
+  denouncing and caricaturing immigrants in general, and Catholics in
+  particular
+
+- To join the “Order of the Star Spangled Banner” (original name for
+  their a secret organization), one had to be:
+
+  - native-born
+  - white male adult
+  - no personal or familial connection to Catholicism
+
+*Order of the Star Spangled Banner became known as “know-nothings”
+because they would deny knowing anything about the order*
+
+**They feared that immigrants, especially Catholics, wielded too much
+electoral power and would use it to subvert American values and
+institutions**
+
+## Proposed Changes to Law
+
+- They proposed that federal laws be changed to require a
+  twenty-one-year (rather than five-year) waiting period prior to
+  naturalization – or even permanent denial of citizenship to the
+  foreign-born.
+
+- The Know-Nothings also advocated significant changes in state voting
+  laws, including *registration systems*, *literacy tests*, and in the
+  absence of a change in naturalization laws, a twenty-one-or
+  fourteen-year post-naturalization *residence period* before a
+  foreign-born male could vote
+
+## Know-Nothing Political Success
+
+- The Know-Nothings stunned the nation’s political elite by scoring huge
+  electoral successes between 1854 and 1856.
+  - They won gubernatorial elections in nine states and controlled
+    legislative branches in at least a half dozen
+  - Their vote was particularly strong in states and cities with sizable
+    immigrant populations, including Massachusetts, Maine, Connecticut,
+    New Jersey, New York, Michigan, and parts of Ohio, as well as cities
+    such as Baltimore, New Orleans, and Pittsburgh
+
+**The Know-Nothings were victorious enough to kill off the faltering
+Whig party and briefly emerge as the primary alternative to the
+immigrant-friendly Democrats**
+
+## Massachusetts Know-Nothings
+
+- Their success was most pronounced in Massachusetts, where the
+  Know-Nothings elected a governor and won control of the legislature in
+  1854, retaining considerable power throughout the decade.
+
+- Most Know-Nothing support came from the eastern half of the state,
+  which had rapidly industrialized and become home to hundreds of
+  thousands of Irish immigrants.
+
+- In 1857, Massachusetts passed a law requiring prospective voters to
+  demonstrate their ability to read the Constitution and to write their
+  own names
+
+- Such laws, according to the Know-Nothings, would keep the “ignorant,
+  imbruted Irish” from the polls
+
+## End of the Know-Nothings
+
+- After the mid-1850s, the Know-Nothings quickly disappeared from view,
+  as nativism was eclipsed by sectional politics and the Republican
+  Party gained the support of many former Know-Nothing backers
+
+- Although the Republicans succeeded in part by embracing some of the
+  nativist agenda, they quickly turned their attention to other issues
+  and were increasingly sensitive to the political risks they ran,
+  particularly in the Midwest, by associating themselves too closely
+  with anti-immigrant politics
+
+## Black Voting Rights
+
+- Four years of armed conflict, as well as *the challenge of
+  reconstructing the nation* after the war, brought the question of
+  **Black voting rights** to the foreground of national politics
+
+- The issue of Black enfranchisement raised critical questions, largely
+  ignored since the writing of the Constitution, about the *role of the
+  federal government* in determining the breadth of the franchise
+
+## War and veteran rights
+
+- At the outset of the Civil War, only five states, all in New England,
+  permitted Blacks to vote on the same basis as whites
+
+- A sixth, New York, enfranchised African Americans who met a property
+  requirement
+
+- The abolition of slavery turned four million men and women into free
+  citizens who had a new claim on political rights
+
+  - African Americans were loyal supporters of the Union cause and the
+    Republican Party
+
+**By 1865, the traditional argument that men who bore arms ought to
+wield the ballot was applicable to more than 180,000 Blacks**
+
+## Becoming American
+
+- To African Americans, enfranchisement not only constituted a means of
+  self-protection but was a critical symbol and expression of their
+  standing in American society
+
+- Between 1864 and 1868, the more militant and egalitarian Radical wing
+  of the Republican Party included an increasing number of men who
+  embraced “*impartial*” or “*universal*” suffrage
+
+## Beecher’s Sentiments
+
+> “The broad and radical democratic doctrine of the natural rights of
+> men shall be applied to all men, without regard to race, or color, or
+> condition. \[Suffrage\] is not a privilege or a prerogative, but a
+> *right* . Every man has a right to have a voice in the laws, the
+> magistracies, and the policies that take care of him. That is an
+> inherent *right* ; it is not a *privilege* conferred.””
+
+- Henry Ward Beecher, *New York’s influential Protestant minister*
+
+## Black Franchise
+
+- Most white Americans, however, did not share such views
+  - In the South, the prospect of Black enfranchisement not only
+    violated two centuries of structured and deeply rooted racism but
+    also threatened the postwar white goal of regaining political,
+    social, and economic control over the Black population
+- There was ongoing hostility in the North as well
+  - fear of Black migration to the North was intensified by emancipation
+- Between 1863 and 1870, proposals to enfranchise Blacks were defeated
+  in more than fifteen northern states and territories
+
+## Defeat of universal manhood suffrage
+
+- Prior to the passage of the Fifteenth Amendment, only Iowa and
+  Minnesota, in 1868, adopted impartial suffrage, and the Minnesota vote
+  was facilitated by wording that masked the subject of the referendum.
+
+- Although most northern Republicans supported Black suffrage, Democrats
+  adamantly were opposed, and they generally were *joined by enough
+  Republicans* to guarantee popular or legislative defeat of any reforms
+
+## Reconstruction
+
+- The political dynamics of *Reconstruction* led to a path-breaking
+  series of steps by the federal government to override state control of
+  the franchise and grant political rights to Black men
+
+- Pres. Johnson offered lenient terms to the southern states so that
+  they could be restored quickly to the Union
+
+- Johnson’s program demanded few reforms and virtually guaranteed that
+  political and economic power in the South would remain in the hands of
+  whites, including those who had supported the rebellion
+
+- Alarmed at this prospect and at the resistance of many southern
+  leaders to policies emanating from Washington, the
+  Republican-controlled Congress began to formulate its own program in
+  1866
+
+- They did seek to guarantee the civil rights of Blacks and promote
+  greater racial equality in southern society – but *not yet* **Black
+  enfranchisement**
+
+## Fourteenth Amendment
+
+- The moderate majority of Republicans in Congress negotiated the
+  passage of the Fourteenth Amendment in June 1866.
+
+- A compromise measure, the amendment was designed to
+
+  - punish Confederate political leaders (by preventing them from
+    holding office)
+  - to affirm the South’s responsibility for a share of the national
+    debt,
+  - to protect southern Blacks without arousing the racial fears of
+    northern whites
+
+## XIV Amendment
+
+## XIV Amendment
+
+Fourteenth Amendment:
+
+- Section 1
+- **All persons born or naturalized in the United States and subject to
+  the jurisdiction thereof, are citizens of the United States and of the
+  State wherein they reside. No State shall make or enforce any law
+  which shall abridge the privileges or immunities of citizens of the
+  United States; nor shall any State deprive any person of life,
+  liberty, or property, without due process of law; nor deny to any
+  person within its jurisdiction the equal protection of the laws.**
+
+## XIV Amendment
+
+Fourteenth Amendment:
+
+- Section 2
+- **Representatives shall be apportioned among the several States
+  according to their respective numbers, counting the whole number of
+  persons in each State, excluding Indians not taxed. But when the right
+  to vote at any election for the choice of electors for President and
+  Vice President of the United States, Representatives in Congress, the
+  Executive and Judicial officers of a State, or the members of the
+  Legislature thereof, is denied to any of the male inhabitants of such
+  State, being twenty-one years of age, and citizens of the United
+  States, or in any way abridged, except for participation in rebellion,
+  or other crime, the basis of representation therein shall be reduced
+  in the proportion which the number of such male citizens shall bear to
+  the whole number of male citizens twenty-one years of age in such
+  State.**
+
+## XIV Amendment
+
+Fourteenth Amendment:
+
+- Section 3
+- **No person shall be a Senator or Representative in Congress, or
+  elector of President and Vice President, or hold any office, civil or
+  military, under the United States, or under any State, who, having
+  previously taken an oath, as a member of Congress, or as an officer of
+  the United States, or as a member of any State legislature, or as an
+  executive or judicial officer of any State, to support the
+  Constitution of the United States, shall have engaged in insurrection
+  or rebellion against the same, or given aid or comfort to the enemies
+  thereof. But Congress may by a vote of two-thirds of each House,
+  remove such disability.**
+
+## XIV Amendment
+
+Fourteenth Amendment:
+
+- Section 4
+- **The validity of the public debt of the United States, authorized by
+  law, including debts incurred for payment of pensions and bounties for
+  services in suppressing insurrection or rebellion, shall not be
+  questioned. But neither the United States nor any State shall assume
+  or pay any debt or obligation incurred in aid of insurrection or
+  rebellion against the United States, or any claim for the loss or
+  emancipation of any slave; but all such debts, obligations and claims
+  shall be held illegal and void.**
+
+## XIV Amendment
+
+Fourteenth Amendment:
+
+- Section 5
+- **The Congress shall have power to enforce, by appropriate
+  legislation, the provisions of this article.**
+
+## Effect of XIV
+
+- By declaring that “all persons born or naturalized in the United
+  States” were “citizens of the United States and of the State wherein
+  they reside,” the amendment at long last offered a national definition
+  of citizenship and confirmed that Blacks were indeed citizens.
+
+- Since most congressional Republicans – whatever their personal beliefs
+  – were convinced that northern whites would not support the outright
+  enfranchisement of Blacks, the amendment took an oblique approach
+
+  - any state that denied the right to vote to a portion of its male
+    citizens would have its representation in Congress (and thus the
+    Electoral College) reduced in proportion to the percentage of
+    citizens excluded
+
+## What was left out of the 14th
+
+- The amendment tacitly recognized the *right of individual states* to
+  **create racial barriers**
+
+- The use of the word male constituted a de facto recognition of the
+  legitimacy of excluding women from electoral politics
+
+- The Fourteenth Amendment was fiercely opposed by President Johnson,
+  white Southerners, and northern Democrats
+
+## New appetite for Black enfranchisement
+
+- To more and more Republicans, many of whom were changing their views
+  in the cauldron of circumstance, Black enfranchisement appeared:
+  - essential to protect the freedmen
+  - provide the Republican Party with an electoral base in the South
+  - make it possible for loyal governments to be elected in the
+    once-rebellious states
+
+## Federal Intervention
+
+- Congress first signaled its shift in perspective by passing a law
+  ending racial qualifications for voting in the District of Columbia
+
+- President Johnson vetoed the legislation, maintaining that it was
+  wrong to enfranchise “a new class, wholly unprepared” for democracy
+  “by previous habits and opportunities.”
+
+- Congress overrode the veto and weeks later passed a bill prohibiting
+  racial bars in any existing or future federal territories.
+
+- Congress then proceeded to insist that Nebraska and Colorado adopt
+  impartial suffrage as a prerequisite for admission to statehood
+
+## Reconstruction
+
+- This surge of activity, fed by continued southern intransigence,
+  culminated in the passage of the Reconstruction Act of March 1867.
+
+The act was the legal centerpiece of Radical Reconstruction - it *denied
+recognition to the existing state governments of the South * and
+authorized *continued military rule* of the region under the control of
+Congress. - In order to terminate such rule and be fully readmitted to
+the Union, each southern state was required to ratify the Fourteenth
+Amendment and to approve, by manhood suffrage, a state constitution that
+permitted Blacks to vote on the same terms as whites.
+
+- President Johnson vetoed the bill, but his veto was quickly
+  overridden.
+
+**To rejoin the political nation, the states of the Confederacy were now
+compelled to permit Blacks to vote**
+
+## Black Voting
+
+- In 1867 and 1868, African Americans, working with white Unionists and
+  Republicans, in the South, elected new state governments, wrote
+  progressive constitutions that included manhood suffrage provisions,
+  and ratified the Fourteenth Amendment
+
+- Black enthusiasm for political participation was so great that
+  freedmen often put down their tools and ceased working when elections
+  or conventions were being held
+
+- By June 1868, seven states, with manhood suffrage, had been readmitted
+  to the Union, and the process was well under way elsewhere.
+
+- All this was achieved despite fierce opposition from upper-class
+  whites, who feared that a biracial alliance of Blacks and non-elite
+  whites would bring about a new and inhospitable economic and political
+  order
+
+## Backlash
+
+- Anti-Black and anti-Republican violence flared up throughout the
+  region, often spearheaded by the rapidly growing Ku Klux Klan
+
+- Republican achievements in the South were accompanied by a succession
+  of electoral defeats in the North
+
+  - The Democrats gained ground from the Atlantic to the Pacific.
+
+- Interpreted by both parties as the consequence of Republican support
+  for Black suffrage, this electoral swing led the Republicans to seek
+  more moderate ground — in part out of fear that they could lose the
+  1868 presidential election and thereby bring a premature end to
+  Reconstruction.
+
+- The party nominated the uncontroversial General Ulysses Grant for the
+  presidency and adopted a platform that supported Black suffrage for
+  the South while advocating state control of electoral rules in the
+  North.
+
+## 1868 Election
+
+- The Republicans did not fare well in the 1868 elections:
+  - Grant was victorious, but the winning margin was surprisingly slim
+  - The Democrats continued to gain ground in Republican strongholds
+- Within days of the 1868 election, the Republicans shifted course, as
+  Radicals, in and out of Congress, announced that they would press
+  forward with a constitutional amendment to enfranchise African
+  Americans
+
+## Fading Support
+
+- The decline in support for the Republican Party, as well as the
+  referenda outcomes in 1867 and 1868, underscored the strength and
+  breadth of opposition to Black enfranchisement.
+
+- Republicans sensed that control of the national government might be
+  slipping from their grasp
+
+  - White Southerners were intensifying their opposition to Black
+    equality
+  - Something had to be done soon to guarantee Black political rights,
+    particularly in the event that the Democrats returned to power in
+    the South or nationally.
+  - Election results also indicated that Black voters might be important
+    to the fortunes of the Republican Party in northern as well as
+    southern states
+
+## Amendment XV Debate
+
+- Debate on the Fifteenth Amendment was the first time since the
+  constitutional convention in Philadelphia that the national government
+  of the United States had grappled directly and extensively with the
+  issue of voting rights
+
+- The debate began with a strategic focus on the rights of African
+  Americans, particularly in the South, but it soon broadened into a
+  far-reaching consideration of the **meaning of democracy and the power
+  of the national government**
+
+## 15th Proposals
+
+- Several proposals for the 15th amendment were put forward.
+
+- Samuel Shellabarger’s amendment prohibited the states from denying or
+  abridging the voting rights of any adult male of “sound mind,” except
+  those who had engaged in rebellion against the United States or
+  committed other “infamous” crimes. — it implicitly would have ended
+  not only racial discrimination but also property, tax, nativity, and
+  literacy requirements
+
+- George Boutwell’s proposal guaranteed “the right of any citizen of the
+  United States to vote shall not be denied or abridged by the United
+  States or any State by reason of race, color, or previous condition of
+  slavery of any citizens or class of citizens of the United States.”
+
+- Massachusetts Senator Henry Wilson a shoemaker by trade, a long- time
+  foe of slavery, and later vice president of the United States:
+
+  - prohibited discrimination “among the citizens of the United States
+    in the exercise of the elective franchise or in the right to hold
+    office in any State on account of race, color, nativity, property,
+    education or creed.”
+  - tacitly permitted suffrage qualifications based on age and residence
+
+## Wilson
+
+- Wilson and his allies, many from the Midwest, mounted a powerful array
+  of arguments in favor of a broadly phrased amendment.
+- They voiced a prescient fear (as had Shellabarger) that a watered down
+  amendment such as Boutwell’s would end up being circumvented by
+  southern states that could disfranchise Blacks through literacy, tax,
+  or property requirements.
+- Wilson maintained shrewdly that his proposal might have the best
+  chance of being ratified by the states because it effectively would
+  enfranchise everyone (including many immigrant supporters of the
+  Democrats) and not appear to be granting special privileges to African
+  Americans
+
+## “Rights” argument
+
+- The “rights” arguments in behalf of any particular suffrage extension
+  opened up a Pandora’s box, because the same arguments could justify
+  anyone’s enfranchisement.
+
+- Enfranchising Blacks on the grounds that voting was a right or natural
+  right carried the implication that all adult male citizens should be
+  enfranchised
+
+- Some argued to be consistent and to set the matter to rest, once and
+  for all, the franchise indeed should be further extended rather than
+  limited
+
+- Most Republicans remained reluctant to let women out of the Pandora’s
+  box, but these advocates of a broad constitutional amendment
+  nonetheless were staking out new ground in public debate for the cause
+  of universal suffrage
+
+## Pushback
+
+- That the Wilson amendment sanctioned Black office-holding, as well as
+  suffrage, only intensified the opposition
+
+- Senators from the West were apprehensive that it would enfranchise the
+  Chinese
+
+- Several northeastern Republicans wanted states to retain the power to
+  circumscribe the voting rights of immigrants
+
+- Others argued that municipalities and states ought to be able to
+  impose property requirements in elections dealing with taxes and
+  financial matters
+
+## “republican guarantee”
+
+- The most frequently voiced reason for opposing universal manhood
+  suffrage was not that it would empower an “ *inferior* ” people but
+  rather that it would produce a “ *radical and revolutionary* ”
+  **transformation of the relationship between the federal government
+  and the states**
+
+- The Wilson amendment would vest that power in the federal government
+  and in so doing alter the Constitution while undermining the autonomy
+  and authority of the states
+
+- Radicals replied that the “republican guarantee” clause of article 4
+  already gave the federal government the power to regulate the
+  franchise
+
+## Federalism
+
+- Democrats, of course, were broadly committed to preserving the power
+  of the states, but even moderate Republicans, in the Senate and the
+  House, worried that the Wilson amendment would upset the balance of
+  state and federal authority enshrined in the Constitution
+
+- Such arguments offered critics of the amendment a convenient,
+  apparently principled means of opposing franchise extension without
+  sounding undemocratic or racist
+
+- They also reflected a desire to shore up federalism in an era when the
+  exigencies of war and the economic program of the Republican Party
+  were shifting power toward Washington
+
+- Faced with a choice between a narrowly phrased amendment and the
+  possibility of no amendment at all, advocates of broad-gauged
+  democratization surrendered
+
+## Opposition on other grounds to the 15th
+
+- Opposition to the amendment was widespread and intense
+  - it was passed easily only in New England, where Blacks already
+    voted, and in the South, where the federal government had already
+    intervened to compel Black enfranchisement
+  - Elsewhere, battles over ratification were closely fought and heavily
+    partisan
+- On the West Coast, especially in California, opposition to the
+  Fifteenth Amendment was fueled by the anti-Chinese furor that would
+  sour the region’s politics for decades:
+  - whites, including many working-class whites, feared that the
+    amendment would
+  - enfranchise the Chinese
+  - encourage further Chinese immigration
+  - lower the wages and living standards of white workers
+  - State legislatures in the western states (excepting Nevada) refused
+    to ratify the amendment, despite the tiny African-American presence
+    in the region
+
+## (Un)remarkable
+
+- What opponents of a broad amendment rejected in the end was the
+  abolition of discrimination based on nativity, religion, property, and
+  education
+  - They wanted to retain the power to limit the political participation
+    of the Irish and Chinese, Native Americans, and the increasingly
+    visible clusters of illiterate and semi-literate workers massing in
+    the nation’s cities
+- As Henry Adams astutely observed, the Fifteenth Amendment was “more
+  remarkable for what it does not than for what it does contain.”
+
+**The Fifteenth Amendment was certainly a landmark in the history of the
+right to vote. The federal government enfranchised more than a million
+men who only a decade earlier had been slave**
+
+## Amendment XV
+
+## Amendment XV
+
+Section 1
+
+**The right of citizens of the United States to vote shall not be denied
+or abridged by the United States or by any State on account of race,
+color, or previous condition of servitude.**
+
+Section 2
+
+**The Congress shall have power to enforce this article by appropriate
+legislation.**
+
+## So close…
+
+- That the Wilson amendment (or some variant thereof ) came so close to
+  passage is a remarkable fact, testifying to the ways in which the
+  Civil War and Reconstruction invigorated and extended (in some
+  quarters, at least) the democratic convictions that had flourished at
+  mid-century
+
+- The extraordinary circumstances surrounding the war propelled many
+  Americans to support Black suffrage, and as happened repeatedly in
+  American history, contending with the issue of race provoked new
+  thinking about democratic rights in general
+
+**By the late 1860s, large segments of the nation’s citizenry and
+political leadership were prepared to embrace universal male suffrage,
+and some men were even ready to endorse women’s suffrage**
+
+## The Right to Vote
+
+- Congress and state legislatures had created laws that would have been
+  unthinkable in 1860 or even 1865.
+
+- The words *right to vote* were penned into the nation’s Constitution
+  for the first time, announcing a new, active role for the federal
+  government in defining democracy
+
+**The celebrations of the Black community would soon prove to be
+premature, and the unresolved tension between federal and state
+authorities would vibrate for another century**

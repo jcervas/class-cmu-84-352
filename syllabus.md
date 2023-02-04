@@ -377,9 +377,8 @@ introduce other topics during lecture/discussion.
 ##### Feb 9 – Representation
 
 - **In-class exercise – Design your ideal representative**
-- Streb, Chapter 1,
-  <https://drive.google.com/file/d/1PliPWsXl3LQfEoigTSkRcPaZijrgRyY4/view?usp=sharing> -
-  Putnam, What’s Past is Prologue (Chapter 1, available online)
+- Streb, (Chapter 1, available on Canvas)
+- Putnam, What’s Past is Prologue (Chapter 1, available on Canvas)
 
 #### Week 5 – Rethinking the Costs of Voting
 

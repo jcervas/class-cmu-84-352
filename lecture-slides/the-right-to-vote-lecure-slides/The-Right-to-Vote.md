@@ -91,7 +91,7 @@
 
 ## Universal Suffrage
 
-![](The-Right-to-Vote-Part-I_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](The-Right-to-Vote_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 - It is often popularly conceptualized that voting rights have steadily
   increased over time, so that we now have universal (or near) suffrage.
@@ -105,19 +105,19 @@
 
 ## What do you imagine the trajectory of voting rights to be?
 
-![](The-Right-to-Vote-Part-I_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](The-Right-to-Vote_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 ## Exponential?
 
-![](The-Right-to-Vote-Part-I_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](The-Right-to-Vote_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
 ## Stepped and gradual?
 
-![](The-Right-to-Vote-Part-I_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](The-Right-to-Vote_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 ## Stepped and Steady?
 
-![](The-Right-to-Vote-Part-I_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](The-Right-to-Vote_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 ## Colonial “democracy”
 

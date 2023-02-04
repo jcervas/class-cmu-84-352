@@ -16,7 +16,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-## rmarkdown::render('/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@uci.edu/My Drive/GitHub/teaching/classes/class-cmu-84-352/lecture-slides/the-right-to-vote-lecure-slides/The-Right-to-Vote-Part-I.Rmd', output_format = 'all')
+## rmarkdown::render('/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@uci.edu/My Drive/GitHub/teaching/classes/class-cmu-84-352/lecture-slides/the-right-to-vote-lecure-slides/The-Right-to-Vote.Rmd', output_format = 'all')
 ```
 
 ![](img/The%20Right%20to%20Vote0.jpg)

@@ -357,7 +357,6 @@ during this part of class.
 
 ##### Feb 7 – Democracy in the 21st century
 
-- **In-class exercise – Global democracy on the ascend?**
 - Geoffrey Skelley & Anna Wiederkehr, How The Frost Belt And Sun Belt
   Illustrate The Complexity Of America’s Urban-Rural Divide,
   FiveThrityEight, Jan. 27, 2021,

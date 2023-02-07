@@ -1994,12 +1994,11 @@ legislation.**
 
 ## So close…
 
-- That the Wilson amendment (or some variant thereof ) came so close to
-  passage is a remarkable fact, testifying to the ways in which the
-  Civil War and Reconstruction invigorated and extended (in some
-  quarters, at least) the democratic convictions that had flourished at
-  mid-century
-
+- It is a remarkable fact that the Wilson amendment (or some variant
+  thereof) came so close to passage
+  - The Civil War and Reconstruction invigorated and extended (in some
+    quarters, at least) the democratic convictions that had flourished
+    at mid-century
 - The extraordinary circumstances surrounding the war propelled many
   Americans to support Black suffrage, and as happened repeatedly in
   American history, contending with the issue of race provoked new
@@ -2009,15 +2008,983 @@ legislation.**
 political leadership were prepared to embrace universal male suffrage,
 and some men were even ready to endorse women’s suffrage**
 
-## The Right to Vote
+## The Right to Vote in the Constitution
 
-- Congress and state legislatures had created laws that would have been
-  unthinkable in 1860 or even 1865.
+> - Congress and state legislatures had created laws that would have
+>   been unthinkable in 1860 or even 1865.
+> - The words *right to vote* were penned into the nation’s Constitution
+>   for the first time, announcing a new, active role for the federal
+>   government in defining democracy
+> - **The celebrations of the Black community would soon prove to be
+>   premature, and the unresolved tension between federal and state
+>   authorities would vibrate for another century**
 
-- The words *right to vote* were penned into the nation’s Constitution
-  for the first time, announcing a new, active role for the federal
-  government in defining democracy
+## Voting Rights under attack
 
-**The celebrations of the Black community would soon prove to be
-premature, and the unresolved tension between federal and state
-authorities would vibrate for another century**
+> - Even before Reconstruction came to a quasi-formal end in 1877, Black
+>   voting rights were under attack
+> - Elections were hotly contested, and white Southerners, seeking to “
+>   *redeem* ” the region from Republican rule, engaged in both legal
+>   and extralegal efforts to limit the political influence of freedmen
+> - In the early 1870s, both in the South and in the border states,
+>   districts were gerrymandered, precincts reorganized, and polling
+>   places closed to hinder Black political participation
+> - Organizations such as the Ku Klux Klan mounted violent campaigns
+>   against Blacks who sought to vote or hold office, as well as their
+>   white Republican allies
+
+## Enforcement & KKK Acts
+
+> - In May 1870, stretching the limits of its constitutional powers,
+>   Congress passed an Enforcement Act that made **interference with
+>   voting a federal offense, punishable in federal courts**
+>   - federal courts were presumed to be more reliable than state courts
+> - It also passed the Ku Klux Klan Act, which, among its provisions,
+>   authorized the president to **deploy the army to protect the
+>   electoral process**
+
+## Losing enthusiasm
+
+> - By the mid-1870s, many northern Republicans, including President
+>   Grant, had lost their enthusiasm for policing the South
+> - Preoccupied with an economic depression and labor conflict in the
+>   North, they wearily drifted toward a “ *let alone policy* .”
+> - In September 1875, one Republican newspaper referred to the
+>   Fourteenth and Fifteenth Amendments as “dead letters”
+
+## Southern Redeemers
+
+> - The Redeemers who were gaining power throughout the South in the
+>   1870s had goals that were at once *political*, *social*, and
+>   *economic*
+> - Most immediately they sought to drive the Republicans from power and
+>   elect Democrats, an objective hard to attain in a fully enfranchised
+>   South.
+>   - Limiting Black voting therefore was a means to a end.
+> - Keeping freedmen from the polls was also a means of rebuffing
+>   broader claims to equality, a way of returning Blacks to “ *their
+>   place* ,” of making clear that, whatever the Fourteenth Amendment
+>   said, **Blacks did not enjoy full citizenship**
+
+## Rising Redeemers
+
+> - The pace of Redemption was quickened by the presidential election of
+>   1876 and the subsequent removal of the last federal troops from the
+>   South.
+> - In 1878, Democrats won control of both houses of Congress for the
+>   first time in twenty years
+> - The Redeemers, who controlled most state legislatures, continued to
+>   try to shrink the Black (and opposition white) electorate through
+>   gerrymandering, registration systems, complicated ballot
+>   configurations, and the secret ballot (which served as a de facto
+>   literacy test)
+
+## Shifting partisan winds
+
+> - National elections were extremely close and fiercely contested in
+>   the late 1870s and 1880s
+>   - congressional majorities were unstable
+>   - in 1884 Grover Cleveland became the first Democratic president
+>     since before the Civil War
+> - In the eyes of many Republicans, the Democrats’ success, their
+>   ability to wield national power, was illegitimate, dependent on
+>   wholesale violations of the Fifteenth Amendment in the South
+
+## Illegitimate power
+
+> - In its 1888 platform, the Republicans charged “ *that the present
+>   Administration and the Democratic majority owe their existence to
+>   the suppression of the ballot by a criminal nullification of the
+>   Constitution and laws of the United States.* ”
+> - After they were victorious in that year’s elections, the Republicans
+>   had a chance to do something about it: they had won the presidency
+>   and control of both houses of Congress
+>   - They proposed the *Federal Elections Bill*
+>   - a small number of petitions to federal circuit courts could lead
+>     to the appointment of federal supervisors were entrusted with:
+>     - attending elections, inspecting registration lists, verifying
+>       information given by doubtful voters, administering oaths to
+>       challenged voters, preventing illegal immigrants from voting,
+>       and certifying the count
+>   - the bill gave federal officials and courts the power to overturn
+>     election results that had been declared and certified by state
+>     officials
+
+## Federal Elections Bill
+
+> - The Republicans certainly stood to gain from fair elections in the
+>   South and from less corrupt elections in some Democratically run
+>   northern cities
+> - Those who voted for the enforcement acts of the 1870s (which were
+>   scaled back by the Courts), were enraged that the hard-won victories
+>   of war and Reconstruction were being undermined by fraud and
+>   violence.
+> - The Democrats, of course, fiercely opposed the bill, denouncing it
+>   as “a scheme to rob the people of the States of the dearest right of
+>   American citizenship.”
+> - Losing 35 to 24 with 19 abstentions, the federal government backed
+>   away from a significant expansion of its role in shaping electoral
+>   law and guaranteeing democratic rights
+>   - this occurred not only because the nation and the Congress were
+>     divided, but also because of back-door political dealing and
+>     accidents of timing
+
+## Federal Involvement
+
+> - This signaled to the South that the federal government was not
+>   prepared to act energetically to guarantee the voting rights of
+>   Blacks
+> - **Whatever the Fourteenth and Fifteenth Amendments said on paper,
+>   the right to vote was back in the hands of the states**
+> - Not until the 1960s, when the Lodge Force Bill was reincarnated as
+>   Lyndon Johnson’s *Voting Rights Act*, did Congress again seriously
+>   consider federal intervention in southern politics
+
+## Rollback
+
+> - The year 1890 also marked the beginning of systematic efforts by
+>   southern states to disfranchise Black voters legally
+> - Democrats chose to solidify their hold on the South by modifying the
+>   voting laws in ways that would exclude African Americans without
+>   overtly violating the Fifteenth Amendment.
+> - Experiments with these legal strategies had occurred in the 1870s
+>   and 1880s, but it was between 1890 and 1905 that they became the
+>   primary weapon in enforcing and institutionalizing Redeemer rule
+> - White Democrats turned back the clock on the broadly progressive
+>   franchise provisions that had been etched into most
+>   Reconstruction-era state constitutions
+
+## Mississippi
+
+> - Passed provisions that would remove Blacks from Mississippi
+>   political life while technically adhering to the Fifteenth Amendment
+> - These provisions included a sharp increase in the *residency*
+>   requirement (“the negro is … a nomadic tribe,” opined the state’s
+>   attorney general), the institution of a two-dollar *poll tax*, and
+>   the imposition of a *literacy test* that required potential voters
+>   to demonstrate that they could understand and interpret the
+>   Constitution
+> - **Other states quickly followed suit**
+
+## Suppression
+
+> - The overarching aim of such restrictions, usually undisguised, was
+>   to keep poor and illiterate Blacks–and in Texas, Mexican
+>   Americans–from the polls.
+> - Literacy tests served that goal well, since 50 percent of all Black
+>   men (as well as 15 percent of all whites) were illiterate, and even
+>   small tax requirements were a deterrent to the poor
+> - It was during this period that the meaning of poll tax shifted:
+>   where it once had referred to a head tax that every man had to pay
+>   and that sometimes could be used to satisfy a taxpaying requirement
+>   for voting, it came to be understood as a *tax that one had to pay
+>   in order to vote*
+
+## Uneven enforcement
+
+> - Small errors in registration procedures or marking ballots might or
+>   might not be ignored *at the whim* of election officials; taxes
+>   might be paid easily or only with difficulty
+> - Discrimination also was built into literacy tests, with their
+>   “*understanding*” clauses: officials administering the test could,
+>   and did, judge whether a prospective voter’s “*understanding*” was
+>   adequate *That, exactly, is what this Convention was elected for–to
+>   discriminate to the very extremity of permissible action under the
+>   limitations of the Federal Constitution, with a view to the
+>   elimination of every negro voter who can be gotten rid of, legally,
+>   without materially impairing the numerical strength of the white
+>   electorate.* \>- future Senator Carter Glass
+
+## Grandfather Clause
+
+> - Discrimination, as well as circumvention of the Fifteenth Amendment,
+>   was also the aim of the well-known grandfather clauses
+> - exempted men from literacy, tax, residency, or property requirements
+>   if they had performed military service or if their ancestors had
+>   voted in the 1860s.
+> - The first southern grandfather clause was adopted in South Carolina
+>   in 1890; with exquisite regional irony, it was modeled on the
+>   anti-immigrant Massachusetts law of 1857
+
+## Anti-white-opposition
+
+> - Contrary to twentieth-century images of a monolithic solid South,
+>   there was substantial white opposition to new restrictions on the
+>   franchise
+> - many upcountry whites, small farmers, Populists, and Republicans
+>   viewed such laws as a means of suppressing dissent, a
+>   self-interested and partisan grab for power by dominant, elite,
+>   often Black-belt Democrats
+> - This resulted in prolonged and bitter debates about the dangers of “
+>   *reform* ”
+
+## Effect of new suppression laws
+
+> - The laws, of course, worked.
+> - In Mississippi after 1890, less than 9,000 out of 147,000 voting-age
+>   Blacks were registered to vote
+> - In Louisiana, where more than 130,000 Blacks had been registered to
+>   vote in 1896, the figure dropped to an astonishing 1,342 by 1904
+
+## Voting Rates
+
+> - Just how many persons were barred from the polls is impossible to
+>   determine, but what is known is that both registration and turnout
+>   (calculated as the percentage of votes cast divided by the number of
+>   men of voting age) dropped precipitously after the electoral laws
+>   were reconfigured
+> - By 1910, in Georgia, only 4 percent of all Black males were
+>   registered to vote.
+> - In Mississippi, electoral turnout had exceeded 70 percent in the
+>   1870s and approached 50 percent in the decade after the Redeemers
+>   came to power: by the early twentieth century, it had plummeted to
+>   15 percent and remained at that level for decades.
+> - In the South as a whole, post-Reconstruction turnout levels of 60 to
+>   85 per-cent fell to 50 percent for whites and single digits for
+>   Blacks
+> - **The achievements of Reconstruction had been reversed, and the
+>   rollback had restored the southern electorate to–at best–pre–Civil
+>   War proportions**
+
+## What this all meant
+
+> - The African-American population remained largely disfranchised until
+>   the 1960s, electoral participation remained low, and one-party rule
+>   by conservative Democrats became the norm
+> - The nineteenth-century trend toward democratization had been not
+>   only checked, but reversed
+> - The increasingly egalitarian institutions and convictions forged
+>   before the Civil War were undermined, while class barriers to
+>   electoral participation were strengthened or resurrected
+
+## The North stood by
+
+> - All of which took place *without* great protest from the North
+>   - Although Republican politicians and newspapers routinely
+>     criticized the disfranchising laws, scattered efforts to enforce
+>     the Fourteenth Amendment–by reducing the congressional
+>     representation of southern states–garnered little support
+> - The Supreme Court upheld the legality of all of the major techniques
+>   of disfranchisement.
+> - In 1898 it ruled that Mississippi’s literacy test did not violate
+>   the Fifteenth Amendment because the law creating the test was not,
+>   *on its face*, designed to discriminate against Blacks
+> - **The North tolerated disfranchisement in the South – in part from
+>   weariness, in part due to the partisan interests of the Democratic
+>   Party, and in part because Northerners too had been losing faith in
+>   democracy**
+
+## The Redemption of the North
+
+## Elections in the 1870s-80s
+
+> - National elections were closely contested
+> - Control of Congress changed hands frequently
+> - Presidents were elected by razor-thin margins
+>   - sometimes with less than a majority of the popular vote
+
+## Third Parties
+
+> - Party identifications were strong, but third parties frequently
+>   cropped up
+> - Often gained substantial influence in state and local governments
+
+## Issues
+
+> - The issues animating political life were high stakes
+>   - The rapid spread of industrialization and class and interest-group
+>     conflict
+>   - The tariff and the money supply (which affected prices and the
+>     availability of credit) were issues in every national election
+> - Railroad rates and regulation often dominated state political
+>   contests
+> - City dwellers fought over the development and financing of
+>   increasingly necessary water, sewer, and transport systems
+
+## Corporate interests v. workers and farmers
+
+> - Continued uncertainty about the proper role of the state
+> - Corporations became more powerful in light of industrialization
+>   - Workers sought legislation to shorten the hours of labor
+>   - Small businesses cried out against monopolies
+> - Railroads controlled access to markets
+>   - Farmers and shippers pressed the states and DC to protect them
+>     against the predatory railroads
+
+## Economic and Cultural issues
+
+> - Urban consumers demanded regulation of utility companies
+> - The sale of liquor was a life-and-death issue in many elections
+> - **Politics revolved around the myriad consequences of the
+>   increasingly evident triumph of industrial capitalism**
+
+## Fate of the South
+
+> - Critical election of 1896, which yielded a new and long-lasting
+>   partisan alignment
+>   - The tone of political life shifted, although the dominant issues
+>     remained the same
+> - The fate of the South was settled (removing one key contentious
+>   issue from the political arena), the Republican Party securely
+>   dominated much of the North-east and Midwest
+>   - third-party rebellions became infrequent
+>   - Electoral turnout fell, North and South
+>   - Political parties experienced a decline in enthusiasm and loyalty
+
+## Changing country
+
+> - Between 1865 and 1900, the United States became the leading
+>   manufacturing nation in the world
+>   - its industrial output eclipsed that of agriculture
+>   - the population more than doubled from 35 million to 75 million
+> - Non-farm employment tripled
+>   - More than 10,000,000 people worked in manufacturing, mining,
+>     construction, and transportation
+
+## Older Americans
+
+> - To older Americans, what America looked like post-Civil War was
+>   disturbing
+> - new industries
+> - large and impersonal workplaces
+> - private corporations wielding enormous economic and political power
+> - economic panics that created new problems such as mass unemployment
+> - They saw abandoned farms, railroads crisscrossing vast stretches of
+>   country, and–distressingly–cities of unprecedented size and
+>   complexity.
+
+## Growing American Cities
+
+> - In 1870, only New York and Philadelphia had populations greater than
+>   500,000;
+> - By 1910, there were eight, three of which contained more than a
+>   million people
+>   - these cities increasingly were governed by political organizations
+>     (political machines)
+>   - the traditional elites could not control or even understand
+
+## Immigrants and labor
+
+> - What these Americans most feared was the extremely rapid growth of
+>   an immigrant working class.
+> - The flow of immigrants that had begun in the 1840s resumed quickly
+>   after the Civil War
+>   - the nation’s expanding industries needed labor
+>   - Most came from Europe and to a far lesser extent Asia and Mexico.
+
+## Immigrants
+
+> - Between 1865 and World War I, nearly twenty-five million immigrants
+>   journeyed to the United States
+>   - 25% of the 1917 (WWI)population was immigrant
+> - The vast majority of these immigrants were propertyless workers
+>   rather than settlers.
+> - The Irish and Germans continued to arrive
+> - A growing numbers of southern and eastern Europeans came. They:
+>   - did not speak English
+>   - cultures were alien
+>   - most were Catholic or Jewish
+
+> - **By 1910, most urban residents were immigrants or the children of
+>   immigrants, and the nation’s huge working class was predominantly
+>   foreign-born, native-born of foreign parents, or Black**
+
+## Immigrant electoral behavior
+
+> - To many old-stock Americans, the mass of immigrant workers was an
+>   unwelcome addition to the electorate
+>   - immigrants were seen as being:
+>     - poor
+>     - uneducated
+>     - ignorant of (American) traditions
+>     - lacked judgment, knowledge, and commitment to American values
+> - They were also radicals (socialist in later decades) who:
+>   - struck or rioted against the railroads and corporations
+> - They also supported political machines
+>   - ethnic loyalty in exchange for favors for votes
+
+## More objections to immigrant voting
+
+> - They purportedly were prone to voting illegally, irresponsibly, and
+>   against the interests of their betters
+> - Charges of corruption and naturalization fraud were repeated
+>   endlessly
+>   - electoral outcomes were twisted by “naturalization mills” that,
+>     with the aid of “professional perjurers and political
+>     manipulators,” transformed thousands of immigrants into citizens
+>     in the weeks before elections
+>   - even if their votes were legal, they were inappropriately cast,
+>     bartered for jobs or favors from a boss
+
+## Decline of democracy
+
+> - Within a few years of passage of the Fifteenth Amendment, a
+>   significant segment of the intellectual community was announcing its
+>   distrust of democracy and rejecting the claim that suffrage was a
+>   right
+> - The breadth of the franchise – particularly extension of the
+>   franchise to the poor, uneducated, and foreign-born – was once again
+>   a live issue
+> - The terms of public discussion were being set by men who believed
+>   that *universal suffrage* had failed, and that it was neither viable
+>   nor desirable in the socially heterogeneous, industrial world of the
+>   late nineteenth century
+
+## Reforms against suffrage
+
+> - Proposals for reducing the electorate began to find their way onto
+>   the public agenda in the 1870s and remained there for decades
+> - Proposals included:
+>   - less frequent elections
+>   - at-large rather than district voting
+>   - increased public accountability for office holders
+>   - state control over key arenas of municipal administration
+>   - remove public offices from the electoral sphere and make them
+>     appointive
+>     - It was “absurd” to involve the electorate in “the selection of
+>       judges and sheriffs, and district attorneys, of state treasurers
+>       and attorney-generals, of school commissioners and civil
+>       engineers.”
+>     - **In other words, democracy could be salvaged by circumscribing
+>       its domain**
+
+## Reforms to strength democracy
+
+> - Other critics were more optimistic about the possibilities of
+>   changing the size and shape of the electorate
+> - Some advocated reinstituting property and tax qualifications or
+>   imposing literacy tests on prospective voters
+> - More subtle approaches also were proposed, including
+>   - longer residence periods
+>   - stricter naturalization laws
+>   - waiting periods before new citizens could vote
+>   - complex ballot laws
+>   - elaborate systems of voter registration
+
+## Revising the rules
+
+> - The laws governing elections in most states were revised often
+>   between the Civil War and World War I
+> - States held constitutional conventions that defined or redefined the
+>   shape of the electorate and outlined of the electoral process
+> - State legislatures drew up increasingly detailed statutes that
+>   spelled out electoral procedures of all types
+>   - timing of elections
+>   - location of polling places
+>   - hours that polls would be open
+>   - configuration of ballots
+>   - counting of votes
+> - Many of these laws were straightforwardly administrative, while
+>   other laws were more controversial, inspired by partisan interests,
+>   enacted to influence the outcome of elections
+
+## Institutional reforms
+
+> - The apportionment of state legislative as well as congressional
+>   seats was a key issue, generating recurrent conflicts, particularly
+>   between urban and rural areas
+> - Linked to apportionment was the location of district boundaries in
+>   states and within cities
+>   - gerrymandering was a routine form of political combat
+>   - it was practiced by both major parties against one another and
+>     against any upstart political organizations
+> - Technical rules governing the presence of parties and candidates on
+>   the ballot also were subjects of contention
+>   - they could encourage, or discourage, third parties and fusion
+>     slates
+
+## The electorate
+
+> - The most critical laws remained those that determined the size and
+>   contours of the electorate
+> - These were of two types.
+>   - First and most important were those that set out the fundamental
+>     qualifications that a man (or woman) had to meet in order to
+>     become an eligible voter
+>   - The second, of increasing significance, established the procedures
+>     that a potential voter had to follow in order to participate in
+>     elections
+> - **The Constitution and federal courts had little to say about
+>   suffrage (outside of race), and therefore the rules remained under
+>   *state control***
+
+## Economic qualifications
+
+> - Contrary to received wisdom, economic requirements for voting were
+>   not a dead issue after 1850
+> - Economic qualifications continued to offer opponents of universal
+>   suffrage a direct and potentially efficient means of winnowing out
+>   undesirable voters
+> - The tax requirement had served as an obstacle to poor people’s
+>   voting and as a drain on the treasuries of both political parties
+> - By the late 1880s, the Massachusetts Democratic Party–with more
+>   working-class supporters and thus greater financial
+>   exposure–reportedly was spending \$50,000 at each election to pay
+>   the poll taxes of its supporters
+
+## Court on economic constraints
+
+> - The U.S. Supreme Court made clear that it too did not see anything
+>   unconstitutional about taxpaying or property requirements in
+>   *Myers v. Anderson* in 1915
+> - The Court thus found the law to be racially discriminatory in
+>   violation of the Fifteenth Amendment; at the same time, however, it
+>   noted that economic discrimination in the form of a property
+>   requirement was presumed to be “free from constitutional objection.”
+
+## The Right to Vote in the Constitution
+
+> - Congress and state legislatures had created laws that would have
+>   been unthinkable in 1860 or even 1865.
+> - The words *right to vote* were penned into the nation’s Constitution
+>   for the first time, announcing a new, active role for the federal
+>   government in defining democracy
+> - **The celebrations of the Black community would soon prove to be
+>   premature, and the unresolved tension between federal and state
+>   authorities would vibrate for another century**
+
+## Voting Rights under attack
+
+> - Even before Reconstruction came to a quasi-formal end in 1877, Black
+>   voting rights were under attack
+> - Elections were hotly contested, and white Southerners, seeking to
+>   “*redeem*” the region from Republican rule, engaged in both legal
+>   and extralegal efforts to limit the political influence of freedmen
+> - In the early 1870s, both in the South and in the border states,
+>   districts were gerrymandered, precincts reorganized, and polling
+>   places closed to hinder Black political participation
+> - Organizations such as the Ku Klux Klan mounted violent campaigns
+>   against Blacks who sought to vote or hold office, as well as their
+>   white Republican allies
+
+## Enforcement & KKK Acts
+
+> - In May 1870, stretching the limits of its constitutional powers,
+>   Congress passed an Enforcement Act that made **interference with
+>   voting a federal offense, punishable in federal courts**
+>   - federal courts were presumed to be more reliable than state courts
+> - It also passed the *Ku Klux Klan Act*, which, among its provisions,
+>   authorized the president to **deploy the army to protect the
+>   electoral process**
+
+## Losing enthusiasm
+
+> - By the mid-1870s, many northern Republicans, including President
+>   Grant, had lost their enthusiasm for policing the South
+> - Preoccupied with an economic depression and labor conflict in the
+>   North, they wearily drifted toward a “*let alone policy*”
+> - In September 1875, one Republican newspaper referred to the
+>   Fourteenth and \_Fifteenth Amendment_s as “dead letters”
+
+## Southern Redeemers
+
+> - The Redeemers who were gaining power throughout the South in the
+>   1870s had goals that were at once *political*, *social*, and
+>   *economic*
+> - Most immediately they sought to drive the Republicans from power and
+>   elect Democrats, an objective hard to attain in a fully enfranchised
+>   South
+>   - Limiting Black voting therefore was a means to a end.
+> - Keeping freedmen from the polls was also a means of rebuffing
+>   broader claims to equality, a way of returning Blacks to “*their
+>   place*,” of making clear that, whatever the *Fourteenth Amendment*
+>   said, **Blacks did not enjoy full citizenship**
+
+## Rising Redeemers
+
+> - The pace of Redemption was quickened by the presidential election of
+>   1876 and the subsequent removal of the last federal troops from the
+>   South.
+> - In 1878, Democrats won control of both houses of Congress for the
+>   first time in twenty years
+> - The Redeemers, who controlled most state legislatures, continued to
+>   try to shrink the Black (and opposition white) electorate through:
+>   - gerrymandering
+>   - registration systems
+>   - complicated ballot configurations
+>   - the secret ballot (which served as a *de facto* literacy test)
+
+## Shifting partisan winds
+
+> - National elections were extremely close and fiercely contested in
+>   the late 1870s and 1880s
+>   - congressional majorities were unstable
+>   - Grover Cleveland (in 1884) became the first Democratic president
+>     since before the Civil War
+> - In the eyes of many Republicans, the Democrats’ success, their
+>   ability to wield national power, was illegitimate, dependent on
+>   wholesale violations of the *Fifteenth Amendment* in the South
+
+## Illegitimate power
+
+> - In its 1888 platform, the Republicans charged “*that the present
+>   Administration and the Democratic majority owe their existence to
+>   the suppression of the ballot by a criminal nullification of the
+>   Constitution and laws of the United States.*”
+> - After they were victorious in that year’s elections, the Republicans
+>   had a chance to do something about it: they had won the presidency
+>   and control of both houses of Congress
+>   - They proposed the *Federal Elections Bill*
+>   - a small number of petitions to federal circuit courts could lead
+>     to the appointment of federal supervisors were entrusted with:
+>     - attending elections, inspecting registration lists, verifying
+>       information given by doubtful voters, administering oaths to
+>       challenged voters, preventing illegal immigrants from voting,
+>       and certifying the count
+>   - the bill gave federal officials and courts the power to overturn
+>     election results that had been declared and certified by state
+>     officials
+
+## Federal Elections Bill
+
+> - The Republicans certainly stood to gain from fair elections in the
+>   South and from less corrupt elections in some Democratically run
+>   northern cities
+> - Those who voted for the enforcement acts of the 1870s (which were
+>   scaled back by the Courts), were enraged that the hard-won victories
+>   of war and Reconstruction were being undermined by fraud and
+>   violence.
+> - The Democrats, of course, fiercely opposed the bill, denouncing it
+>   as “a scheme to rob the people of the States of the dearest right of
+>   American citizenship.”
+> - Losing 35 to 24 with 19 abstentions, the federal government backed
+>   away from a significant expansion of its role in shaping electoral
+>   law and guaranteeing democratic rights
+>   - this occurred not only because the nation and the Congress were
+>     divided, but also because of back-door political dealing and
+>     accidents of timing
+
+## Federal Involvement
+
+> - This signaled to the South that the federal government was not
+>   prepared to act energetically to guarantee the voting rights of
+>   Blacks
+> - \*\*Whatever the Fourteenth and \_Fifteenth Amendment_s said on
+>   paper, the right to vote was back in the hands of the states\*\*
+> - Not until the 1960s, when the Lodge Force Bill was reincarnated as
+>   Lyndon Johnson’s *Voting Rights Act*, did Congress again seriously
+>   consider federal intervention in southern politics
+
+## Black members of Congress
+
+![](img/black-congress.png)
+
+## Black members of Congress
+
+![](img/black-congress-map.png)
+
+## Rollback
+
+> - The year 1890 also marked the beginning of systematic efforts by
+>   southern states to disfranchise Black voters legally
+> - Democrats chose to solidify their hold on the South by modifying the
+>   voting laws in ways that would exclude African Americans without
+>   overtly violating the *Fifteenth Amendment*.
+> - Experiments with these legal strategies had occurred in the 1870s
+>   and 1880s, but it was between 1890 and 1905 that they became the
+>   primary weapon in enforcing and institutionalizing Redeemer rule
+> - White Democrats turned back the clock on the broadly progressive
+>   franchise provisions that had been etched into most
+>   Reconstruction-era state constitutions
+
+## Mississippi
+
+> - Mississippi passed provisions that would remove Blacks from
+>   political life while technically adhering to the *Fifteenth
+>   Amendment*
+> - These provisions included:
+>   - a sharp increase in the *residency* requirement (“the negro is … a
+>     nomadic tribe,” opined the state’s attorney general)
+>   - the institution of a two-dollar *poll tax*
+>   - the imposition of a *literacy test* that required potential voters
+>     to demonstrate that they could understand and interpret the
+>     Constitution
+> - **Other states quickly followed suit**
+
+## Suppression
+
+> - The overarching aim of such restrictions, usually undisguised, was
+>   to keep poor and illiterate Blacks –and in Texas, Mexican Americans–
+>   from the polls.
+>   - Literacy tests served that goal well, since 50 percent of all
+>     Black men (as well as 15 percent of all whites) were illiterate
+>   - Even small tax requirements were a deterrent to the poor
+> - It was during this period that the meaning of poll tax shifted:
+>   where it once had referred to a head tax that every man had to pay
+>   and that sometimes could be used to satisfy a taxpaying requirement
+>   for voting, it came to be understood as a *tax that one had to pay
+>   in order to vote*
+
+## Uneven enforcement
+
+> - Small errors in registration procedures or marking ballots might or
+>   might not be ignored *at the whim* of election officials; taxes
+>   might be paid easily or only with difficulty
+> - Discrimination also was built into literacy tests, with their
+>   “*understanding*” clauses: officials administering the test could,
+>   and did, judge whether a prospective voter’s “*understanding*” was
+>   adequate
+> - *That, exactly, is what this Convention was elected for –to
+>   discriminate to the very extremity of permissible action under the
+>   limitations of the Federal Constitution, with a view to the
+>   elimination of every negro voter who can be gotten rid of, legally,
+>   without materially impairing the numerical strength of the white
+>   electorate.*
+>   - future Senator Carter Glass
+
+## Grandfather Clause
+
+> - Circumvention of the *Fifteenth Amendment*, as well as
+>   discriination, was the aim of grandfather clauses
+>   - Grandfather clauses exempted men from literacy, tax, residency, or
+>     property requirements if they had performed military service or if
+>     their ancestors had voted in the 1860s.
+>   - The first southern grandfather clause was adopted in South
+>     Carolina in 1890; with exquisite regional irony, it was modeled on
+>     the anti-immigrant Massachusetts law of 1857
+
+## Anti-white-opposition
+
+> - Contrary to twentieth-century images of a monolithic solid South,
+>   there was substantial white opposition to new restrictions on the
+>   franchise
+>   - many small farmers, Populists, and Republicans viewed such laws as
+>     a means of suppressing dissent, a self-interested and partisan
+>     grab for power by dominant, elite, often Black-belt Democrats
+>   - This resulted in prolonged and bitter debates about the dangers of
+>     “*reform*”
+
+## Effect of new suppression laws
+
+> - The laws, of course, worked.
+> - In Mississippi after 1890, less than 9,000 out of 147,000 voting-age
+>   Blacks were registered to vote
+> - In Louisiana, where more than 130,000 Blacks had been registered to
+>   vote in 1896, the figure dropped to an astonishing 1,342 by 1904
+
+## Voting Rates
+
+> - Just how many persons were barred from the polls is impossible to
+>   determine, but what is known is that both registration and turnout
+>   (calculated as the percentage of votes cast divided by the number of
+>   men of voting age) dropped precipitously after the electoral laws
+>   were reconfigured
+>   - By 1910, in Georgia, only 4 percent of all Black males were
+>     registered to vote.
+>   - In Mississippi, electoral turnout had exceeded 70 percent in the
+>     1870s and approached 50 percent in the decade after the Redeemers
+>     came to power: by the early twentieth century, it had plummeted to
+>     15 percent and remained at that level for decades.
+> - In the South as a whole, post-Reconstruction turnout levels of 60 to
+>   85 percent fell to 50 percent for whites and single digits for
+>   Blacks
+> - **The achievements of Reconstruction had been reversed, and the
+>   rollback had restored the southern electorate to–at best–pre–Civil
+>   War proportions**
+
+## What this all meant
+
+> - The African-American population remained largely disfranchised until
+>   the 1960s, electoral participation remained low, and one-party rule
+>   by conservative Democrats became the norm
+> - The nineteenth-century trend toward democratization had been not
+>   only checked, but reversed
+> - The increasingly egalitarian institutions and convictions forged
+>   before the Civil War were undermined, while class barriers to
+>   electoral participation were strengthened or resurrected
+
+## The North stood by
+
+> - All of which took place *without* great protest from the North
+>   - Although Republican politicians and newspapers routinely
+>     criticized the disfranchising laws, scattered efforts to enforce
+>     the *Fourteenth Amendment* by reducing the congressional
+>     representation of southern states garnered little support
+> - The Supreme Court upheld the legality of all of the major techniques
+>   of disfranchisement
+>   - In 1898 it ruled that Mississippi’s literacy test did not violate
+>     the *Fifteenth Amendment* because the law creating the test was
+>     not, *on its face*, designed to discriminate against Blacks
+> - **The North tolerated disfranchisement in the South – in part from
+>   weariness, in part due to the partisan interests of the Democratic
+>   Party, and in part because Northerners too had been losing faith in
+>   democracy**
+
+## The Redemption of the North
+
+## Elections in the 1870s-80s
+
+> - National elections were closely contested
+> - Control of Congress changed hands frequently
+> - Presidents were elected by razor-thin margins
+>   - sometimes with less than a majority of the popular vote
+
+## Third Parties
+
+> - Party identifications were strong, but third parties frequently
+>   cropped up
+> - They often gained substantial influence in state and local
+>   governments
+> - They did not last long as their issues were absorbed by the major
+>   parties
+
+## Issues that were important
+
+> - The issues animating political life were high stakes
+>   - The rapid spread of industrialization and class and interest-group
+>     conflict
+>   - The tariff and the money supply (which affected prices and the
+>     availability of credit) were issues in every national election
+> - Railroad rates and regulation often dominated state political
+>   contests
+> - City dwellers fought over the development and financing of
+>   increasingly necessary water, sewer, and transport systems
+
+## Corporate interests v. workers and farmers
+
+> - There remained uncertainty about the proper role of the state
+> - Corporations became more powerful in light of industrialization
+>   - Workers sought legislation to shorten the hours of labor
+>   - Small businesses cried out against monopolies
+> - Railroads controlled access to markets
+>   - Farmers and shippers pressed the states and DC to protect them
+>     against the predatory railroads
+
+## Economic and Cultural issues
+
+> - Urban consumers demanded regulation of utility companies
+> - The sale of liquor was a life-and-death issue in many elections
+> - **Politics revolved around the myriad consequences of the
+>   increasingly evident triumph of industrial capitalism**
+
+## Fate of the South
+
+> - Critical election of 1896 yielded a new and long-lasting partisan
+>   alignment
+>   - The tone of political life shifted, although the dominant issues
+>     (industrialization) remained the same
+> - The fate of the South was settled (removing one key contentious
+>   issue from the political arena), the Republican Party securely
+>   dominated much of the North-east and Midwest
+>   - third-party rebellions became infrequent
+>   - Electoral turnout fell, North and South
+>   - Political parties experienced a decline in enthusiasm and loyalty
+
+## Changing country
+
+> - Between 1865 and 1900, the United States became the leading
+>   manufacturing nation in the world
+>   - its industrial output eclipsed that of agriculture
+>   - the population more than doubled from 35 million to 75 million
+> - Non-farm employment tripled
+>   - More than 10,000,000 people worked in manufacturing, mining,
+>     construction, and transportation
+
+## Older Americans
+
+> - For older Americans, what America looked like post-Civil War was
+>   disturbing
+>   - new industries
+>   - large and impersonal workplaces
+>   - private corporations wielding enormous economic and political
+>     power
+>   - economic panics that created new problems such as mass
+>     unemployment
+>   - They saw abandoned farms, railroads crisscrossing vast stretches
+>     of country, and–distressingly–cities of unprecedented size and
+>     complexity.
+
+## Growing American Cities
+
+> - In 1870, only New York and Philadelphia had populations greater than
+>   500,000;
+> - By 1910, there were eight, three of which contained more than a
+>   million people
+>   - these cities increasingly were governed by political organizations
+>     (political machines)
+>   - the traditional elites could not control or even understand
+
+## Immigrants and labor
+
+> - What these Americans most feared was the extremely rapid growth of
+>   an immigrant working class
+> - The flow of immigrants that had begun in the 1840s resumed quickly
+>   after the Civil War
+>   - the nation’s expanding industries needed labor
+>   - most came from Europe and to a far lesser extent Asia and Mexico.
+
+## Immigrants
+
+> - Between 1865 and World War I, nearly twenty-five million immigrants
+>   journeyed to the United States
+>   - 25% of the 1917 (WWI)population was immigrant
+> - The vast majority of these immigrants were propertyless workers
+>   rather than settlers.
+> - The Irish and Germans continued to arrive
+> - A growing numbers of southern and eastern Europeans came. They:
+>   - did not speak English
+>   - cultures were alien
+>   - most were Catholic or Jewish
+
+> - **By 1910, most urban residents were immigrants or the children of
+>   immigrants, and the nation’s huge working class was predominantly
+>   foreign-born, native-born of foreign parents, or Black**
+
+## Immigrant electoral behavior
+
+> - To many old-stock Americans, the mass of immigrant workers was an
+>   unwelcome addition to the electorate
+>   - immigrants were seen as being:
+>     - poor
+>     - uneducated
+>     - ignorant of (American) traditions
+>     - lacked judgment, knowledge, and commitment to American values
+> - They were also radicals (socialist in later decades) who:
+>   - struck or rioted against the railroads and corporations
+> - They also supported political machines
+>   - ethnic loyalty in exchange for favors for votes
+
+## More objections to immigrant voting
+
+> - They purportedly were prone to voting illegally, irresponsibly, and
+>   against the interests of their betters
+> - Charges of corruption and naturalization fraud were repeated
+>   endlessly
+>   - electoral outcomes were twisted by “naturalization mills” that,
+>     with the aid of “professional perjurers and political
+>     manipulators,” transformed thousands of immigrants into citizens
+>     in the weeks before elections
+>   - even if their votes were legal, they were inappropriately cast,
+>     bartered for jobs or favors from a boss
+
+## Decline of democracy
+
+> - Within a few years of passage of the *Fifteenth Amendment*, a
+>   significant segment of the intellectual community was announcing its
+>   distrust of democracy and rejecting the claim that suffrage was a
+>   right
+> - The breadth of the franchise –particularly extension of the
+>   franchise to the poor, uneducated, and foreign-born– was once again
+>   a live issue
+> - The terms of public discussion were being set by men who believed
+>   that *universal suffrage* had failed, and that it was neither viable
+>   nor desirable in the socially heterogeneous, industrial world of the
+>   late nineteenth century
+
+## Reforms against suffrage
+
+> - Proposals for reducing the electorate began to find their way onto
+>   the public agenda in the 1870s and remained there for decades
+> - Proposals included:
+>   - less frequent elections
+>   - at-large rather than district voting
+>   - increased public accountability for office holders
+>   - state control over key arenas of municipal administration
+>   - remove public offices from the electoral sphere and make them
+>     appointive
+>     - It was “absurd” to involve the electorate in “the selection of
+>       judges and sheriffs, and district attorneys, of state treasurers
+>       and attorney-generals, of school commissioners and civil
+>       engineers.”
+>     - In other words, democracy could be salvaged by circumscribing
+>       its domain

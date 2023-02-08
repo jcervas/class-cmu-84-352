@@ -7,11 +7,11 @@ output:
     variant: gfm
   beamer_presentation:
     keep_tex: false
-  pdf_document:
-    keep_tex: false
   html_document:
     theme: yeti
     highlight: textmate
+  pdf_document:
+    keep_tex: false
 ---
 
 ```{r setup, include=FALSE}
@@ -528,7 +528,8 @@ Also problematic—in the long run—was the Constitution’s failure to guarant
 
 ## Eroding Economic Barriers
 
-- In 1808, Congress modified the property qualifications in the Northwest Ordinance; three years later it acted more decisively, enfranchising all_free white males_ who had paid taxes and resided in the territory
+- In 1808, Congress modified the property qualifications in the Northwest Ordinance
+     + three years later it acted more decisively, enfranchising all _free white males_ who had paid taxes and resided in the territory
 
 - Between 1830 and 1855, six states relinquished their insistence that voters pay taxes, leaving only six others with taxpaying clauses, several of which were quite minimal
 
@@ -1059,7 +1060,7 @@ _Order of the Star Spangled Banner became known as "know-nothings" because they 
 
 ## Defeat of universal manhood suffrage
 
-- Prior to the passage of the Fifteenth Amendment, only Iowa and Minnesota, in 1868, adopted impartial suffrage, and the Minnesota vote was facilitated by wording that masked the subject of the referendum.
+- Prior to the passage of the _Fifteenth Amendment_, only Iowa and Minnesota, in 1868, adopted impartial suffrage, and the Minnesota vote was facilitated by wording that masked the subject of the referendum.
 
 - Although most northern Republicans supported Black suffrage, Democrats adamantly were opposed, and they generally were _joined by enough Republicans_ to guarantee popular or legislative defeat of any reforms
 
@@ -1075,9 +1076,9 @@ _Order of the Star Spangled Banner became known as "know-nothings" because they 
 
 - They did seek to guarantee the civil rights of Blacks and promote greater racial equality in southern society – but _not yet_ **Black enfranchisement**
 
-## Fourteenth Amendment
+## _Fourteenth_ Amendment
 
-- The moderate majority of Republicans in Congress negotiated the passage of the Fourteenth Amendment in June 1866.
+- The moderate majority of Republicans in Congress negotiated the passage of the _Fourteenth_ Amendment in June 1866.
 
 - A compromise measure, the amendment was designed to 
   - punish Confederate political leaders (by preventing them from holding office) 
@@ -1088,35 +1089,35 @@ _Order of the Star Spangled Banner became known as "know-nothings" because they 
 
 ## XIV Amendment
 
-Fourteenth Amendment:
+_Fourteenth_ Amendment:
 
 * Section 1
  * **All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.**
 
 ## XIV Amendment
 
-Fourteenth Amendment:
+_Fourteenth_ Amendment:
 
 * Section 2
  * **Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.**
 
 ## XIV Amendment
 
-Fourteenth Amendment:
+_Fourteenth_ Amendment:
 
 * Section 3
  * **No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.**
 
 ## XIV Amendment
 
-Fourteenth Amendment:
+_Fourteenth_ Amendment:
 
 * Section 4
  * **The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.**
 
 ## XIV Amendment
 
-Fourteenth Amendment:
+_Fourteenth_ Amendment:
 
 * Section 5
  * **The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.**
@@ -1134,7 +1135,7 @@ Fourteenth Amendment:
 
 - The use of the word male constituted a de facto recognition of the legitimacy of excluding women from electoral politics
 
-- The Fourteenth Amendment was fiercely opposed by President Johnson, white Southerners, and northern Democrats
+- The _Fourteenth_ Amendment was fiercely opposed by President Johnson, white Southerners, and northern Democrats
 
 ## New appetite for Black enfranchisement
 
@@ -1159,7 +1160,7 @@ Fourteenth Amendment:
 
 The act was the legal centerpiece of Radical Reconstruction
   - it _denied recognition to the existing state governments of the South _ and authorized _continued military rule_ of the region under the control of Congress.
-  - In order to terminate such rule and be fully readmitted to the Union, each southern state was required to ratify the Fourteenth Amendment and to approve, by manhood suffrage, a state constitution that permitted Blacks to vote on the same terms as whites.
+  - In order to terminate such rule and be fully readmitted to the Union, each southern state was required to ratify the _Fourteenth_ Amendment and to approve, by manhood suffrage, a state constitution that permitted Blacks to vote on the same terms as whites.
 
 - President Johnson vetoed the bill, but his veto was quickly overridden. 
 
@@ -1167,7 +1168,7 @@ The act was the legal centerpiece of Radical Reconstruction
 
 ## Black Voting
 
-- In 1867 and 1868, African Americans, working with white Unionists and Republicans, in the South, elected new state governments, wrote progressive constitutions that included manhood suffrage provisions, and ratified the Fourteenth Amendment
+- In 1867 and 1868, African Americans, working with white Unionists and Republicans, in the South, elected new state governments, wrote progressive constitutions that included manhood suffrage provisions, and ratified the _Fourteenth_ Amendment
 
 - Black enthusiasm for political participation was so great that freedmen often put down their tools and ceased working when elections or conventions were being held
 
@@ -1206,7 +1207,7 @@ The act was the legal centerpiece of Radical Reconstruction
 
 ## Amendment XV Debate
 
-- Debate on the Fifteenth Amendment was the first time since the constitutional convention in Philadelphia that the national government of the United States had grappled directly and extensively with the issue of voting rights
+- Debate on the _Fifteenth Amendment_ was the first time since the constitutional convention in Philadelphia that the national government of the United States had grappled directly and extensively with the issue of voting rights
 
 - The debate began with a strategic focus on the rights of African Americans, particularly in the South, but it soon broadened into a far-reaching consideration of the **meaning of democracy and the power of the national government**
 
@@ -1272,7 +1273,7 @@ The act was the legal centerpiece of Radical Reconstruction
   - it was passed easily only in New England, where Blacks already voted, and in the South, where the federal government had already intervened to compel Black enfranchisement
   - Elsewhere, battles over ratification were closely fought and heavily partisan
 
-- On the West Coast, especially in California, opposition to the Fifteenth Amendment was fueled by the anti-Chinese furor that would sour the region’s politics for decades: 
+- On the West Coast, especially in California, opposition to the _Fifteenth Amendment_ was fueled by the anti-Chinese furor that would sour the region’s politics for decades: 
   - whites, including many working-class whites, feared that the amendment would 
   - enfranchise the Chinese
   - encourage further Chinese immigration 
@@ -1284,9 +1285,9 @@ The act was the legal centerpiece of Radical Reconstruction
 - What opponents of a broad amendment rejected in the end was the abolition of discrimination based on nativity, religion, property, and education
   - They wanted to retain the power to limit the political participation of the Irish and Chinese, Native Americans, and the increasingly visible clusters of illiterate and semi-literate workers massing in the nation’s cities
 
-- As Henry Adams astutely observed, the Fifteenth Amendment was "more remarkable for what it does not than for what it does contain."
+- As Henry Adams astutely observed, the _Fifteenth Amendment_ was "more remarkable for what it does not than for what it does contain."
 
-**The Fifteenth Amendment was certainly a landmark in the history of the right to vote. The federal government enfranchised more than a million men who only a decade earlier had been slave**
+**The _Fifteenth Amendment_ was certainly a landmark in the history of the right to vote. The federal government enfranchised more than a million men who only a decade earlier had been slave**
 
 ## Amendment XV
 
@@ -1328,13 +1329,13 @@ Section 2
 ## Losing enthusiasm
 >- By the mid-1870s, many northern Republicans, including President Grant, had lost their enthusiasm for policing the South
 >- Preoccupied with an economic depression and labor conflict in the North, they wearily drifted toward a "_let alone policy_"
->- In September 1875, one Republican newspaper referred to the Fourteenth and Fifteenth Amendments as "dead letters"
+>- In September 1875, one Republican newspaper referred to the _Fourteenth_ and _Fifteenth Amendments_ as "dead letters"
 
 ## Southern Redeemers
 >- The Redeemers who were gaining power throughout the South in the 1870s had goals that were at once _political_, _social_, and _economic_
 >- Most immediately they sought to drive the Republicans from power and elect Democrats, an objective hard to attain in a fully enfranchised South.
 >     + Limiting Black voting therefore was a means to a end.
->- Keeping freedmen from the polls was also a means of rebuffing broader claims to equality, a way of returning Blacks to " _their place_ ," of making clear that, whatever the Fourteenth Amendment said, **Blacks did not enjoy full citizenship**
+>- Keeping freedmen from the polls was also a means of rebuffing broader claims to equality, a way of returning Blacks to "_their place_", and **making clear that whatever the _Fourteenth_ Amendment said, _Blacks did not enjoy full citizenship_**
 
 ## Rising Redeemers
 >- The pace of Redemption was quickened by the presidential election of 1876 and the subsequent removal of the last federal troops from the South.
@@ -1345,7 +1346,7 @@ Section 2
 >- National elections were extremely close and fiercely contested in the late 1870s and 1880s
 >     + congressional majorities were unstable
 >     + in 1884 Grover Cleveland became the first Democratic president since before the Civil War
->- In the eyes of many Republicans, the Democrats’ success, their ability to wield national power, was illegitimate, dependent on wholesale violations of the Fifteenth Amendment in the South
+>- In the eyes of many Republicans, the Democrats’ success, their ability to wield national power, was illegitimate, dependent on wholesale violations of the _Fifteenth Amendment_ in the South
 
 ## Illegitimate power
 >- In its 1888 platform, the Republicans charged "_that the present Administration and the Democratic majority owe their existence to the suppression of the ballot by a criminal nullification of the Constitution and laws of the United States_"
@@ -1364,17 +1365,17 @@ Section 2
 
 ## Federal Involvement
 >- This signaled to the South that the federal government was not prepared to act energetically to guarantee the voting rights of Blacks
->- **Whatever the Fourteenth and Fifteenth Amendments said on paper, the right to vote was back in the hands of the states**
+>- **Whatever the _Fourteenth_ and _Fifteenth Amendments_ said on paper, the right to vote was back in the hands of the states**
 >- Not until the 1960s, when the Lodge Force Bill was reincarnated as Lyndon Johnson’s _Voting Rights Act_, did Congress again seriously consider federal intervention in southern politics
 
 ## Rollback
 >- The year 1890 also marked the beginning of systematic efforts by southern states to disfranchise Black voters legally
->- Democrats chose to solidify their hold on the South by modifying the voting laws in ways that would exclude African Americans without overtly violating the Fifteenth Amendment.
+>- Democrats chose to solidify their hold on the South by modifying the voting laws in ways that would exclude African Americans without overtly violating the _Fifteenth Amendment_.
 >- Experiments with these legal strategies had occurred in the 1870s and 1880s, but it was between 1890 and 1905 that they became the primary weapon in enforcing and institutionalizing Redeemer rule
 >- White Democrats turned back the clock on the broadly progressive franchise provisions that had been etched into most Reconstruction-era state constitutions
 
 ## Mississippi
->- Passed provisions that would remove Blacks from Mississippi political life while technically adhering to the Fifteenth Amendment
+>- Passed provisions that would remove Blacks from Mississippi political life while technically adhering to the _Fifteenth Amendment_
 >- These provisions included a sharp increase in the _residency_ requirement ("the negro is...a nomadic tribe," opined the state’s attorney general), the institution of a two-dollar _poll tax_, and the imposition of a _literacy test_ that required potential voters to demonstrate that they could understand and interpret the Constitution
 >- **Other states quickly followed suit**
 
@@ -1389,7 +1390,7 @@ Section 2
 _That, exactly, is what this Convention was elected for–to discriminate to the very extremity of permissible action under the limitations of the Federal Constitution, with a view to the elimination of every negro voter who can be gotten rid of, legally, without materially impairing the numerical strength of the white electorate._ >- future Senator Carter Glass
 
 ## Grandfather Clause
->- Discrimination, as well as circumvention of the Fifteenth Amendment, was also the aim of the well-known grandfather clauses
+>- Discrimination, as well as circumvention of the _Fifteenth Amendment_, was also the aim of the well-known grandfather clauses
  >- exempted men from literacy, tax, residency, or property requirements if they had performed military service or if their ancestors had voted in the 1860s.
  >- The first southern grandfather clause was adopted in South Carolina in 1890; with exquisite regional irony, it was modeled on the anti-immigrant Massachusetts law of 1857
 
@@ -1417,9 +1418,9 @@ _That, exactly, is what this Convention was elected for–to discriminate to the
 
 ## The North stood by
 >- All of which took place _without_ great protest from the North
->     + Although Republican politicians and newspapers routinely criticized the disfranchising laws, scattered efforts to enforce the _Fourteenth Amendment_ by reducing the congressional representation of southern states generated little support
+>     + Although Republican politicians and newspapers routinely criticized the disfranchising laws, scattered efforts to enforce the __Fourteenth_ Amendment_ by reducing the congressional representation of southern states generated little support
 >- The Supreme Court upheld the legality of all of the major techniques of disfranchisement.
->- In 1898 it ruled that Mississippi’s literacy test did not violate the Fifteenth Amendment because the law creating the test was not, _on its face_, designed to discriminate against Blacks
+>- In 1898 it ruled that Mississippi’s literacy test did not violate the _Fifteenth Amendment_ because the law creating the test was not, _on its face_, designed to discriminate against Blacks
 >- **The North tolerated disfranchisement in the South -- in part from weariness, in part due to the partisan interests of the Democratic Party, and in part because Northerners too had been losing faith in democracy**
 
 ## The Redemption of the North
@@ -1520,7 +1521,7 @@ _That, exactly, is what this Convention was elected for–to discriminate to the
 >    + even if their votes were legal, they were inappropriately cast, bartered for jobs or favors from a boss
 
 ## Decline of democracy
->- Within a few years of passage of the Fifteenth Amendment, a significant segment of the intellectual community was announcing its distrust of democracy and rejecting the claim that suffrage was a right
+>- Within a few years of passage of the _Fifteenth Amendment_, a significant segment of the intellectual community was announcing its distrust of democracy and rejecting the claim that suffrage was a right
 >- The breadth of the franchise – particularly extension of the franchise to the poor, uneducated, and foreign-born – was once again a live issue
 >- The terms of public discussion were being set by men who believed that _universal suffrage_ had failed, and that it was neither viable nor desirable in the socially heterogeneous, industrial world of the late nineteenth century
 
@@ -1579,7 +1580,7 @@ _That, exactly, is what this Convention was elected for–to discriminate to the
 
 ## Court on economic constraints
 >- The U.S. Supreme Court made clear that it too did not see anything unconstitutional about taxpaying or property requirements in _Myers v. Anderson_ in 1915
->- The Court thus found the law to be racially discriminatory in violation of the Fifteenth Amendment; at the same time, however, it noted that economic discrimination in the form of a property requirement was presumed to be "free from constitutional objection."
+>- The Court thus found the law to be racially discriminatory in violation of the _Fifteenth Amendment_; at the same time, however, it noted that economic discrimination in the form of a property requirement was presumed to be "free from constitutional objection."
 
 ## The Right to Vote in the Constitution
 >- Congress and state legislatures had created laws that would have been unthinkable in 1860 or even 1865. 
@@ -1606,7 +1607,7 @@ _That, exactly, is what this Convention was elected for–to discriminate to the
 >- The Redeemers who were gaining power throughout the South in the 1870s had goals that were at once _political_, _social_, and _economic_
 >- Most immediately they sought to drive the Republicans from power and elect Democrats, an objective hard to attain in a fully enfranchised South
 >     + Limiting Black voting therefore was a means to a end.
->- Keeping freedmen from the polls was also a means of rebuffing broader claims to equality, a way of returning Blacks to "_their place_," of making clear that, whatever the _Fourteenth Amendment_ said, **Blacks did not enjoy full citizenship**
+>- Keeping freedmen from the polls was also a means of rebuffing broader claims to equality, a way of returning Blacks to "_their place_," of making clear that, whatever the __Fourteenth_ Amendment_ said, **Blacks did not enjoy full citizenship**
 
 ## Rising Redeemers
 >- The pace of Redemption was quickened by the presidential election of 1876 and the subsequent removal of the last federal troops from the South.
@@ -1621,7 +1622,7 @@ _That, exactly, is what this Convention was elected for–to discriminate to the
 >- National elections were extremely close and fiercely contested in the late 1870s and 1880s
 >     + congressional majorities were unstable
 >     + Grover Cleveland (in 1884) became the first Democratic president since before the Civil War
->- In the eyes of many Republicans, the Democrats’ success, their ability to wield national power, was illegitimate, dependent on wholesale violations of the _Fifteenth Amendment_ in the South
+>- In the eyes of many Republicans, the Democrats’ success, their ability to wield national power, was illegitimate, dependent on wholesale violations of the __Fifteenth Amendment__ in the South
 
 ## Illegitimate power
 >- In its 1888 platform, the Republicans charged "_that the present Administration and the Democratic majority owe their existence to the suppression of the ballot by a criminal nullification of the Constitution and laws of the United States._"
@@ -1651,12 +1652,12 @@ _That, exactly, is what this Convention was elected for–to discriminate to the
 
 ## Rollback
 >- The year 1890 also marked the beginning of systematic efforts by southern states to disfranchise Black voters legally
->- Democrats chose to solidify their hold on the South by modifying the voting laws in ways that would exclude African Americans without overtly violating the _Fifteenth Amendment_.
+>- Democrats chose to solidify their hold on the South by modifying the voting laws in ways that would exclude African Americans without overtly violating the __Fifteenth Amendment__.
 >- Experiments with these legal strategies had occurred in the 1870s and 1880s, but it was between 1890 and 1905 that they became the primary weapon in enforcing and institutionalizing Redeemer rule
 >- White Democrats turned back the clock on the broadly progressive franchise provisions that had been etched into most Reconstruction-era state constitutions
 
 ## Mississippi
->- Mississippi passed provisions that would remove Blacks from political life while technically adhering to the _Fifteenth Amendment_
+>- Mississippi passed provisions that would remove Blacks from political life while technically adhering to the __Fifteenth Amendment__
 >- These provisions included: 
 >     + a sharp increase in the _residency_ requirement ("the negro is...a nomadic tribe," opined the state’s attorney general)
 >     + the institution of a two-dollar _poll tax_ 
@@ -1676,7 +1677,7 @@ _That, exactly, is what this Convention was elected for–to discriminate to the
 >     + future Senator Carter Glass
 
 ## Grandfather Clause
->- Circumvention of the _Fifteenth Amendment_, as well as discriination, was the aim of grandfather clauses
+>- Circumvention of the __Fifteenth Amendment__, as well as discriination, was the aim of grandfather clauses
 >     + Grandfather clauses exempted men from literacy, tax, residency, or property requirements if they had performed military service or if their ancestors had voted in the 1860s.
 >     + The first southern grandfather clause was adopted in South Carolina in 1890; with exquisite regional irony, it was modeled on the anti-immigrant Massachusetts law of 1857
 
@@ -1704,9 +1705,9 @@ _That, exactly, is what this Convention was elected for–to discriminate to the
 
 ## The North stood by
 >- All of which took place _without_ great protest from the North
->     + Although Republican politicians and newspapers routinely criticized the disfranchising laws, scattered efforts to enforce the _Fourteenth Amendment_ by reducing the congressional representation of southern states garnered little support
+>     + Although Republican politicians and newspapers routinely criticized the disfranchising laws, scattered efforts to enforce the __Fourteenth_ Amendment_ by reducing the congressional representation of southern states garnered little support
 >- The Supreme Court upheld the legality of all of the major techniques of disfranchisement
->     + In 1898 it ruled that Mississippi’s literacy test did not violate the _Fifteenth Amendment_ because the law creating the test was not, _on its face_, designed to discriminate against Blacks
+>     + In 1898 it ruled that Mississippi’s literacy test did not violate the __Fifteenth Amendment__ because the law creating the test was not, _on its face_, designed to discriminate against Blacks
 >- **The North tolerated disfranchisement in the South -- in part from weariness, in part due to the partisan interests of the Democratic Party, and in part because Northerners too had been losing faith in democracy**
 
 ## The Redemption of the North
@@ -1808,7 +1809,7 @@ _That, exactly, is what this Convention was elected for–to discriminate to the
 >    + even if their votes were legal, they were inappropriately cast, bartered for jobs or favors from a boss
 
 ## Decline of democracy
->- Within a few years of passage of the _Fifteenth Amendment_, a significant segment of the intellectual community was announcing its distrust of democracy and rejecting the claim that suffrage was a right
+>- Within a few years of passage of the __Fifteenth Amendment__, a significant segment of the intellectual community was announcing its distrust of democracy and rejecting the claim that suffrage was a right
 >- The breadth of the franchise –particularly extension of the franchise to the poor, uneducated, and foreign-born– was once again a live issue
 >- The terms of public discussion were being set by men who believed that _universal suffrage_ had failed, and that it was neither viable nor desirable in the socially heterogeneous, industrial world of the late nineteenth century
 

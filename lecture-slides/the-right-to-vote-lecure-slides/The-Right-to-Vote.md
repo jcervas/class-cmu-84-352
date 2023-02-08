@@ -57,7 +57,7 @@
 
 “*Americans no longer vote as much as they once did*”
 
-- This is the first line from ”The Right to Vote”. But is it true? Let’s
+- This is the first line from “The Right to Vote”. But is it true? Let’s
   look at the data
 
 ![](img/The%20Right%20to%20Vote1.png)
@@ -1909,8 +1909,8 @@ compelled to permit Blacks to vote**
 ## “republican guarantee”
 
 - The most frequently voiced reason for opposing universal manhood
-  suffrage was not that it would empower an “ *inferior* ” people but
-  rather that it would produce a “ *radical and revolutionary* ”
+  suffrage was not that it would empower an ” *inferior* ” people but
+  rather that it would produce a ” *radical and revolutionary* ”
   **transformation of the relationship between the federal government
   and the states**
 
@@ -2023,7 +2023,7 @@ and some men were even ready to endorse women’s suffrage**
 
 > - Even before Reconstruction came to a quasi-formal end in 1877, Black
 >   voting rights were under attack
-> - Elections were hotly contested, and white Southerners, seeking to “
+> - Elections were hotly contested, and white Southerners, seeking to ”
 >   *redeem* ” the region from Republican rule, engaged in both legal
 >   and extralegal efforts to limit the political influence of freedmen
 > - In the early 1870s, both in the South and in the border states,
@@ -2048,7 +2048,7 @@ and some men were even ready to endorse women’s suffrage**
 > - By the mid-1870s, many northern Republicans, including President
 >   Grant, had lost their enthusiasm for policing the South
 > - Preoccupied with an economic depression and labor conflict in the
->   North, they wearily drifted toward a “ *let alone policy* .”
+>   North, they wearily drifted toward a “*let alone policy*”
 > - In September 1875, one Republican newspaper referred to the
 >   Fourteenth and Fifteenth Amendments as “dead letters”
 
@@ -2062,7 +2062,7 @@ and some men were even ready to endorse women’s suffrage**
 >   South.
 >   - Limiting Black voting therefore was a means to a end.
 > - Keeping freedmen from the polls was also a means of rebuffing
->   broader claims to equality, a way of returning Blacks to “ *their
+>   broader claims to equality, a way of returning Blacks to ” *their
 >   place* ,” of making clear that, whatever the Fourteenth Amendment
 >   said, **Blacks did not enjoy full citizenship**
 
@@ -2076,7 +2076,7 @@ and some men were even ready to endorse women’s suffrage**
 > - The Redeemers, who controlled most state legislatures, continued to
 >   try to shrink the Black (and opposition white) electorate through
 >   gerrymandering, registration systems, complicated ballot
->   configurations, and the secret ballot (which served as a de facto
+>   configurations, and the secret ballot (which served as a *de facto*
 >   literacy test)
 
 ## Shifting partisan winds
@@ -2092,10 +2092,10 @@ and some men were even ready to endorse women’s suffrage**
 
 ## Illegitimate power
 
-> - In its 1888 platform, the Republicans charged “ *that the present
+> - In its 1888 platform, the Republicans charged “*that the present
 >   Administration and the Democratic majority owe their existence to
 >   the suppression of the ballot by a criminal nullification of the
->   Constitution and laws of the United States.* ”
+>   Constitution and laws of the United States*”
 > - After they were victorious in that year’s elections, the Republicans
 >   had a chance to do something about it: they had won the presidency
 >   and control of both houses of Congress
@@ -2159,7 +2159,7 @@ and some men were even ready to endorse women’s suffrage**
 > - Passed provisions that would remove Blacks from Mississippi
 >   political life while technically adhering to the Fifteenth Amendment
 > - These provisions included a sharp increase in the *residency*
->   requirement (“the negro is … a nomadic tribe,” opined the state’s
+>   requirement (“the negro is…a nomadic tribe,” opined the state’s
 >   attorney general), the institution of a two-dollar *poll tax*, and
 >   the imposition of a *literacy test* that required potential voters
 >   to demonstrate that they could understand and interpret the
@@ -2215,8 +2215,8 @@ and some men were even ready to endorse women’s suffrage**
 >   viewed such laws as a means of suppressing dissent, a
 >   self-interested and partisan grab for power by dominant, elite,
 >   often Black-belt Democrats
-> - This resulted in prolonged and bitter debates about the dangers of “
->   *reform* ”
+> - This resulted in prolonged and bitter debates about the dangers of
+>   “*reform*”
 
 ## Effect of new suppression laws
 
@@ -2243,7 +2243,7 @@ and some men were even ready to endorse women’s suffrage**
 >   85 per-cent fell to 50 percent for whites and single digits for
 >   Blacks
 > - **The achievements of Reconstruction had been reversed, and the
->   rollback had restored the southern electorate to–at best–pre–Civil
+>   rollback had restored the southern electorate to *at best* pre–Civil
 >   War proportions**
 
 ## What this all meant
@@ -2262,8 +2262,8 @@ and some men were even ready to endorse women’s suffrage**
 > - All of which took place *without* great protest from the North
 >   - Although Republican politicians and newspapers routinely
 >     criticized the disfranchising laws, scattered efforts to enforce
->     the Fourteenth Amendment–by reducing the congressional
->     representation of southern states–garnered little support
+>     the *Fourteenth Amendment* by reducing the congressional
+>     representation of southern states generated little support
 > - The Supreme Court upheld the legality of all of the major techniques
 >   of disfranchisement.
 > - In 1898 it ruled that Mississippi’s literacy test did not violate
@@ -2384,7 +2384,6 @@ and some men were even ready to endorse women’s suffrage**
 >   - did not speak English
 >   - cultures were alien
 >   - most were Catholic or Jewish
-
 > - **By 1910, most urban residents were immigrants or the children of
 >   immigrants, and the nation’s huge working class was predominantly
 >   foreign-born, native-born of foreign parents, or Black**
@@ -2574,7 +2573,7 @@ and some men were even ready to endorse women’s suffrage**
 > - Preoccupied with an economic depression and labor conflict in the
 >   North, they wearily drifted toward a “*let alone policy*”
 > - In September 1875, one Republican newspaper referred to the
->   Fourteenth and \_Fifteenth Amendment_s as “dead letters”
+>   *Fourteenth* and *Fifteenth Amendments* as “dead letters”
 
 ## Southern Redeemers
 
@@ -2659,8 +2658,8 @@ and some men were even ready to endorse women’s suffrage**
 > - This signaled to the South that the federal government was not
 >   prepared to act energetically to guarantee the voting rights of
 >   Blacks
-> - \*\*Whatever the Fourteenth and \_Fifteenth Amendment_s said on
->   paper, the right to vote was back in the hands of the states\*\*
+> - Whatever the *Fourteenth* and *Fifteenth Amendments* said on paper,
+>   the right to vote was back in the hands of the states
 > - Not until the 1960s, when the Lodge Force Bill was reincarnated as
 >   Lyndon Johnson’s *Voting Rights Act*, did Congress again seriously
 >   consider federal intervention in southern politics
@@ -2693,7 +2692,7 @@ and some men were even ready to endorse women’s suffrage**
 >   political life while technically adhering to the *Fifteenth
 >   Amendment*
 > - These provisions included:
->   - a sharp increase in the *residency* requirement (“the negro is … a
+>   - a sharp increase in the *residency* requirement (“the negro is…a
 >     nomadic tribe,” opined the state’s attorney general)
 >   - the institution of a two-dollar *poll tax*
 >   - the imposition of a *literacy test* that required potential voters
@@ -2911,7 +2910,7 @@ and some men were even ready to endorse women’s suffrage**
 > - The flow of immigrants that had begun in the 1840s resumed quickly
 >   after the Civil War
 >   - the nation’s expanding industries needed labor
->   - most came from Europe and to a far lesser extent Asia and Mexico.
+>   - most came from Europe and to a far lesser extent Asia and Mexico
 
 ## Immigrants
 
@@ -2919,7 +2918,7 @@ and some men were even ready to endorse women’s suffrage**
 >   journeyed to the United States
 >   - 25% of the 1917 (WWI)population was immigrant
 > - The vast majority of these immigrants were propertyless workers
->   rather than settlers.
+>   rather than settlers
 > - The Irish and Germans continued to arrive
 > - A growing numbers of southern and eastern Europeans came. They:
 >   - did not speak English

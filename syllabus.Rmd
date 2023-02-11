@@ -178,7 +178,7 @@ The first part of the class will be dedicated to voting rights. I will lecture f
 
 #### Week 4 -- Towards Universal Suffrage -- and Beyond
 
-##### Feb 7 -- Democracy in the 21st century
+##### Feb 14 -- Democracy in the 21st century
 - Geoffrey Skelley & Anna Wiederkehr, How The Frost Belt And Sun Belt Illustrate The Complexity Of America's Urban-Rural Divide, FiveThrityEight, Jan. 27, 2021, <https://fivethirtyeight.com/features/how-the-frost-belt-and-sun-belt-illustrate-the-complexity-of-americas-urban-rural-divide/>
 - Voting Rights: A Short History Carnegie Corporation of New York, <https://www.carnegie.org/our-work/article/voting-rights-timeline/>
 - The 'Stolen' Election That Poisoned American Politics. It Happened in 1984., <https://www.politico.com/news/magazine/2023/01/06/indiana-8th-1984-election-recount-00073924>
@@ -187,14 +187,14 @@ The first part of the class will be dedicated to voting rights. I will lecture f
 
 The second part of the class we will deal with representation more broadly. Much of the reading will be from Streb's book, but I will introduce other topics during lecture/discussion.
 
-##### Feb 14 -- Representation
+##### Feb 16 -- Representation
 - **In-class exercise -- Design your ideal representative**
 - Streb, (Chapter 1, available on Canvas)
 - Putnam, What's Past is Prologue (Chapter 1, available on Canvas)
 
 #### Week 5 -- Rethinking the Costs of Voting
 
-##### Feb 16 -- Turnout
+##### Feb 21 -- Turnout
 - **In-class exercise -- Conspiracy Theories**
 - Streb, Chapter 2
 - Rodrigo Dominguez-Villegas & Michael Rios, From Eligibility To The Ballot Box: Examining The Racial And Ethnic Voter Turnout Gaps In The U.s. And California (UCLA Latino Policy & Politics Institute) (2022), <https://latino.ucla.edu/research/voter-turnout-gaps-2020/>
@@ -234,21 +234,17 @@ The second part of the class we will deal with representation more broadly. Much
 #### Week 9 -- Polarization and Sorting
 
 ##### March 16 -- Geographic Polarization and Sorting
-
-**In-class exercise -- Sorting/Segregation/Partisan & Racial Bias** 
-
+-**In-class exercise -- Sorting/Segregation/Partisan & Racial Bias** 
 - Greg Martin & Steven Webster, Why Are Americans So Geographically Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018, <https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/>
 - Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among 180 Million Voters, THE NEW YORK TIMES, Mar. 17, 2021, <https://web.archive.org/web/20221223201803/https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html>
 
 #### Week 10 -- Election and Voting Reform
 
 ##### March 21 - Election Reform (Wyatt Brooks Guest Lecture)
-
 **In-class exercise -- Design an electoral reform**
 - Lee Drutman, How Democracies Revive, Niskanen Center 15 (2022), <https://www.niskanencenter.org/wp-content/uploads/2022/04/drutman_howdemocracyrevives_final.pdf>
 
 ##### March 23 -- Immigration, diversity explosion
-
 - Chapter 1, pages 1-19 WILLIAM H. FREY, Diversity Explosion (Brookings Institution Press) (2015), <http://www.jstor.org/stable/10.7864/j.ctt6wpc40>
 
 ### PART III -- Redistricting
@@ -258,7 +254,6 @@ The third and final part of the class, approximately one month, will be devoted 
 #### Week 11 -- Counting the people
 
 ##### March 28 -- The U.S. Census/ Malapportionment
-
 - **In-class exercise -- Census data collections**
 - NCSL Chapter 1 -- Census
 - NCSL Chapter 2 -- Equal Population
@@ -267,14 +262,12 @@ The third and final part of the class, approximately one month, will be devoted 
 #### Principles, criteria, and who draws the lines, Redistricting Commissions
 
 ##### March 30 -- Criteria for districting, from traditional principles to more expansive principles
-
 - NCSL Chapter 4 -- Redistricting Principles and Criteria
 - NCSL Chapter 5 -- Redistricting Commissions
 
 #### Week 12 --How to create a plan
 
 ##### April 4 -- Intro to DRA, Redistricting by Computer
-
 - **In-class exercise -- Drawing a districting plan**
 - Richard J. Meislin, Computers to Redistrict State in a Beep and a Flash; "An Expensive Pencil" Computers to Redraw the Districts In New York in a Beep and a Flash Graphics in Seconds, The New York Times, Jul. 10, 1980, <https://www.nytimes.com/1980/07/10/archives/computers-to-redistrict-state-in-a-beep-and-a-flash-an-expensive.html>
 - Getting Started in DRA 2020, DRA 2020, <https://medium.com/dra-2020/getting-started-in-dra-2020-84b76e6ae014>
@@ -283,7 +276,6 @@ The third and final part of the class, approximately one month, will be devoted 
 #### Racial and Partisan Gerrymandering
 
 ##### April 6 -- Racial Minorities and Racial Gerrymandering
-
 - NCSL Chapter 3 -- Racial and Language Minorities
 - Nicholas Casey, Voting Rights Battle in a School Board 'Coup,' THE NEW YORK TIMES, Oct. 26, 2020, at 1, <https://www.nytimes.com/2020/10/25/us/politics/voting-rights-georgia.html>
 - FORMER ATTORNEY GENERAL ERIC HOLDER, <https://www.npr.org/2022/05/10/1097997303/former-attorney-general-eric-holder>
@@ -291,7 +283,6 @@ The third and final part of the class, approximately one month, will be devoted 
 #### Week 13 -- Federal Law
 
 ##### April 11 -- The Voting Rights Act
-
 - Carrie Johnson, How The Voting Rights Act Came To Be And How It's Changed, NPR, Aug. 26, 2021, <https://www.npr.org/2021/08/26/1026457264/1965-voting-rights-act-supreme-court-john-lewis>
 - Nina Totenberg, The Supreme Court Deals A New Blow To Voting Rights, Upholding Arizona Restrictions, NPR, Jul. 1, 2021, <https://www.npr.org/2021/07/01/998758022/the-supreme-court-upheld-upholds-arizona-measures-that-restrict-voting>
 - Eyder Peralta et al., Supreme Court Strikes Down Key Provision Of Voting Rights Law, NPR, Jun. 25, 2013, <https://www.npr.org/sections/thetwo-way/2013/06/25/195506795/supreme-court-strikes-down-key-provision-of-voting-rights-law>
@@ -300,24 +291,20 @@ The third and final part of the class, approximately one month, will be devoted 
 #### Week 14 -- Political Gerrymandering
 
 ##### April 18 -- Partisan Gerrymandering
-
 - NCSL Chapter 6 -- Partisan Redistricting
 - Opinion of the Court, pages 1-34 Rucho v. Common Cause, 139 S.Ct. <https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf>
 
 ##### April 20 -- Rucho/Pennsylvania 2018/NY 2022 Court Cases
-
 - Kagan, Dissenting, pages 1-33 <https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf#page=40>
 - Jonathan Cervas, Report of The Special Master: Harkenrider v. Hochul (2022), <http://jonathancervas.com/2022/NY/CERVAS-SM-NY-2022.pdf>
 
 #### Week 15 -- Computer redistricting
 
 ##### April 25 -- Automated Redistricting
-
 **Plan comparison due**
 - REDISTRICTING ALGORITHMS, <http://arxiv.org/abs/2011.09504>
 
 ##### April 27 -- Democracy in limbo, the future of American Democracy
-
 **Redistricting Plan due**
 - Audie Cornish et al., How the U.S. became a "backsliding democracy," according to a European think tank, NPR, Nov. 25, 2021, <https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank>
 - Stop Projecting America's Democratic Decline onto the World Foreign Policy, <https://foreignpolicy.com/2022/10/18/united-states-democracy-backsliding-world-trump-populism-russia-china/>

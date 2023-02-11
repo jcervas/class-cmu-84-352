@@ -18,7 +18,7 @@ csl: /Users/cervas/Zotero/styles/bluebook-inline.csl
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-## rmarkdown::render('/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@uci.edu/My Drive/GitHub/teaching/classes/class-cmu-84-352/syllabus.Rmd', output_format = 'all')
+## rmarkdown::render('/Users/cervas/My Drive/GitHub/teaching/classes/2023 - Spring/class-cmu-84-352/syllabus.Rmd', output_format = 'all')
 ```
 
 Prof. Jonathan Cervas\
@@ -145,7 +145,6 @@ This provides an outline of the course, including topics and a reading schedule.
 #### Week 1 - Introductions and General Discussion -- Creating a Model of Electoral Democracy
 
 ##### Jan 17 -- First Class, introductions & syllabus
-
 - What Does The Constitution Say About The Right To Vote? Democracy Docket, <https://www.democracydocket.com/news/what-does-the-constitution-say-about-the-right-to-vote/>
 - Ed Crews, Voting in Early America, Colonial Williamsburg Journal (2007), <https://research.colonialwilliamsburg.org/Foundation/journal/Spring07/elections.cfm>
 
@@ -154,38 +153,32 @@ This provides an outline of the course, including topics and a reading schedule.
 The first part of the class will be dedicated to voting rights. I will lecture from Keyssar's classic work on the history of voting rights in the United States. An appreciation for history can allow us to better understand our current context. Graduate students are asked to read the book. Undergraduate students will read supplemental reading material during this part of class.
 
 ##### Jan 19 -- Voting Rights, an introduction
-
 - **In-class exercise -- Who has the right to vote?**
 - [**Introduction, pages XVIII-XXVI**](https://drive.google.com/file/d/1tnQBW4MWurYs9tSOM0qLSWw4tyTrizfK/view?usp=sharing) Alexander Keyssar, The Right To Vote: The Contested History Of Democracy In The United States (Basic Books) (2009), <https://ash.harvard.edu/publications/right-vote-contested-history-democracy-united-states>
 
 #### Week 2 -- The Road to Partial Democracy
 
 ##### Jan 24 -- Democracy on ascend
-
 - Francis Newton Thorpe, Democracy in America, The Atlantic, Dec. 1, 1893, <https://web.archive.org/web/20221104152812/https://www.theatlantic.com/magazine/archive/1893/12/democracy-in-america/523974/>
 - The Citizen In De Tocqueville's America Constitutional Rights Foundations, <https://www.crf-usa.org/election-central/de-tocqueville-america.html>
 
 ##### Jan 26 -- Backsliding
-
 - Danyelle Soloman et al., Systematic Inequality And American Democracy (2019), <https://www.americanprogress.org/article/systematic-inequality-american-democracy/>
 - Kate Masur, Winning the Right to Ride, Slate, Dec. 26, 2017, <https://slate.com/human-interest/2017/12/black-activists-post-emancipation-battle-for-d-c-s-city-streetcars-one-of-the-first-civil-rights-victories-on-public-transportation.html>
 
 #### Week 3 -- Narrowing the Portals
 
 ##### Jan 31 -- America after civil war
-
 - **In-class exercise -- Who's got talent?**
 - Reconstruction In America: Racial Violence After The Civil War, 1865-1876 (Equal Justice Initiative), <https://eji.org/report/reconstruction-in-america/>
 
 ##### Feb 2 -- World Wars and civil rights
-
 - Richard Rothstein, Brown v. Board At 60: Why Have We Been So Disappointed? What Have We Learned? (Economic Policy Institute) (2014), <https://files.epi.org/2014/EPI-Brown-v-Board-04-17-2014.pdf>
 - An Assessment Of Minority Voting Rights Access (U.S. Commission on Civil Rights) (2018), <https://www.usccr.gov/files/pubs/2018/Minority_Voting_Access_2018.pdf> Chapter 1, pages 15-41
 
 #### Week 4 -- Towards Universal Suffrage -- and Beyond
 
 ##### Feb 7 -- Democracy in the 21st century
-
 - Geoffrey Skelley & Anna Wiederkehr, How The Frost Belt And Sun Belt Illustrate The Complexity Of America's Urban-Rural Divide, FiveThrityEight, Jan. 27, 2021, <https://fivethirtyeight.com/features/how-the-frost-belt-and-sun-belt-illustrate-the-complexity-of-americas-urban-rural-divide/>
 - Voting Rights: A Short History Carnegie Corporation of New York, <https://www.carnegie.org/our-work/article/voting-rights-timeline/>
 - The 'Stolen' Election That Poisoned American Politics. It Happened in 1984., <https://www.politico.com/news/magazine/2023/01/06/indiana-8th-1984-election-recount-00073924>
@@ -194,66 +187,57 @@ The first part of the class will be dedicated to voting rights. I will lecture f
 
 The second part of the class we will deal with representation more broadly. Much of the reading will be from Streb's book, but I will introduce other topics during lecture/discussion.
 
-##### Feb 9 -- Representation
-
+##### Feb 14 -- Representation
 - **In-class exercise -- Design your ideal representative**
 - Streb, (Chapter 1, available on Canvas)
 - Putnam, What's Past is Prologue (Chapter 1, available on Canvas)
 
 #### Week 5 -- Rethinking the Costs of Voting
 
-##### Feb 14 -- Turnout
-
+##### Feb 16 -- Turnout
 - **In-class exercise -- Conspiracy Theories**
 - Streb, Chapter 2
 - Rodrigo Dominguez-Villegas & Michael Rios, From Eligibility To The Ballot Box: Examining The Racial And Ethnic Voter Turnout Gaps In The U.s. And California (UCLA Latino Policy & Politics Institute) (2022), <https://latino.ucla.edu/research/voter-turnout-gaps-2020/>
 
-##### Feb 16 -- The offices we elect/direct democracy
+##### Feb 21 -- The offices we elect/direct democracy
 
 - Streb, Chapter 3 and 4
 
 #### Week 6 -- Rethinking the Mechanics of Voting/ Voting Machines
 
-##### Feb 21 -- Ballot Laws/Voting Machines
-
+##### Feb 23 -- Ballot Laws/Voting Machines
+**Book Review Due**
+*Book Review presentations (grad students)*
 - Streb, Chapter 5
 - Streb, Chapter 6
 - Mark Scolforo, Majority of 16k canceled Pa. mail-in ballots were from Dems, AP News, Jan. 6, 2023, <https://apnews.com/article/2022-midterm-elections-pennsylvania-united-states-government-a1c75c9cfc2f1bfca21ac4a4cbfe60f0>
 
-##### Feb 23 -- Presidential Primaries
-
-**Book Review Due**
-*Book Review presentations (grad students)*
-
+##### Feb 28 -- Presidential Primaries
 - Streb, Chapter 8
 - Jeff Greenfield, Iowa and New Hampshire Are Getting the Boot. So What?, Politico, Dec. 6, 2022, <https://www.politico.com/news/magazine/2022/12/06/democrats-2024-primary-schedule-iowa-new-hampshire-00072221>
 - Paul E. Peterson, How to stop Trump from becoming the GOP nominee again, CNN, Jan. 5, 2023, <https://www.cnn.com/2023/01/05/opinions/stopping-trump-2024-proportional-representation-peterson/index.html>
 
 #### Week 7 -- Rethinking National Elections
 
-##### Feb 28 -- The Electoral College
-
+##### March 2 -- The Electoral College
 - **In-class exercise -- Electoral College game**
 - Streb, Chapter 9
 - Tim Lau, The Electoral College, Explained, Brennan Center For Justice, Feb. 17, 2021, <https://www.brennancenter.org/our-work/research-reports/electoral-college-explained>
 
-##### March 2 -- Campaign Finance/ Moving Towards a Model Electoral Democracy
+**Spring Break March 7 and March 9**
+
+##### March 14 -- Campaign Finance/Moving Towards a Model Electoral Democracy
 
 - Streb, Chapter 10 and 11
 - Total Cost Of 2022 State And Federal Elections Projected To Exceed $16.7 Billion Opensecrets News, <https://www.opensecrets.org/news/2022/11/total-cost-of-2022-state-and-federal-elections-projected-to-exceed-16-7-billion/>
 
-**Spring Break March 7 and March 9**
-
 #### Week 9 -- Polarization and Sorting
-
-##### March 14 -- Polarization
-
-- Morris P. Fiorina, Has the American Public Polarized?, 2 Hoover Institution Press 24 (2016), <https://www.hoover.org/research/has-american-public-polarized>
-- Party Sorting And Democratic Politics, 4 Hoover Institution Press (2016), <https://www.hoover.org/research/party-sorting-and-democratic-politics>
 
 ##### March 16 -- Geographic Polarization and Sorting
 
-In-class exercise -- Sorting/Segregation/Partisan & Racial Bias - Greg Martin & Steven Webster, Why Are Americans So Geographically Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018, <https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/>
+**In-class exercise -- Sorting/Segregation/Partisan & Racial Bias** 
+
+- Greg Martin & Steven Webster, Why Are Americans So Geographically Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018, <https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/>
 - Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among 180 Million Voters, THE NEW YORK TIMES, Mar. 17, 2021, <https://web.archive.org/web/20221223201803/https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html>
 
 #### Week 10 -- Election and Voting Reform
@@ -345,21 +329,17 @@ The third and final part of the class, approximately one month, will be devoted 
 ------------------------------------------------------------------------
 
 ### ACADEMIC INTEGRITY:
-
 Academic Integrity is a core CMU value, and as a member of the CMU community, it is important that the work you turn in for this class is wholly your own. As your instructor, I will strive to ensure that you develop the necessary knowledge and skills to meet the learning objectives for this class, just as it is your task to put in the effort to complete the work and ask for help if you need it. In this hybrid/remote environment for Spring 2021, you might have questions about what is and is not acceptable. I do not like when politicians steal power from some voters, and likewise I do not like when students steal other's intellectual property. Do not do it, it is not worth it. I have created a course that everyone can be, and should be, successful in.
 
 As a reminder all students should follow CMU's Academic Integrity Policy.
 
 ### ACCOMMODATIONS FOR STUDENTS WITH DISABILITIES:
-
 If you have a disability and have an accommodations letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with me as early in the semester as possible. I will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, I encourage you to contact them at [access@andrew.cmu.edu](mailto:access@andrew.cmu.edu){.email}.
 
 ### STUDENT WELLNESS:
-
 As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may diminish your academic performance and/or reduce your ability to participate in daily activities. CMU services are available, and treatment does work. You can learn more about confidential mental health services available on campus at: <http://www.cmu.edu/counseling/>. Support is always available (24/7) from Counseling and Psychological Services: 412-268-2922
 
 ### DIVERSITY STATEMENT:
-
 It is my goal to create an inclusive and equitable learning environment in this course, where the diversity of all students is acknowledged, respected, and valued as a resource and strength. I will strive to address the learning needs of all students, both in and out of class, and will incorporate materials and activities that are respectful of diversity in terms of gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. I welcome and encourage feedback on ways to improve the course for all students, and am happy to accommodate any religious observances that may conflict with class meetings.
 
 ### AI POLICY
@@ -388,7 +368,6 @@ AI is a powerful tool that can be used to enhance the learning experience for st
 - Students should seek assistance from instructors if they have any concerns or issues regarding the use of AI in the classroom.
 
 ##### Conclusion:
-
 By following these guidelines, we can ensure that the use of AI in the classroom is a positive and inclusive experience for all students. We believe that AI can be a powerful tool for enhancing the learning experience, but it is important to approach it with a positive attitude and a respect for its capabilities and limitations. Together, we can create a classroom environment that is both engaging and respectful of all students.
 
 _Note: This policy was written by ChatGPT._
@@ -396,3 +375,9 @@ _Note: This policy was written by ChatGPT._
 * * *
 
 > Like American democracy itself, this syllabus is subject to amendment. The process of amendment is as follows: (1) all students and the professor get one vote; (2) a simple majority of voters agree to a change; (2) a student's vote is weighted as 1/n where n=number of students and a professor has a vote weighted as n+1. All amendments will be announced publicly and no student shall be injured by changes. You might notice that this clause creates uneven voting power. Basically, I'm a dictator; but I am benevolent, and I want you to succeed, so I will listen to all requests.
+
+Material eliminated due to time constraints
+##### optional -- Polarization
+
+- Morris P. Fiorina, Has the American Public Polarized?, 2 Hoover Institution Press 24 (2016), <https://www.hoover.org/research/has-american-public-polarized>
+- Party Sorting And Democratic Politics, 4 Hoover Institution Press (2016), <https://www.hoover.org/research/party-sorting-and-democratic-politics>

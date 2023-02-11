@@ -373,7 +373,7 @@ The second part of the class we will deal with representation more
 broadly. Much of the reading will be from Streb’s book, but I will
 introduce other topics during lecture/discussion.
 
-##### Feb 9 – Representation
+##### Feb 14 – Representation
 
 - **In-class exercise – Design your ideal representative**
 - Streb, (Chapter 1, available on Canvas)
@@ -381,7 +381,7 @@ introduce other topics during lecture/discussion.
 
 #### Week 5 – Rethinking the Costs of Voting
 
-##### Feb 14 – Turnout
+##### Feb 16 – Turnout
 
 - **In-class exercise – Conspiracy Theories**
 - Streb, Chapter 2
@@ -390,23 +390,20 @@ introduce other topics during lecture/discussion.
   U.s. And California (UCLA Latino Policy & Politics Institute) (2022),
   <https://latino.ucla.edu/research/voter-turnout-gaps-2020/>
 
-##### Feb 16 – The offices we elect/direct democracy
+##### Feb 21 – The offices we elect/direct democracy
 
 - Streb, Chapter 3 and 4
 
 #### Week 6 – Rethinking the Mechanics of Voting/ Voting Machines
 
-##### Feb 21 – Ballot Laws/Voting Machines
+##### Feb 23 – Ballot Laws/Voting Machines
 
-- Streb, Chapter 5
-- Streb, Chapter 6
-- Mark Scolforo, Majority of 16k canceled Pa. mail-in ballots were from
-  Dems, AP News, Jan. 6, 2023,
-  <https://apnews.com/article/2022-midterm-elections-pennsylvania-united-states-government-a1c75c9cfc2f1bfca21ac4a4cbfe60f0>
+**Book Review Due** *Book Review presentations (grad students)* - Streb,
+Chapter 5 - Streb, Chapter 6 - Mark Scolforo, Majority of 16k canceled
+Pa. mail-in ballots were from Dems, AP News, Jan. 6, 2023,
+<https://apnews.com/article/2022-midterm-elections-pennsylvania-united-states-government-a1c75c9cfc2f1bfca21ac4a4cbfe60f0>
 
-##### Feb 23 – Presidential Primaries
-
-**Book Review Due** *Book Review presentations (grad students)*
+##### Feb 28 – Presidential Primaries
 
 - Streb, Chapter 8
 - Jeff Greenfield, Iowa and New Hampshire Are Getting the Boot. So
@@ -418,7 +415,7 @@ introduce other topics during lecture/discussion.
 
 #### Week 7 – Rethinking National Elections
 
-##### Feb 28 – The Electoral College
+##### March 2 – The Electoral College
 
 - **In-class exercise – Electoral College game**
 - Streb, Chapter 9
@@ -426,35 +423,27 @@ introduce other topics during lecture/discussion.
   Feb. 17, 2021,
   <https://www.brennancenter.org/our-work/research-reports/electoral-college-explained>
 
-##### March 2 – Campaign Finance/ Moving Towards a Model Electoral Democracy
+**Spring Break March 7 and March 9**
+
+##### March 14 – Campaign Finance/Moving Towards a Model Electoral Democracy
 
 - Streb, Chapter 10 and 11
 - Total Cost Of 2022 State And Federal Elections Projected To Exceed
   \$16.7 Billion Opensecrets News,
   <https://www.opensecrets.org/news/2022/11/total-cost-of-2022-state-and-federal-elections-projected-to-exceed-16-7-billion/>
 
-**Spring Break March 7 and March 9**
-
 #### Week 9 – Polarization and Sorting
-
-##### March 14 – Polarization
-
-- Morris P. Fiorina, Has the American Public Polarized?, 2 Hoover
-  Institution Press 24 (2016),
-  <https://www.hoover.org/research/has-american-public-polarized>
-- Party Sorting And Democratic Politics, 4 Hoover Institution Press
-  (2016),
-  <https://www.hoover.org/research/party-sorting-and-democratic-politics>
 
 ##### March 16 – Geographic Polarization and Sorting
 
-In-class exercise – Sorting/Segregation/Partisan & Racial Bias - Greg
-Martin & Steven Webster, Why Are Americans So Geographically
-Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018,
-<https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/> -
-Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among
-180 Million Voters, THE NEW YORK TIMES, Mar. 17, 2021,
-<https://web.archive.org/web/20221223201803/https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html>
+**In-class exercise – Sorting/Segregation/Partisan & Racial Bias**
+
+- Greg Martin & Steven Webster, Why Are Americans So Geographically
+  Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018,
+  <https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/>
+- Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among
+  180 Million Voters, THE NEW YORK TIMES, Mar. 17, 2021,
+  <https://web.archive.org/web/20221223201803/https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html>
 
 #### Week 10 – Election and Voting Reform
 
@@ -710,3 +699,13 @@ all students.
 > You might notice that this clause creates uneven voting power.
 > Basically, I’m a dictator; but I am benevolent, and I want you to
 > succeed, so I will listen to all requests.
+
+Material eliminated due to time constraints \##### optional –
+Polarization
+
+- Morris P. Fiorina, Has the American Public Polarized?, 2 Hoover
+  Institution Press 24 (2016),
+  <https://www.hoover.org/research/has-american-public-polarized>
+- Party Sorting And Democratic Politics, 4 Hoover Institution Press
+  (2016),
+  <https://www.hoover.org/research/party-sorting-and-democratic-politics>

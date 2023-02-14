@@ -1,4 +1,4 @@
-| **Criteria** | **Excellent** (9-10 pts)    | **Good** (7-8 pts)       | **Fair** (4-6 pts)           | **Poor** (1-3 pts)          |
+| **Criteria** | **Excellent** (10 pts)    | **Good** (7-9 pts)       | **Fair** (4-6 pts)           | **Poor** (1-3 pts)          |
 |--------------|---------------------|----------------------|------------------------|---------------------------|
 | _Overall_    | A thoughtful, well-written review that meets or exceeds expectations | A good attempt with some weaknesses and room for improvement | A fair attempt with several weaknesses and room for improvement | A poor attempt with significant weaknesses and no evidence of effort or understanding |
 | _Summary_      | Clearly summarizes key points of the book | Provides adequate summary of the book | Provides minimal or incomplete summary | Summary is unclear or missing key points |

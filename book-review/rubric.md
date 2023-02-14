@@ -1,5 +1,6 @@
 | **Criteria** | **Excellent** (9-10 pts)    | **Good** (7-8 pts)       | **Fair** (5-6 pts)           | **Poor** (1-4 pts)          |
 |--------------|---------------------|----------------------|------------------------|---------------------------|
+| _Overall_    | A thoughtful, well-written review that meets or exceeds expectations | A good attempt with some weaknesses and room for improvement | A fair attempt with several weaknesses and room for improvement | A poor attempt with significant weaknesses and no evidence of effort or understanding |
 | _Summary_      | Clearly summarizes key points of the book | Provides adequate summary of the book | Provides minimal or incomplete summary | Summary is unclear or missing key points |
 | _Thoughtfulness_ | Provides insightful and reflective commentary on the book | Provides thoughtful reflection and commentary on the book | Provides some insight and reflection | Lacks insight and reflection on the book |
 | _Evaluation_   | Clearly identifies strengths and weaknesses of the book | Identifies strengths and weaknesses of the book | Identifies some strengths and weaknesses | Lacks evaluation of strengths and weaknesses of the book |
@@ -7,17 +8,3 @@
 | _Organization_ | Well-organized with clear transitions and logical flow | Adequately organized with some transitions and flow | Some organization with unclear transitions and flow | Poorly organized with unclear transitions and little logical flow |
 | _Length_       | 3-5 single-spaced pages in total | Does not exceed the page limit | Exceeds or falls short of the page limit | Significantly exceeds or falls short the page limit |
 | _Grammar and Spelling_ | No errors in grammar or spelling | Few errors in grammar or spelling | Some errors in grammar or spelling | Numerous errors in grammar or spelling |
-| _Overall_      | A thoughtful, well-written review that meets or exceeds expectations | A good attempt with some weaknesses and room for improvement | A fair attempt with several weaknesses and room for improvement | A poor attempt with significant weaknesses and no evidence of effort or understanding |
-
-
-| Criteria     | Weight |
-|--------------|--------|
-| Summary      | 10%    |
-| Thoughtfulness | 15%  |
-| Evaluation   | 15%    |
-| Relevance    | 10%    |
-| Organization | 15%    |
-| Length       | 10%    |
-| Grammar and Spelling | 5% |
-| Overall      | 30%    |
-

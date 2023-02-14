@@ -9,13 +9,15 @@
 | Grammar and Spelling | No errors in grammar or spelling | Few errors in grammar or spelling | Some errors in grammar or spelling | Numerous errors in grammar or spelling |
 | Overall      | A thoughtful, well-written review that meets or exceeds expectations | A good attempt with some weaknesses and room for improvement | A fair attempt with several weaknesses and room for improvement | A poor attempt with significant weaknesses and no evidence of effort or understanding |
 
+
 | Criteria     | Weight |
 |--------------|--------|
 | Summary      | 10%    |
-| Thoughtfulness | 20%  |
-| Evaluation   | 20%    |
-| Relevance    | 20%    |
+| Thoughtfulness | 15%  |
+| Evaluation   | 15%    |
+| Relevance    | 10%    |
 | Organization | 15%    |
 | Length       | 10%    |
 | Grammar and Spelling | 5% |
-| Overall      | 10%    |
+| Overall      | 30%    |
+

@@ -286,8 +286,6 @@ informs our understanding of contemporary rights.
 
 ### PART 0 – Introduction
 
-#### Week 1 - Introductions and General Discussion – Creating a Model of Electoral Democracy
-
 ##### Jan 17 – First Class, introductions & syllabus
 
 - What Does The Constitution Say About The Right To Vote? Democracy
@@ -315,8 +313,6 @@ during this part of class.
   Democracy In The United States (Basic Books) (2009),
   <https://ash.harvard.edu/publications/right-vote-contested-history-democracy-united-states>
 
-#### Week 2 – The Road to Partial Democracy
-
 ##### Jan 24 – Democracy on ascend
 
 - Francis Newton Thorpe, Democracy in America, The Atlantic, Dec. 1,
@@ -334,8 +330,6 @@ during this part of class.
 - Kate Masur, Winning the Right to Ride, Slate, Dec. 26, 2017,
   <https://slate.com/human-interest/2017/12/black-activists-post-emancipation-battle-for-d-c-s-city-streetcars-one-of-the-first-civil-rights-victories-on-public-transportation.html>
 
-#### Week 3 – Narrowing the Portals
-
 ##### Jan 31 – America after civil war
 
 - **In-class exercise – Who’s got talent?**
@@ -352,8 +346,6 @@ during this part of class.
   Civil Rights) (2018),
   <https://www.usccr.gov/files/pubs/2018/Minority_Voting_Access_2018.pdf>
   Chapter 1, pages 15-41
-
-#### Week 4 – Towards Universal Suffrage – and Beyond
 
 ##### Feb 14 – Democracy in the 21st century
 
@@ -375,26 +367,17 @@ introduce other topics during lecture/discussion.
 
 ##### Feb 16 – Representation
 
-- **In-class exercise – Design your ideal representative**
 - Streb, (Chapter 1, available on Canvas)
 - Putnam, What’s Past is Prologue (Chapter 1, available on Canvas)
 
-#### Week 5 – Rethinking the Costs of Voting
+##### Feb 21 – Turnout/The offices we elect/direct democracy
 
-##### Feb 21 – Turnout
-
-- **In-class exercise – Conspiracy Theories**
-- Streb, Chapter 2
+- **In-class exercise – Design your ideal representative**
+- Streb, Chapter 2, 3, and 4
 - Rodrigo Dominguez-Villegas & Michael Rios, From Eligibility To The
   Ballot Box: Examining The Racial And Ethnic Voter Turnout Gaps In The
   U.s. And California (UCLA Latino Policy & Politics Institute) (2022),
   <https://latino.ucla.edu/research/voter-turnout-gaps-2020/>
-
-##### Feb 21 – The offices we elect/direct democracy
-
-- Streb, Chapter 3 and 4
-
-#### Week 6 – Rethinking the Mechanics of Voting/ Voting Machines
 
 ##### Feb 23 – Ballot Laws/Voting Machines
 
@@ -405,6 +388,7 @@ Pa. mail-in ballots were from Dems, AP News, Jan. 6, 2023,
 
 ##### Feb 28 – Presidential Primaries
 
+- **In-class exercise – Conspiracy Theories**
 - Streb, Chapter 8
 - Jeff Greenfield, Iowa and New Hampshire Are Getting the Boot. So
   What?, Politico, Dec. 6, 2022,
@@ -412,8 +396,6 @@ Pa. mail-in ballots were from Dems, AP News, Jan. 6, 2023,
 - Paul E. Peterson, How to stop Trump from becoming the GOP nominee
   again, CNN, Jan. 5, 2023,
   <https://www.cnn.com/2023/01/05/opinions/stopping-trump-2024-proportional-representation-peterson/index.html>
-
-#### Week 7 – Rethinking National Elections
 
 ##### March 2 – The Electoral College
 
@@ -432,8 +414,6 @@ Pa. mail-in ballots were from Dems, AP News, Jan. 6, 2023,
   \$16.7 Billion Opensecrets News,
   <https://www.opensecrets.org/news/2022/11/total-cost-of-2022-state-and-federal-elections-projected-to-exceed-16-7-billion/>
 
-#### Week 9 – Polarization and Sorting
-
 ##### March 16 – Geographic Polarization and Sorting
 
 \-**In-class exercise – Sorting/Segregation/Partisan & Racial Bias** -
@@ -443,8 +423,6 @@ Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018,
 Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among
 180 Million Voters, THE NEW YORK TIMES, Mar. 17, 2021,
 <https://web.archive.org/web/20221223201803/https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html>
-
-#### Week 10 – Election and Voting Reform
 
 ##### March 21 - Election Reform (Wyatt Brooks Guest Lecture)
 
@@ -465,8 +443,6 @@ devoted to the topic of legislative redistricting. This is my major area
 of specialty, and I intend this to be the most interesting part of the
 course.
 
-#### Week 11 – Counting the people
-
 ##### March 28 – The U.S. Census/ Malapportionment
 
 - **In-class exercise – Census data collections**
@@ -481,8 +457,6 @@ course.
 
 - NCSL Chapter 4 – Redistricting Principles and Criteria
 - NCSL Chapter 5 – Redistricting Commissions
-
-#### Week 12 –How to create a plan
 
 ##### April 4 – Intro to DRA, Redistricting by Computer
 
@@ -508,8 +482,6 @@ course.
 - FORMER ATTORNEY GENERAL ERIC HOLDER,
   <https://www.npr.org/2022/05/10/1097997303/former-attorney-general-eric-holder>
 
-#### Week 13 – Federal Law
-
 ##### April 11 – The Voting Rights Act
 
 - Carrie Johnson, How The Voting Rights Act Came To Be And How It’s
@@ -523,8 +495,6 @@ course.
   <https://www.npr.org/sections/thetwo-way/2013/06/25/195506795/supreme-court-strikes-down-key-provision-of-voting-rights-law>
   **No Class April 13 – Carnival**
 
-#### Week 14 – Political Gerrymandering
-
 ##### April 18 – Partisan Gerrymandering
 
 - NCSL Chapter 6 – Partisan Redistricting
@@ -537,8 +507,6 @@ course.
   <https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf#page=40>
 - Jonathan Cervas, Report of The Special Master: Harkenrider v. Hochul
   (2022), <http://jonathancervas.com/2022/NY/CERVAS-SM-NY-2022.pdf>
-
-#### Week 15 – Computer redistricting
 
 ##### April 25 – Automated Redistricting
 

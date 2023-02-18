@@ -1,7 +1,7 @@
 ---
 title: "Rethinking American Electoral Democracy"
 author: "Prof. Jonathan Cervas"
-date: "Updated: `r format(Sys.time(), '%B %d, %Y')`"
+date: "Updated: February 16, 2023"
 output:
   beamer_presentation:
     keep_tex: no
@@ -21,60 +21,6 @@ header-includes:
     - \setbeamercovered{highly dynamic}
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-## rmarkdown::render('/Users/cervas/My Drive/GitHub/teaching/classes/2023 - Spring/class-cmu-84-352/lecture-slides/Streb/Streb-Rethinking Democracy.rmd', output_format = 'all')
-```
-
-## Starting with an in-class exercise
-
-## 
-
-Think about the term "represent". What does it mean to you? In which situations in life do we find ourselves represented?
-
-
-## Question I
-
-Thinking broadly (i.e., not just in terms of politics), who best represents you (including people or groups)?
-
-1. 	
-
-2. 	
-
-3. 	
-
-## Question II
-
-Thinking in this same way, who do you represent?
-
-1. 	
-
-2. 	
-
-3. 	
-
-## Question III
-
-Name three general categories where you need representation.
-
-1. 	
-
-2. 	
-
-3. 	
-
-## 
-
-What qualities compelled you to include them. Is there anything special about their (your) identity? In what ways does having representation make life better?
-
-
-## Some dictionary definitions of the term include:
-
-- to substitute in some capacity for : act the part of, in place of, or for (as another person) usually by legal right: as
-- to serve especially in a legislative body by delegated authority usually resulting from an election
-- to provide legal representation to as a lawyer
-- to act as the representative of in a class action
-- to describe as having a specified character or quality
 
 
 ## Rethinking American Electoral Democracy

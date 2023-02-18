@@ -1,0 +1,72 @@
+---
+title: "Representation"
+author: "Prof. Jonathan Cervas"
+affiliation: Carnegie Mellon University
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  tufte::tufte_handout: default
+  pdf_document:
+    citation_package: natbib
+    keep_tex: false
+    fig_caption: true
+    latex_engine: pdflatex
+  word_document:
+bibliography: /Users/cervas/Downloads/library.bib
+biblio-style: apsr
+geometry: margin=1in
+# fontfamily: libertine
+fontsize: 11pt
+# spacing: double
+endnote: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Think about the term "represent". What does it mean to you? In which situations in life do we find ourselves represented?
+
+
+## Question I
+
+Thinking broadly (i.e., not just in terms of politics), who best represents you (including people or groups)?
+
+1. 	
+
+2. 	
+
+3. 	
+
+## Question II
+
+Thinking in this same way, who do you represent?
+
+1. 	
+
+2. 	
+
+3. 	    
+
+## Question III
+
+Name three general categories where you need representation.
+
+1. 	
+
+2. 	
+
+3. 	
+
+## 
+
+What qualities compelled you to include them. Is there anything special about their (your) identity? In what ways does having representation make life better?
+
+
+## Some dictionary definitions of the term include:
+
+- to substitute in some capacity for : act the part of, in place of, or for (as another person) usually by legal right: as
+- to serve especially in a legislative body by delegated authority usually resulting from an election
+- to provide legal representation to as a lawyer
+- to act as the representative of in a class action
+- to describe as having a specified character or quality
+

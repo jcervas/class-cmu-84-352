@@ -152,4 +152,25 @@ What qualities compelled you to include them. Is there anything special about th
 - Transparency
 - Rules that are not burdensome
 
+## Chapter 2 - Factors that Influence Voter Turnout
+
+**Chapter 2 - Factors that Influence Voter Turnout**
+
+## Voter Registration
+
+```{r, fig.width=3, fig.height=7}
+reg <- read.csv("https://raw.githubusercontent.com/jcervas/Data/master/Elections/vote-reg-deadlines.csv")
+reg <- reg[! reg$deadline %in% c("-",NA),]
+reg <- reg[! reg$deadline %in% c("VI", "PR"),]
+reg <- reg[order(reg$deadline),]
+reg_days <- table(reg$deadline)
+
+barplot(as.numeric(reg$deadline), 
+        main="Voter Registration Deadlines", 
+        xlab="Number of Days Prior to Election",
+        horiz=TRUE,
+        names.arg=reg$abv,
+        las=1,
+        cex.names = 0.5)
+```
   

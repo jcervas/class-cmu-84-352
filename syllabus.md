@@ -367,12 +367,12 @@ introduce other topics during lecture/discussion.
 
 ##### Feb 16 – Representation
 
+- **In-class exercise – Design your ideal representative**
 - Streb, (Chapter 1, available on Canvas)
 - Putnam, What’s Past is Prologue (Chapter 1, available on Canvas)
 
 ##### Feb 21 – Turnout/The offices we elect/direct democracy
 
-- **In-class exercise – Design your ideal representative**
 - Streb, Chapter 2, 3, and 4
 - Rodrigo Dominguez-Villegas & Michael Rios, From Eligibility To The
   Ballot Box: Examining The Racial And Ethnic Voter Turnout Gaps In The
@@ -381,10 +381,13 @@ introduce other topics during lecture/discussion.
 
 ##### Feb 23 – Ballot Laws/Voting Machines
 
-**Book Review Due** *Book Review presentations (grad students)* - Streb,
-Chapter 5 - Streb, Chapter 6 - Mark Scolforo, Majority of 16k canceled
-Pa. mail-in ballots were from Dems, AP News, Jan. 6, 2023,
-<https://apnews.com/article/2022-midterm-elections-pennsylvania-united-states-government-a1c75c9cfc2f1bfca21ac4a4cbfe60f0>
+- **Book Review Due**
+- *Book Review presentations (grad students)*
+- Streb, Chapter 5
+- Streb, Chapter 6
+- Mark Scolforo, Majority of 16k canceled Pa. mail-in ballots were from
+  Dems, AP News, Jan. 6, 2023,
+  <https://apnews.com/article/2022-midterm-elections-pennsylvania-united-states-government-a1c75c9cfc2f1bfca21ac4a4cbfe60f0>
 
 ##### Feb 28 – Presidential Primaries
 

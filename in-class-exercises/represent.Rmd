@@ -26,6 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Think about the term "represent". What does it mean to you? In which situations in life do we find ourselves represented?
 
+## ADD: How do you identify? What groups, features, etc best describe you as a person?
 
 ## Question I
 

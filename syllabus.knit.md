@@ -1,7 +1,7 @@
 ---
 title: "Representation and Voting Rights"
 subtitle: "[84-352/84-652] – Elections, Fair Redistricting, Equitable Democracy"
-date: "Updated: `r format(Sys.time(), '%B %d, %Y')`"
+date: "Updated: February 21, 2023"
 output:
   pdf_document:
     citation_package: natbib
@@ -16,10 +16,7 @@ bibliography: /Users/cervas/Downloads/library.bib
 csl: /Users/cervas/Zotero/styles/bluebook-inline.csl
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-## rmarkdown::render('/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@uci.edu/My Drive/GitHub/teaching/classes/2023 - Spring/class-cmu-84-352/syllabus.Rmd', output_format = 'all')
-```
+
 
 Prof. Jonathan Cervas\
 Email: [cervas@cmu.edu](mailto:cervas@cmu.edu){.email}\

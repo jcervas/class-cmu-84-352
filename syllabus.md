@@ -429,9 +429,9 @@ Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among
 
 ##### March 21 - Election Reform (Wyatt Brooks Guest Lecture)
 
-**In-class exercise – Design an electoral reform** - Lee Drutman, How
-Democracies Revive, Niskanen Center 15 (2022),
-<https://www.niskanencenter.org/wp-content/uploads/2022/04/drutman_howdemocracyrevives_final.pdf>
+- **In-class exercise – Design an electoral reform**
+- Lee Drutman, How Democracies Revive, Niskanen Center 15 (2022),
+  <https://www.niskanencenter.org/wp-content/uploads/2022/04/drutman_howdemocracyrevives_final.pdf>
 
 ##### March 23 – Immigration, diversity explosion
 
@@ -513,18 +513,18 @@ course.
 
 ##### April 25 – Automated Redistricting
 
-**Plan comparison due** - REDISTRICTING ALGORITHMS,
-<http://arxiv.org/abs/2011.09504>
+- **Plan comparison due**
+- REDISTRICTING ALGORITHMS, <http://arxiv.org/abs/2011.09504>
 
 ##### April 27 – Democracy in limbo, the future of American Democracy
 
-**Redistricting Plan due** - Audie Cornish et al., How the U.S. became a
-“backsliding democracy,” according to a European think tank, NPR,
-Nov. 25, 2021,
-<https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank> -
-Stop Projecting America’s Democratic Decline onto the World Foreign
-Policy,
-<https://foreignpolicy.com/2022/10/18/united-states-democracy-backsliding-world-trump-populism-russia-china/>
+- **Redistricting Plan due**
+- Audie Cornish et al., How the U.S. became a “backsliding democracy,”
+  according to a European think tank, NPR, Nov. 25, 2021,
+  <https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank>
+- Stop Projecting America’s Democratic Decline onto the World Foreign
+  Policy,
+  <https://foreignpolicy.com/2022/10/18/united-states-democracy-backsliding-world-trump-populism-russia-china/>
 
 ------------------------------------------------------------------------
 

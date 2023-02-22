@@ -209,17 +209,16 @@ The second part of the class we will deal with representation more broadly. Much
 **Spring Break March 7 and March 9**
 
 ##### March 14 -- Campaign Finance/Moving Towards a Model Electoral Democracy
-
 - Streb, Chapter 10 and 11
 - Total Cost Of 2022 State And Federal Elections Projected To Exceed $16.7 Billion Opensecrets News, <https://www.opensecrets.org/news/2022/11/total-cost-of-2022-state-and-federal-elections-projected-to-exceed-16-7-billion/>
 
 ##### March 16 -- Geographic Polarization and Sorting
--**In-class exercise -- Sorting/Segregation/Partisan & Racial Bias** 
+-**In-class exercise -- Sorting/Segregation/Partisan & Racial Bias**
 - Greg Martin & Steven Webster, Why Are Americans So Geographically Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018, <https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/>
 - Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among 180 Million Voters, THE NEW YORK TIMES, Mar. 17, 2021, <https://web.archive.org/web/20221223201803/https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html>
 
 ##### March 21 - Election Reform (Wyatt Brooks Guest Lecture)
-**In-class exercise -- Design an electoral reform**
+- **In-class exercise -- Design an electoral reform**
 - Lee Drutman, How Democracies Revive, Niskanen Center 15 (2022), <https://www.niskanencenter.org/wp-content/uploads/2022/04/drutman_howdemocracyrevives_final.pdf>
 
 ##### March 23 -- Immigration, diversity explosion
@@ -269,11 +268,11 @@ The third and final part of the class, approximately one month, will be devoted 
 - Jonathan Cervas, Report of The Special Master: Harkenrider v. Hochul (2022), <http://jonathancervas.com/2022/NY/CERVAS-SM-NY-2022.pdf>
 
 ##### April 25 -- Automated Redistricting
-**Plan comparison due**
+- **Plan comparison due**
 - REDISTRICTING ALGORITHMS, <http://arxiv.org/abs/2011.09504>
 
 ##### April 27 -- Democracy in limbo, the future of American Democracy
-**Redistricting Plan due**
+- **Redistricting Plan due**
 - Audie Cornish et al., How the U.S. became a "backsliding democracy," according to a European think tank, NPR, Nov. 25, 2021, <https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank>
 - Stop Projecting America's Democratic Decline onto the World Foreign Policy, <https://foreignpolicy.com/2022/10/18/united-states-democracy-backsliding-world-trump-populism-russia-china/>
 

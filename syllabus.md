@@ -419,13 +419,13 @@ introduce other topics during lecture/discussion.
 
 ##### March 16 – Geographic Polarization and Sorting
 
-\-**In-class exercise – Sorting/Segregation/Partisan & Racial Bias** -
-Greg Martin & Steven Webster, Why Are Americans So Geographically
-Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018,
-<https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/> -
-Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among
-180 Million Voters, THE NEW YORK TIMES, Mar. 17, 2021,
-<https://web.archive.org/web/20221223201803/https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html>
+- **In-class exercise – Sorting/Segregation/Partisan & Racial Bias**
+- Greg Martin & Steven Webster, Why Are Americans So Geographically
+  Polarized? - The Atlantic, THE ATLANTIC, Nov. 26, 2018,
+  <https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/>
+- Emily Badger et al., A Close-Up Picture of Partisan Segregation, Among
+  180 Million Voters, THE NEW YORK TIMES, Mar. 17, 2021,
+  <https://web.archive.org/web/20221223201803/https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html>
 
 ##### March 21 - Election Reform (Wyatt Brooks Guest Lecture)
 

@@ -156,9 +156,10 @@ What qualities compelled you to include them. Is there anything special about th
 
 **Chapter 2 - Factors that Influence Voter Turnout**
 
-## Voter Registration
 
-```{r, fig.width=3, fig.height=7}
+
+```{r, fig.width=3, fig.height=7, eval=FALSE}
+## Voter Registration
 reg <- read.csv("https://raw.githubusercontent.com/jcervas/Data/master/Elections/vote-reg-deadlines.csv")
 reg <- reg[! reg$deadline %in% c("-",NA),]
 reg <- reg[! reg$deadline %in% c("VI", "PR"),]
@@ -173,4 +174,175 @@ barplot(as.numeric(reg$deadline),
         las=1,
         cex.names = 0.5)
 ```
+
+## Cost of Voting
+
+Cost of Voting
+
+## 
+
+![](img/cost-of-voting/nyt-cost-of-voting/Slide1.png)
+
+##
+
+Cost of Voting (https://www.nytimes.com/interactive/2022/09/20/us/politics/cost-of-voting.html)
+
+## 
+
+![](img/cost-of-voting/nyt-cost-of-voting/Slide2.png)
+
+## 
+
+![](img/cost-of-voting/nyt-cost-of-voting/Slide3.png)
+
+## 
+
+![](img/cost-of-voting/nyt-cost-of-voting/Slide4.png)
+
+## 
+
+![](img/cost-of-voting/nyt-cost-of-voting/Slide5.png)
+
+##
+
+![](img/cost-of-voting/nyt-cost-of-voting/Slide6.png)
+
+## Factors that Influence Voter Turnout
+
+>- “Didn’t We Just Vote?”
+>- Voter Registration and Election-Day Registration
+>- No-Excuse Absentee Voting and Early In-Person Voting
+>- Photo Identification
+>- Times and Dates of Elections
+>- Felon Voting
+>- Compulsory Voting
+
+## Chapter 3 - The Offices We Elect
+
+**Chapter 3 - The Offices We Elect**
+
+## 
+
+![](img/elected-statewide-offices.png)
+
+## Judicial Elections
+
+>- Why Do We Have Judicial Elections?
+>- Justice for Sale?
+>- The Problem with Judicial Accountability
+>- Potential compromise solutions
+> + "Drafting" judges
+> + Missouri Plan
+> + Term-limits
+
+##
+
+![](img/wisc-supreme-court-race.png)
+
+## Discusion Questions
+
+> 1. In what ways do judges represent the public, and how does this differ from governor and legislators?
+
+> 2. Can judges remain impartial if they are relying on campaign funds for re-election?
+
+> 3. Should we elect judges, and if so, which judges?
+
+> 4. Should we elect _Supreme Court_ justices?
+
+##
+
+What alternative to electing judges make the most sense?
+
+  1. Merit with retention election?
+  2. Lottery?
+  3. Elected by judges and lawyers?
   
+## Bonus Question
+
+Should we elect judges for state Supreme Court statewide or in regional districts?
+
+
+## Chapter 4 - Direct Democracy
+
+**Chapter 4 - Direct Democracy**
+
+##
+
+What is the Initiative and How Does it Work?
+
+>- Initiatives are placed on the ballot by obtaining signatures and then voted on directly by the people, bypassing the legislature altogether, referenda are passed by the legislature and then presented to the people for a “yes” or “no” vote
+
+>- The initiative emerged around the turn of the twentieth century
+
+>- During the early 1900s, large amounts of money entered the political process and the common belief was that politicians were beholden to special interests
+
+>- While this view is still popular among some people today, concern about corruption was even worse then because campaign contributions were unregulated
+
+>- The initiative was first passed in South Dakota in 1898
+
+>- Mississippi was the last state to adopt initiative in 1992
+
+##
+
+![](img/initiative.png)
+
+## Support for Initiative
+
+- Residents of all 50 states support the initiative process by a two-to-one margin
+
+- A poll of Californians found that 59 percent thought that public policy decisions made through the initiative process are “probably better” than decisions made by the governor or state legislature
+
+- 55 percent were either “very satisfied” or “somewhat satisfied” with the way the initiative process was working
+
+##
+
+![](img/pa-const-amend.png)
+
+
+## The Role of Big Money
+
+>- Empirical evidence indicates that money is not a significant predictor of whether an initiative passes
+
+> + money spent by opponents of initiatives is likely to keep an initiative from passing while money spent in support has a limited effect
+
+> + the side that spends the most only a 25 percent success rate in promoting ballot issues, but a 75 percent rate in stopping ballot initiatives
+
+>- However, without money there is no chance of getting an initiative placed on the ballot
+
+> + It generally costs about $1 million, sometimes more, to get a measure put before voters
+
+## Voters are Ignorant
+
+>- Interest in initiative campaigns is generally much lower than for candidate races at the top of the ballot
+
+>- "Direct legislation is a political process best understood and utilized by those voters who are better educated or better-off financially.” - Danial Maglby
+
+>- Voting for ballot measures is complex
+
+## Violating the Rights of the Minority?
+
+>- The initiative inherently means that a majority will win at the expense of a minority
+
+## Paradox
+
+Tax cuts are very popular with the public
+
+Social spending is very popular with the public 
+
+
+## Discussion Questions
+
+> 1. How do direct democracy and indirect democracy differ? What are the benefits or downfalls to either?
+
+> 2. What is the difference between a referendum and an initiative?
+
+> 3. What kinds of initiative questions should be left to the public to decide?
+
+> 4. What threshold should be used to determine if a question gets on the ballot?
+
+> 5. Does direct democracy stymie negotiation and compromise that debate in legislatures foster, leading to worse public policy?
+
+> 6. Should we allow unlimited spending on advocacy for initiative questions?
+
+
+

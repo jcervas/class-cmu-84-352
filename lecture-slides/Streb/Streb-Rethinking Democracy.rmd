@@ -23,7 +23,7 @@ header-includes:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-## rmarkdown::render('/Users/cervas/My Drive/GitHub/teaching/classes/2023 - Spring/class-cmu-84-352/lecture-slides/Streb/Streb-Rethinking Democracy.rmd', output_format = 'all')
+## rmarkdown::render('/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@uci.edu/My Drive/GitHub/teaching/classes/2023 - Spring/class-cmu-84-352/lecture-slides/Streb/Streb-Rethinking Democracy.rmd', output_format = 'all')
 ```
 
 ## Starting with an in-class exercise
@@ -97,7 +97,7 @@ What qualities compelled you to include them. Is there anything special about th
 - A majority (52%) of young Americans believe that our democracy is either “in trouble,” or “failing”[^1]
 - On American Exceptionalism, less than one-third believe that "America is the greatest country in the world"
 - Young Americans place the chances that they will see a second civil war in their lifetime at 35%; chances that at least one state secedes at 25%
-  + Nearly half (46%) of young Republicans place the chances of a second civil war at 50% or higher, compared to 32% of Democrats
+ + Nearly half (46%) of young Republicans place the chances of a second civil war at 50% or higher, compared to 32% of Democrats
 
 [^1]: The Harvard Youth Poll, 2,109 18 to 29-year-old U.S. residents conducted between Oct. 26 and Nov. 8, 2021. https://iop.harvard.edu/youth-poll/fall-2021-harvard-youth-poll
 
@@ -134,14 +134,14 @@ What qualities compelled you to include them. Is there anything special about th
 
 - How much and what kind of democracy should we have?
 
-  + Should we have direct democracy where everyone votes on the internet?
-  
-  + Should this happen for all levels of government, from city issues to federal issues?
-  
-  + What offices should be elected, and which appointed?
-  
-  + Who should appoint, and who should confirm? Can the public recall?
-  
+ + Should we have direct democracy where everyone votes on the internet?
+ 
+ + Should this happen for all levels of government, from city issues to federal issues?
+ 
+ + What offices should be elected, and which appointed?
+ 
+ + Who should appoint, and who should confirm? Can the public recall?
+ 
 ## Criteria for a Model Electoral Democracy
 - "In every democratic country a substantial gap exists between actual and ideal democracy. That gap offers us a challenge: can we find ways to make ‘democratic’ countries more democratic?"[^2] 
 
@@ -167,12 +167,12 @@ reg <- reg[order(reg$deadline),]
 reg_days <- table(reg$deadline)
 
 barplot(as.numeric(reg$deadline), 
-        main="Voter Registration Deadlines", 
-        xlab="Number of Days Prior to Election",
-        horiz=TRUE,
-        names.arg=reg$abv,
-        las=1,
-        cex.names = 0.5)
+	 main="Voter Registration Deadlines", 
+	 xlab="Number of Days Prior to Election",
+	 horiz=TRUE,
+	 names.arg=reg$abv,
+	 las=1,
+	 cex.names = 0.5)
 ```
 
 ## Cost of Voting
@@ -231,9 +231,9 @@ Cost of Voting (https://www.nytimes.com/interactive/2022/09/20/us/politics/cost-
 >- Justice for Sale?
 >- The Problem with Judicial Accountability
 >- Potential compromise solutions
-> + "Drafting" judges
-> + Missouri Plan
-> + Term-limits
+>	+ "Drafting" judges
+>	+ Missouri Plan
+>	+ Term-limits
 
 ##
 
@@ -253,10 +253,10 @@ Cost of Voting (https://www.nytimes.com/interactive/2022/09/20/us/politics/cost-
 
 What alternative to electing judges make the most sense?
 
-  1. Merit with retention election?
-  2. Lottery?
-  3. Elected by judges and lawyers?
-  
+ 1. Merit with retention election?
+ 2. Lottery?
+ 3. Elected by judges and lawyers?
+ 
 ## Bonus Question
 
 Should we elect judges for state Supreme Court statewide or in regional districts?
@@ -303,13 +303,13 @@ What is the Initiative and How Does it Work?
 
 >- Empirical evidence indicates that money is not a significant predictor of whether an initiative passes
 
-> + money spent by opponents of initiatives is likely to keep an initiative from passing while money spent in support has a limited effect
+>	+ money spent by opponents of initiatives is likely to keep an initiative from passing while money spent in support has a limited effect
 
-> + the side that spends the most only a 25 percent success rate in promoting ballot issues, but a 75 percent rate in stopping ballot initiatives
+>	+ the side that spends the most only a 25 percent success rate in promoting ballot issues, but a 75 percent rate in stopping ballot initiatives
 
 >- However, without money there is no chance of getting an initiative placed on the ballot
 
-> + It generally costs about $1 million, sometimes more, to get a measure put before voters
+>	+ It generally costs about $1 million, sometimes more, to get a measure put before voters
 
 ## Voters are Ignorant
 
@@ -323,11 +323,45 @@ What is the Initiative and How Does it Work?
 
 >- The initiative inherently means that a majority will win at the expense of a minority
 
+## Why the Public Supports the Initiative
+
+>- While large interest groups have a limited ability to pass legislation that the public does not agree with, as I said, they _do_ have the ability to keep initiatives that the public supports from passing
+>	+ the immense costs of simply getting an initiative on the ballot, much less passed, it is difficult for many grassroots organizations to have a voice come voting time
+>- It is not apparent that the public cares about the issues on which they are voting
+>	+ Very few voters can spontaneously name any particular issues on which they would like to see the public vote
+>	+ Those issues that do appear on the ballot are typically not the same issues that voters list as the most important problems facing their state or the nation
+>- The initiative process allows the public to act when legislators evade tough issues
+>- Direct democracy forces legislators to act on issues that are salient to the public and because, if legislatures do not do so, people can bring the issue to a vote
+>- The process will raise people’s political efficacy, make citizens more knowledgeable about politics, and increase voter turnout
+
+## The Problems with the Initiative
+
+>- The initiative process is not conducive to good lawmaking
+>	+ there is no opportunity for compromise or deliberation
+>	+ citizens have no choice but to vote an initiative up or down
+>- Direct democracy poses a threat because it undermines the courts
+>	+ State judiciaries often are forced to invalidate initiatives because the measures are unconstitutional
+>	+ their ruling goes against the wishes of the majority of the state’s voters—and exacerbates many of the problems discussed in the previous chapter regarding judicial independence
+>	+ Judges who are forced to make unpopular rulings to uphold the rights of minorities may be targeted when they come up for reelection or retention
+
+
 ## Paradox
 
 Tax cuts are very popular with the public
 
-Social spending is very popular with the public 
+Social spending is very popular with the public
+
+## Recall Elections
+
+>- Recall Election: An election to remove an elected official from office during the middle 
+of her term
+>- The main argument in favor of the recall is simple: it provides a continuous 
+opportunity for voters to hold elected officials accountable
+>	+ incompetent, corrupt, or unresponsive politicians can be removed from office 
+without the public having to wait for them to come up for reelection
+>- Opponents argue the recall could keep politicians from making tough choices for fear of being removed from office early
+>	+ The recall also undermines the notion of trustee representation, the view that elected officials who may have access to information that the general public does not should exercise their own judgment on issues that come before them
+>	+ they promote divisiveness and conflict
 
 
 ## Discussion Questions

@@ -565,7 +565,7 @@ _"The methods used to cast and count ballots are surely one of the most mundane 
 ## Residual Voting Rate
 
 >- **Residual Voting Rate**: The percentage of all ballots cast in a geographical unit that did not record a vote for a certain elected office or initiative
->	+Overvotes always indicate an error (vote for two or more candidates)
+>	+ Overvotes always indicate an error (vote for two or more candidates)
 >	+ Undervotes are more complicated since sometimes people choose not to vote for an office
 
 ## Hanging Chads

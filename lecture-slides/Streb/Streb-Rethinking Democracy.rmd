@@ -267,19 +267,13 @@ Should we elect judges for state Supreme Court statewide or in regional district
 **Chapter 4 - Direct Democracy**
 
 ##
-
-What is the Initiative and How Does it Work?
-
->- Initiatives are placed on the ballot by obtaining signatures and then voted on directly by the people, bypassing the legislature altogether, referenda are passed by the legislature and then presented to the people for a “yes” or “no” vote
-
+>- **Initiatives and Referenda**
+>- **Initiatives** are placed on the ballot by obtaining signatures and then voted on directly by the people, bypassing the legislature altogether
+>- **Referenda** are passed by the legislature and then presented to the people for a “yes” or “no” vote
 >- The initiative emerged around the turn of the twentieth century
-
 >- During the early 1900s, large amounts of money entered the political process and the common belief was that politicians were beholden to special interests
-
 >- While this view is still popular among some people today, concern about corruption was even worse then because campaign contributions were unregulated
-
 >- The initiative was first passed in South Dakota in 1898
-
 >- Mississippi was the last state to adopt initiative in 1992
 
 ##
@@ -287,11 +281,8 @@ What is the Initiative and How Does it Work?
 ![](img/initiative.png)
 
 ## Support for Initiative
-
 - Residents of all 50 states support the initiative process by a two-to-one margin
-
 - A poll of Californians found that 59 percent thought that public policy decisions made through the initiative process are “probably better” than decisions made by the governor or state legislature
-
 - 55 percent were either “very satisfied” or “somewhat satisfied” with the way the initiative process was working
 
 ##
@@ -300,39 +291,32 @@ What is the Initiative and How Does it Work?
 
 
 ## The Role of Big Money
-
 >- Empirical evidence indicates that money is not a significant predictor of whether an initiative passes
-
 >	+ money spent by opponents of initiatives is likely to keep an initiative from passing while money spent in support has a limited effect
-
 >	+ the side that spends the most only a 25 percent success rate in promoting ballot issues, but a 75 percent rate in stopping ballot initiatives
-
 >- However, without money there is no chance of getting an initiative placed on the ballot
-
 >	+ It generally costs about $1 million, sometimes more, to get a measure put before voters
 
 ## Voters are Ignorant
-
 >- Interest in initiative campaigns is generally much lower than for candidate races at the top of the ballot
-
 >- "Direct legislation is a political process best understood and utilized by those voters who are better educated or better-off financially.” - Danial Maglby
-
 >- Voting for ballot measures is complex
 
 ## Violating the Rights of the Minority?
 
 >- The initiative inherently means that a majority will win at the expense of a minority
 
-## Why the Public Supports the Initiative
-
->- While large interest groups have a limited ability to pass legislation that the public does not agree with, as I said, they _do_ have the ability to keep initiatives that the public supports from passing
+## Why the Initiative can be problematic
+>- While large interest groups have a limited ability to pass legislation that the public does not agree with, they _do_ have the ability to keep initiatives that the public supports from passing
 >	+ the immense costs of simply getting an initiative on the ballot, much less passed, it is difficult for many grassroots organizations to have a voice come voting time
 >- It is not apparent that the public cares about the issues on which they are voting
 >	+ Very few voters can spontaneously name any particular issues on which they would like to see the public vote
 >	+ Those issues that do appear on the ballot are typically not the same issues that voters list as the most important problems facing their state or the nation
+
+## Why the Public Supports the Initiative
 >- The initiative process allows the public to act when legislators evade tough issues
 >- Direct democracy forces legislators to act on issues that are salient to the public and because, if legislatures do not do so, people can bring the issue to a vote
->- The process will raise people’s political efficacy, make citizens more knowledgeable about politics, and increase voter turnout
+>- The process potentially raises people’s political efficacy, make citizens more knowledgeable about politics, and increase voter turnout
 
 ## The Problems with the Initiative
 
@@ -444,10 +428,10 @@ Streb, Part II: **Rethinking the Mechanics of Voting**
 
 ## Chapter 5 – Ballot laws
 
->- Once in the voting booth, new questions arise
->- Who should be on the ballot?
->- What should their order be?
->- Party affiliation or other information?
+>- **Once in the voting booth, new questions arise**
+>	+ Who should be on the ballot?
+>	+ What should their order be?
+>	+ Party affiliation or other information?
 
 ## Getting on the Ballot
 
@@ -478,6 +462,10 @@ Streb, Part II: **Rethinking the Mechanics of Voting**
 	+ 134 candidates on ballot
 	+ Candidates needed 65 signatures and a $3,500 filing fee or 10,000 signatures and no filing fee
 
+##
+
+![](img/pres-cand-2020.png)
+
 ## Candidate Information on the Ballot
 
 >- Americans vote for a large number of offices
@@ -496,7 +484,7 @@ Streb, Part II: **Rethinking the Mechanics of Voting**
 
 ## 
 >- Removing party affiliation from the ballot would force people to seek out information that was more relevant to the election than party affiliation
->- The problem is that there is no empirical evidence that people actually do so
+>	+ The problem is that there is no empirical evidence that people actually do so
 >- In fact, most of the research on nonpartisan elections indicates that people either skip the election altogether, rely on less reliable cues than partisanship, or simply guess when deciding for whom to vote.
 
 ##
@@ -532,7 +520,7 @@ _"The probable errors caused by the infamous ‘butterfly ballot were enough to 
 ![](img/butterfly-ballot.png)
 
 ## Butterfly Ballot
->- Analysis would suggest that between 2,000 and 3,000 people in Palm Beach County voted for Buchanan by making that mistake, along with uncommonly large numbers, thousands, of other problems[^3]: 
+>- Analysis suggests that between 2,000 and 3,000 people in Palm Beach County voted for Buchanan by mistake, along with uncommonly large numbers, thousands, of other problems[^3]: 
 >	+ overvotes (people voting for more than one candidate for the same office, such as both Buchanan and Gore)
 >	+ undervotes (people who voted for other offices but not for president)
 >	+ problems with chads

@@ -373,7 +373,9 @@ introduce other topics during lecture/discussion.
 
 ##### Feb 21 – Turnout/The offices we elect/direct democracy
 
-- Streb, Chapter 2, 3, and 4
+- Streb, Chapter 2
+- Streb, Chapter 3
+- Streb, Chapter 4
 - Rodrigo Dominguez-Villegas & Michael Rios, From Eligibility To The
   Ballot Box: Examining The Racial And Ethnic Voter Turnout Gaps In The
   U.s. And California (UCLA Latino Policy & Politics Institute) (2022),
@@ -382,17 +384,17 @@ introduce other topics during lecture/discussion.
 ##### Feb 23 – Ballot Laws/Voting Machines
 
 - **Book Review Due**
+
 - *Book Review presentations (grad students)*
-- Streb, Chapter 5
-- Streb, Chapter 6
+
 - Mark Scolforo, Majority of 16k canceled Pa. mail-in ballots were from
   Dems, AP News, Jan. 6, 2023,
   <https://apnews.com/article/2022-midterm-elections-pennsylvania-united-states-government-a1c75c9cfc2f1bfca21ac4a4cbfe60f0>
 
 ##### Feb 28 – Presidential Primaries
 
-- **In-class exercise – Conspiracy Theories**
-- Streb, Chapter 8
+- Streb, Chapter 5
+- Streb, Chapter 6
 - Jeff Greenfield, Iowa and New Hampshire Are Getting the Boot. So
   What?, Politico, Dec. 6, 2022,
   <https://www.politico.com/news/magazine/2022/12/06/democrats-2024-primary-schedule-iowa-new-hampshire-00072221>
@@ -403,6 +405,7 @@ introduce other topics during lecture/discussion.
 ##### March 2 – The Electoral College
 
 - **In-class exercise – Electoral College game**
+- Streb, Chapter 8
 - Streb, Chapter 9
 - Tim Lau, The Electoral College, Explained, Brennan Center For Justice,
   Feb. 17, 2021,
@@ -412,6 +415,7 @@ introduce other topics during lecture/discussion.
 
 ##### March 14 – Campaign Finance/Moving Towards a Model Electoral Democracy
 
+- **In-class exercise – Conspiracy Theories**
 - Streb, Chapter 10 and 11
 - Total Cost Of 2022 State And Federal Elections Projected To Exceed
   \$16.7 Billion Opensecrets News,

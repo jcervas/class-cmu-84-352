@@ -32,74 +32,72 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Think about the term "represent". What does it mean to you? In which situations in life do we find ourselves represented?
 
-
 ## Question I
 
 Thinking broadly (i.e., not just in terms of politics), who best represents you (including people or groups)?
 
-1. 	
+1.  
 
-2. 	
+2.  
 
-3. 	
+3.  
 
 ## Question II
 
 Thinking in this same way, who do you represent?
 
-1. 	
+1.  
 
-2. 	
+2.  
 
-3. 	
+3.  
 
 ## Question III
 
 Name three general categories where you need representation.
 
-1. 	
+1.  
 
-2. 	
+2.  
 
-3. 	
+3.  
 
 ## 
 
 What qualities compelled you to include them. Is there anything special about their (your) identity? In what ways does having representation make life better?
 
-
 ## Some dictionary definitions of the term include:
 
-- to substitute in some capacity for : act the part of, in place of, or for (as another person) usually by legal right: as
-- to serve especially in a legislative body by delegated authority usually resulting from an election
-- to provide legal representation to as a lawyer
-- to act as the representative of in a class action
-- to describe as having a specified character or quality
-
+-   to substitute in some capacity for : act the part of, in place of, or for (as another person) usually by legal right: as
+-   to serve especially in a legislative body by delegated authority usually resulting from an election
+-   to provide legal representation to as a lawyer
+-   to act as the representative of in a class action
+-   to describe as having a specified character or quality
 
 ## Rethinking American Electoral Democracy
 
 ## Chapter 1 - Creating a Model Electoral Democracy
 
 ## Positive view of democracy
+
 -American widely view democracy as a good thing
 
 ![](img/demo-support.png)
 
 ## Declining trust and confidence
 
-- But American's trust and confidence in the wisdom of other Americans to make political decisions is in decline
+-   But American's trust and confidence in the wisdom of other Americans to make political decisions is in decline
 
 ![](img/demo-americans.png)
 
 ## Democracy in trouble?
 
-- A majority (52%) of young Americans believe that our democracy is either “in trouble,” or “failing”[^1]
-- On American Exceptionalism, less than one-third believe that "America is the greatest country in the world"
-- Young Americans place the chances that they will see a second civil war in their lifetime at 35%; chances that at least one state secedes at 25%
- + Nearly half (46%) of young Republicans place the chances of a second civil war at 50% or higher, compared to 32% of Democrats
+-   A majority (52%) of young Americans believe that our democracy is either "in trouble," or "failing"[^1]
+-   On American Exceptionalism, less than one-third believe that "America is the greatest country in the world"
+-   Young Americans place the chances that they will see a second civil war in their lifetime at 35%; chances that at least one state secedes at 25%
+-   Nearly half (46%) of young Republicans place the chances of a second civil war at 50% or higher, compared to 32% of Democrats
 
-[^1]: The Harvard Youth Poll, 2,109 18 to 29-year-old U.S. residents conducted between Oct. 26 and Nov. 8, 2021. https://iop.harvard.edu/youth-poll/fall-2021-harvard-youth-poll
+[^1]: The Harvard Youth Poll, 2,109 18 to 29-year-old U.S. residents conducted between Oct. 26 and Nov. 8, 2021. <https://iop.harvard.edu/youth-poll/fall-2021-harvard-youth-poll>
 
 ## Global Share of the Population living in a democracy
 
@@ -107,12 +105,11 @@ What qualities compelled you to include them. Is there anything special about th
 
 ## Public is split on how well democracy is working
 
-![](img/demo-youth.png)
-## 
+![](img/demo-youth.png) \##
 
 ![](img/demo-satisfaction.png)
 
-##
+## 
 
 ![](img/demo-satisfaction-atlantic.png)
 
@@ -132,31 +129,32 @@ What qualities compelled you to include them. Is there anything special about th
 
 **Assuming democracy is good**:
 
-- How much and what kind of democracy should we have?
+-   How much and what kind of democracy should we have?
 
- + Should we have direct democracy where everyone votes on the internet?
- 
- + Should this happen for all levels of government, from city issues to federal issues?
- 
- + What offices should be elected, and which appointed?
- 
- + Who should appoint, and who should confirm? Can the public recall?
- 
+-   Should we have direct democracy where everyone votes on the internet?
+
+-   Should this happen for all levels of government, from city issues to federal issues?
+
+-   What offices should be elected, and which appointed?
+
+-   Who should appoint, and who should confirm? Can the public recall?
+
 ## Criteria for a Model Electoral Democracy
-- "In every democratic country a substantial gap exists between actual and ideal democracy. That gap offers us a challenge: can we find ways to make ‘democratic’ countries more democratic?"[^2] 
+
+-   "In every democratic country a substantial gap exists between actual and ideal democracy. That gap offers us a challenge: can we find ways to make 'democratic' countries more democratic?"[^2]
 
 [^2]: Dahl, R.A., Dahl, and Yale University Press. 1998. On Democracy. Yale University Press.
 
-- One Person, One Vote
-- Competitive Elections
-- Transparency
-- Rules that are not burdensome
+<!-- -->
+
+-   One Person, One Vote
+-   Competitive Elections
+-   Transparency
+-   Rules that are not burdensome
 
 ## Chapter 2 - Factors that Influence Voter Turnout
 
 **Chapter 2 - Factors that Influence Voter Turnout**
-
-
 
 ```{r, fig.width=3, fig.height=7, eval=FALSE}
 ## Voter Registration
@@ -183,9 +181,9 @@ Cost of Voting
 
 ![](img/cost-of-voting/nyt-cost-of-voting/Slide1.png)
 
-##
+## 
 
-Cost of Voting (https://www.nytimes.com/interactive/2022/09/20/us/politics/cost-of-voting.html)
+Cost of Voting (<https://www.nytimes.com/interactive/2022/09/20/us/politics/cost-of-voting.html>)
 
 ## 
 
@@ -203,19 +201,19 @@ Cost of Voting (https://www.nytimes.com/interactive/2022/09/20/us/politics/cost-
 
 ![](img/cost-of-voting/nyt-cost-of-voting/Slide5.png)
 
-##
+## 
 
 ![](img/cost-of-voting/nyt-cost-of-voting/Slide6.png)
 
 ## Factors that Influence Voter Turnout
 
->- “Didn’t We Just Vote?”
->- Voter Registration and Election-Day Registration
->- No-Excuse Absentee Voting and Early In-Person Voting
->- Photo Identification
->- Times and Dates of Elections
->- Felon Voting
->- Compulsory Voting
+> -   "Didn't We Just Vote?"
+> -   Voter Registration and Election-Day Registration
+> -   No-Excuse Absentee Voting and Early In-Person Voting
+> -   Photo Identification
+> -   Times and Dates of Elections
+> -   Felon Voting
+> -   Compulsory Voting
 
 ## Chapter 3 - The Offices We Elect
 
@@ -227,107 +225,110 @@ Cost of Voting (https://www.nytimes.com/interactive/2022/09/20/us/politics/cost-
 
 ## Judicial Elections
 
->- Why Do We Have Judicial Elections?
->- Justice for Sale?
->- The Problem with Judicial Accountability
->- Potential compromise solutions
->	+ "Drafting" judges
->	+ Missouri Plan
->	+ Term-limits
+> -   Why Do We Have Judicial Elections?
+> -   Justice for Sale?
+> -   The Problem with Judicial Accountability
+> -   Potential compromise solutions
+>     -   "Drafting" judges
+>     -   Missouri Plan
+>     -   Term-limits
 
-##
+## 
 
 ![](img/wisc-supreme-court-race.png)
 
 ## Discusion Questions
 
-> 1. In what ways do judges represent the public, and how does this differ from governor and legislators?
+> 1.  In what ways do judges represent the public, and how does this differ from governor and legislators?
 
-> 2. Can judges remain impartial if they are relying on campaign funds for re-election?
+> 2.  Can judges remain impartial if they are relying on campaign funds for re-election?
 
-> 3. Should we elect judges, and if so, which judges?
+> 3.  Should we elect judges, and if so, which judges?
 
-> 4. Should we elect _Supreme Court_ justices?
+> 4.  Should we elect *Supreme Court* justices?
 
-##
+## 
 
 What alternative to electing judges make the most sense?
 
- 1. Merit with retention election?
- 2. Lottery?
- 3. Elected by judges and lawyers?
- 
+1.  Merit with retention election?
+2.  Lottery?
+3.  Elected by judges and lawyers?
+
 ## Bonus Question
 
 Should we elect judges for state Supreme Court statewide or in regional districts?
-
 
 ## Chapter 4 - Direct Democracy
 
 **Chapter 4 - Direct Democracy**
 
-##
->- **Initiatives and Referenda**
->- **Initiatives** are placed on the ballot by obtaining signatures and then voted on directly by the people, bypassing the legislature altogether
->- **Referenda** are passed by the legislature and then presented to the people for a “yes” or “no” vote
->- The initiative emerged around the turn of the twentieth century
->- During the early 1900s, large amounts of money entered the political process and the common belief was that politicians were beholden to special interests
->- While this view is still popular among some people today, concern about corruption was even worse then because campaign contributions were unregulated
->- The initiative was first passed in South Dakota in 1898
->- Mississippi was the last state to adopt initiative in 1992
+## 
 
-##
+> -   **Initiatives and Referenda**
+> -   **Initiatives** are placed on the ballot by obtaining signatures and then voted on directly by the people, bypassing the legislature altogether
+> -   **Referenda** are passed by the legislature and then presented to the people for a "yes" or "no" vote
+> -   The initiative emerged around the turn of the twentieth century
+> -   During the early 1900s, large amounts of money entered the political process and the common belief was that politicians were beholden to special interests
+> -   While this view is still popular among some people today, concern about corruption was even worse then because campaign contributions were unregulated
+> -   The initiative was first passed in South Dakota in 1898
+> -   Mississippi was the last state to adopt initiative in 1992
+
+## 
 
 ![](img/initiative.png)
 
 ## Support for Initiative
-- Residents of all 50 states support the initiative process by a two-to-one margin
-- A poll of Californians found that 59 percent thought that public policy decisions made through the initiative process are “probably better” than decisions made by the governor or state legislature
-- 55 percent were either “very satisfied” or “somewhat satisfied” with the way the initiative process was working
 
-##
+-   Residents of all 50 states support the initiative process by a two-to-one margin
+-   A poll of Californians found that 59 percent thought that public policy decisions made through the initiative process are "probably better" than decisions made by the governor or state legislature
+-   55 percent were either "very satisfied" or "somewhat satisfied" with the way the initiative process was working
+
+## 
 
 ![](img/pa-const-amend.png)
 
-
 ## The Role of Big Money
->- Empirical evidence indicates that money is not a significant predictor of whether an initiative passes
->	+ money spent by opponents of initiatives is likely to keep an initiative from passing while money spent in support has a limited effect
->	+ the side that spends the most only a 25 percent success rate in promoting ballot issues, but a 75 percent rate in stopping ballot initiatives
->- However, without money there is no chance of getting an initiative placed on the ballot
->	+ It generally costs about $1 million, sometimes more, to get a measure put before voters
+
+> -   Empirical evidence indicates that money is not a significant predictor of whether an initiative passes
+>     -   money spent by opponents of initiatives is likely to keep an initiative from passing while money spent in support has a limited effect
+>     -   the side that spends the most only a 25 percent success rate in promoting ballot issues, but a 75 percent rate in stopping ballot initiatives
+> -   However, without money there is no chance of getting an initiative placed on the ballot
+>     -   It generally costs about \$1 million, sometimes more, to get a measure put before voters
 
 ## Voters are Ignorant
->- Interest in initiative campaigns is generally much lower than for candidate races at the top of the ballot
->- "Direct legislation is a political process best understood and utilized by those voters who are better educated or better-off financially.” - Danial Maglby
->- Voting for ballot measures is complex
+
+> -   Interest in initiative campaigns is generally much lower than for candidate races at the top of the ballot
+> -   "Direct legislation is a political process best understood and utilized by those voters who are better educated or better-off financially." - Danial Maglby
+> -   Voting for ballot measures is complex
 
 ## Violating the Rights of the Minority?
 
->- The initiative inherently means that a majority will win at the expense of a minority
+> -   The initiative inherently means that a majority will win at the expense of a minority
 
 ## Why the Initiative can be problematic
->- While large interest groups have a limited ability to pass legislation that the public does not agree with, they _do_ have the ability to keep initiatives that the public supports from passing
->	+ the immense costs of simply getting an initiative on the ballot, much less passed, it is difficult for many grassroots organizations to have a voice come voting time
->- It is not apparent that the public cares about the issues on which they are voting
->	+ Very few voters can spontaneously name any particular issues on which they would like to see the public vote
->	+ Those issues that do appear on the ballot are typically not the same issues that voters list as the most important problems facing their state or the nation
+
+> -   While large interest groups have a limited ability to pass legislation that the public does not agree with, they *do* have the ability to keep initiatives that the public supports from passing
+>     -   the immense costs of simply getting an initiative on the ballot, much less passed, it is difficult for many grassroots organizations to have a voice come voting time
+> -   It is not apparent that the public cares about the issues on which they are voting
+>     -   Very few voters can spontaneously name any particular issues on which they would like to see the public vote
+>     -   Those issues that do appear on the ballot are typically not the same issues that voters list as the most important problems facing their state or the nation
 
 ## Why the Public Supports the Initiative
->- The initiative process allows the public to act when legislators evade tough issues
->- Direct democracy forces legislators to act on issues that are salient to the public and because, if legislatures do not do so, people can bring the issue to a vote
->- The process potentially raises people’s political efficacy, make citizens more knowledgeable about politics, and increase voter turnout
+
+> -   The initiative process allows the public to act when legislators evade tough issues
+> -   Direct democracy forces legislators to act on issues that are salient to the public and because, if legislatures do not do so, people can bring the issue to a vote
+> -   The process potentially raises people's political efficacy, make citizens more knowledgeable about politics, and increase voter turnout
 
 ## The Problems with the Initiative
 
->- The initiative process is not conducive to good lawmaking
->	+ there is no opportunity for compromise or deliberation
->	+ citizens have no choice but to vote an initiative up or down
->- Direct democracy poses a threat because it undermines the courts
->	+ State judiciaries often are forced to invalidate initiatives because the measures are unconstitutional
->	+ their ruling goes against the wishes of the majority of the state’s voters—and exacerbates many of the problems discussed in the previous chapter regarding judicial independence
->	+ Judges who are forced to make unpopular rulings to uphold the rights of minorities may be targeted when they come up for reelection or retention
-
+> -   The initiative process is not conducive to good lawmaking
+>     -   there is no opportunity for compromise or deliberation
+>     -   citizens have no choice but to vote an initiative up or down
+> -   Direct democracy poses a threat because it undermines the courts
+>     -   State judiciaries often are forced to invalidate initiatives because the measures are unconstitutional
+>     -   their ruling goes against the wishes of the majority of the state's voters---and exacerbates many of the problems discussed in the previous chapter regarding judicial independence
+>     -   Judges who are forced to make unpopular rulings to uphold the rights of minorities may be targeted when they come up for reelection or retention
 
 ## Paradox
 
@@ -337,58 +338,63 @@ Social spending is very popular with the public
 
 ## Recall Elections
 
->- Recall Election: An election to remove an elected official from office during the middle 
-of her term
->- The main argument in favor of the recall is simple: it provides a continuous 
-opportunity for voters to hold elected officials accountable
->	+ incompetent, corrupt, or unresponsive politicians can be removed from office 
-without the public having to wait for them to come up for reelection
->- Opponents argue the recall could keep politicians from making tough choices for fear of being removed from office early
->	+ The recall also undermines the notion of trustee representation, the view that elected officials who may have access to information that the general public does not should exercise their own judgment on issues that come before them
->	+ they promote divisiveness and conflict
+> -   Recall Election: An election to remove an elected official from office during the middle of her term
+> -   The main argument in favor of the recall is simple: it provides a continuous opportunity for voters to hold elected officials accountable
+>     -   incompetent, corrupt, or unresponsive politicians can be removed from office without the public having to wait for them to come up for reelection
+> -   Opponents argue the recall could keep politicians from making tough choices for fear of being removed from office early
+>     -   The recall also undermines the notion of trustee representation, the view that elected officials who may have access to information that the general public does not should exercise their own judgment on issues that come before them
+>     -   they promote divisiveness and conflict
 
 ## Recall Election History
 
->- The recall device began in the United States in Los Angeles in 1903
->- in 1908, Michigan and Oregon were the first states to adopt recall procedures for state officials
->- Minnesota (1996) and New Jersey (1993) were the most recent
->- Historically, recall attempts at the state level have been largely unsuccessful. 
->	+ The recall is used much more often, and with more success, at the local level.
+> -   The recall device began in the United States in Los Angeles in 1903
+> -   in 1908, Michigan and Oregon were the first states to adopt recall procedures for state officials
+> -   Minnesota (1996) and New Jersey (1993) were the most recent
+> -   Historically, recall attempts at the state level have been largely unsuccessful.
+>     -   The recall is used much more often, and with more success, at the local level.
 
 ## Governor Recalls
-- There have been many attempts to recall governors throughout U.S. history, but only four have gathered enough petition signatures to trigger recall elections
-	+ In 2021, California Governor Gavin Newsom survived a recall election. 
-	+ In 2012, Wisconsin Governor Scott Walker survived a recall election. 
-	+ In 2003, California voters successfully recalled Governor Gray Davis, 
-	+ In North Dakota in 1921, voters successfully recalled not only Governor Lynn J. Frazier, but also the attorney general and the commissioner of agriculture. 
-	+ In 1988, Arizona voters submitted enough signatures to trigger a recall election for Governor Evan Mecham, but he was impeached by the state's House of Representatives before the scheduled recall election.
+
+-   There have been many attempts to recall governors throughout U.S. history, but only four have gathered enough petition signatures to trigger recall elections
+    -   In 2021, California Governor Gavin Newsom survived a recall election.
+    -   In 2012, Wisconsin Governor Scott Walker survived a recall election.
+    -   In 2003, California voters successfully recalled Governor Gray Davis,
+    -   In North Dakota in 1921, voters successfully recalled not only Governor Lynn J. Frazier, but also the attorney general and the commissioner of agriculture.
+    -   In 1988, Arizona voters submitted enough signatures to trigger a recall election for Governor Evan Mecham, but he was impeached by the state's House of Representatives before the scheduled recall election.
 
 ## Specific Grounds for Recall
 
 Specific grounds for recall are required in only eight states:
 
-Alaska:  Lack of fitness, incompetence, neglect of duties or corruption (AS §15.45.510)
-
-##
-Georgia:  Act of malfeasance or misconduct while in office; violation of oath of office; failure to perform duties prescribed by law; willfully misused, converted, or misappropriated, without authority, public property or public funds entrusted to or associated with the elective office to which the official has been elected or appointed. Discretionary performance of a lawful act or a prescribed duty shall not constitute a ground for recall of an elected public official. (Ga. Code §21-4-3(7) and 21-4-4(c))
+Alaska: Lack of fitness, incompetence, neglect of duties or corruption (AS §15.45.510)
 
 ## 
+
+Georgia: Act of malfeasance or misconduct while in office; violation of oath of office; failure to perform duties prescribed by law; willfully misused, converted, or misappropriated, without authority, public property or public funds entrusted to or associated with the elective office to which the official has been elected or appointed. Discretionary performance of a lawful act or a prescribed duty shall not constitute a ground for recall of an elected public official. (Ga. Code §21-4-3(7) and 21-4-4(c))
+
+## 
+
 Kansas: Conviction for a felony, misconduct in office, incompetence, or failure to perform duties prescribed by law. No recall submitted to the voters shall be held void because of the insufficiency of the grounds, application, or petition by which the submission was procured. (KS Stat. §25-4301)
 
-##
-Minnesota:  Serious malfeasance or nonfeasance during the term of office in the performance of the duties of the office or conviction during the term of office of a serious crime (Const. Art. VIII §6)
+## 
 
-##
-Montana:  Physical or mental lack of fitness, incompetence, violation of oath of office, official misconduct, conviction of certain felony offenses (enumerated in Title 45). No person may be recalled for performing a mandatory duty of the office he holds or for not performing any act that, if performed, would subject him to prosecution for official misconduct. (Mont. Code §2-16-603)
+Minnesota: Serious malfeasance or nonfeasance during the term of office in the performance of the duties of the office or conviction during the term of office of a serious crime (Const. Art. VIII §6)
 
-##
-Rhode Island:  Authorized in the case of a general officer who has been indicted or informed against for a felony, convicted of a misdemeanor, or against whom a finding of probable cause of violation of the code of ethics has been made by the ethics commission (Const. Art. IV §1)
+## 
 
-##
-Virginia:  Neglect of duty, misuse of office, or incompetence in the performance of duties when that neglect of duty, misuse of office, or incompetence in the performance of duties has a material adverse effect upon the conduct of the office, or upon conviction of a drug-related misdemeanor or a misdemeanor involving a "hate crime" (§24.2-233)
+Montana:Physical or mental lack of fitness, incompetence, violation of oath of office, official misconduct, conviction of certain felony offenses (enumerated in Title 45). No person may be recalled for performing a mandatory duty of the office he holds or for not performing any act that, if performed, would subject him to prosecution for official misconduct. (Mont. Code §2-16-603)
 
-##
-Washington:  Commission of some act or acts of malfeasance or misfeasance while in office, or who has violation of oath of office (Const. Art. I §33)
+## 
+
+Rhode Island: Authorized in the case of a general officer who has been indicted or informed against for a felony, convicted of a misdemeanor, or against whom a finding of probable cause of violation of the code of ethics has been made by the ethics commission (Const. Art. IV §1)
+
+## 
+
+Virginia: Neglect of duty, misuse of office, or incompetence in the performance of duties when that neglect of duty, misuse of office, or incompetence in the performance of duties has a material adverse effect upon the conduct of the office, or upon conviction of a drug-related misdemeanor or a misdemeanor involving a "hate crime" (§24.2-233)
+
+## 
+
+Washington: Commission of some act or acts of malfeasance or misfeasance while in office, or who has violation of oath of office (Const. Art. I §33)
 
 Source: National Conference of State Legislatures, May 2019
 
@@ -404,39 +410,39 @@ In the remaining 12 states, the recall ballot contains only the question of whet
 
 ## Discussion Questions
 
-> 1. How do direct democracy and indirect democracy differ? What are the benefits or downfalls to either?
+> 1.  How do direct democracy and indirect democracy differ? What are the benefits or downfalls to either?
 
-> 2. What is the difference between a referendum and an initiative?
+> 2.  What is the difference between a referendum and an initiative?
 
-> 3. What kinds of initiative questions should be left to the public to decide?
+> 3.  What kinds of initiative questions should be left to the public to decide?
 
-> 4. What threshold should be used to determine if a question gets on the ballot?
+> 4.  What threshold should be used to determine if a question gets on the ballot?
 
-> 5. Does direct democracy stymie negotiation and compromise that debate in legislatures foster, leading to worse public policy?
+> 5.  Does direct democracy stymie negotiation and compromise that debate in legislatures foster, leading to worse public policy?
 
-> 6. Should we allow unlimited spending on advocacy for initiative questions?
+> 6.  Should we allow unlimited spending on advocacy for initiative questions?
 
 ## Broader Questions about Democracy
 
-> 1. How much knowledge about a subject or about candidates/issues should voters know in order to effectively participate?
-> 2. Should we restrict voting to only informed citizens?
-> 3. How much democracy does an ideal society have?
+> 1.  How much knowledge about a subject or about candidates/issues should voters know in order to effectively participate?
+> 2.  Should we restrict voting to only informed citizens?
+> 3.  How much democracy does an ideal society have?
 
 ## Rethinking the Mechanics of Voting
 
 Streb, Part II: **Rethinking the Mechanics of Voting**
 
-## Chapter 5 – Ballot laws
+## Chapter 5 -- Ballot laws
 
->- **Once in the voting booth, new questions arise**
->	+ Who should be on the ballot?
->	+ What should their order be?
->	+ Party affiliation or other information?
+> -   **Once in the voting booth, new questions arise**
+>     -   Who should be on the ballot?
+>     -   What should their order be?
+>     -   Party affiliation or other information?
 
 ## Getting on the Ballot
 
->- If you want to run for office, you must qualify
->- Even for federal elections, each state have their own requirements for a party or individual to be placed on the ballot
+> -   If you want to run for office, you must qualify
+> -   Even for federal elections, each state have their own requirements for a party or individual to be placed on the ballot
 
 ## 
 
@@ -444,211 +450,221 @@ Streb, Part II: **Rethinking the Mechanics of Voting**
 
 ## Who does these restrictive ballot-access rules hurt?
 
->- Who does these restrictive ballot-access rules hurt?
->	+ Third parties
->	+ Candidates with less resources
->	+ Non-incumbents
+> -   Who does these restrictive ballot-access rules hurt?
+>     -   Third parties
+>     -   Candidates with less resources
+>     -   Non-incumbents
 
 ## Why might they be good?
 
->- Why might they be good?
->	+ Limit the number of candidates
->	+ Make it easier for voters
->	+ Reduce spoilers
+> -   Why might they be good?
+>     -   Limit the number of candidates
+>     -   Make it easier for voters
+>     -   Reduce spoilers
 
 ## What about number of candidates
 
-- California recall in early 2000s:
-	+ 134 candidates on ballot
-	+ Candidates needed 65 signatures and a $3,500 filing fee or 10,000 signatures and no filing fee
+-   California recall in early 2000s:
+    -   134 candidates on ballot
+    -   Candidates needed 65 signatures and a \$3,500 filing fee or 10,000 signatures and no filing fee
 
-##
+## 
 
 ![](img/pres-cand-2020.png)
 
 ## Candidate Information on the Ballot
 
->- Americans vote for a large number of offices
->	+ Most of these elections receive virtually no media coverage, making information about the contests difficult to come by
->	+ in low-information elections voters often rely on a candidate’s race or gender when determining their vote
->	+ simply recognizing a candidate’s name is enough to convince a person to vote for that candidate
-
-##
->- Perhaps the most useful cue to voters is partisan affiliation
->	+ Always on the ballot for federal elections
->	+ Majority of local, and many statewide and judicial elections are non-partisan
->- Nonpartisan elections originated with the progressive movement around the turn of the twentieth century
->	+ Progressives believed that if party politics were removed from the local level, then it would limit the power of the party machines and make government more responsive to the people
->	+ Might keep the divisive influence of national parties out of local government
->	+ progressives felt that people should choose the best leaders and managers to make government run effectively, not the person who was most political
+> -   Americans vote for a large number of offices
+>     -   Most of these elections receive virtually no media coverage, making information about the contests difficult to come by
+>     -   in low-information elections voters often rely on a candidate's race or gender when determining their vote
+>     -   simply recognizing a candidate's name is enough to convince a person to vote for that candidate
 
 ## 
->- Removing party affiliation from the ballot would force people to seek out information that was more relevant to the election than party affiliation
->	+ The problem is that there is no empirical evidence that people actually do so
->- In fact, most of the research on nonpartisan elections indicates that people either skip the election altogether, rely on less reliable cues than partisanship, or simply guess when deciding for whom to vote.
 
-##
->- Nonpartisan elections have the potential to undermine representation
->	+ they advantage the minority party in an area, because they hide a reliable cue from voters
->- The notion that partisanship does not matter at the local level is shortsighted
->	+ There may not be a Democratic or Republican way to fill a pothole, but there are certainly differences of opinion between the two parties on how many and whose potholes are going to be filled
+> -   Perhaps the most useful cue to voters is partisan affiliation
+>     -   Always on the ballot for federal elections
+>     -   Majority of local, and many statewide and judicial elections are non-partisan
+> -   Nonpartisan elections originated with the progressive movement around the turn of the twentieth century
+>     -   Progressives believed that if party politics were removed from the local level, then it would limit the power of the party machines and make government more responsive to the people
+>     -   Might keep the divisive influence of national parties out of local government
+>     -   progressives felt that people should choose the best leaders and managers to make government run effectively, not the person who was most political
 
-##
->- Other types of information that might appear on the ballot:
->	+ Incumbent or not
->	+ Occupation
->	+ Hometown
->- Research indicates that voters do indeed use cues, such as the candidates’ occupations or hometowns, or whether they are the incumbent.
+## 
+
+> -   Removing party affiliation from the ballot would force people to seek out information that was more relevant to the election than party affiliation
+>     -   The problem is that there is no empirical evidence that people actually do so
+> -   In fact, most of the research on nonpartisan elections indicates that people either skip the election altogether, rely on less reliable cues than partisanship, or simply guess when deciding for whom to vote.
+
+## 
+
+> -   Nonpartisan elections have the potential to undermine representation
+>     -   they advantage the minority party in an area, because they hide a reliable cue from voters
+> -   The notion that partisanship does not matter at the local level is shortsighted
+>     -   There may not be a Democratic or Republican way to fill a pothole, but there are certainly differences of opinion between the two parties on how many and whose potholes are going to be filled
+
+## 
+
+> -   Other types of information that might appear on the ballot:
+>     -   Incumbent or not
+>     -   Occupation
+>     -   Hometown
+> -   Research indicates that voters do indeed use cues, such as the candidates' occupations or hometowns, or whether they are the incumbent.
 
 ## Order of Candidate Names
->- Research finds that candidates who are listed on the ballot first do better than those who are not
->	+ Anywhere from 2.5% to 25%
->- “Primacy effect”
->	+ the primacy effect may have allowed Bush to win the 2000 presidential election since he was listed first on the ballot in the state of Florida where he beat Vice President Al Gore by only 537 votes
+
+> -   Research finds that candidates who are listed on the ballot first do better than those who are not
+>     -   Anywhere from 2.5% to 25%
+> -   "Primacy effect"
+>     -   the primacy effect may have allowed Bush to win the 2000 presidential election since he was listed first on the ballot in the state of Florida where he beat Vice President Al Gore by only 537 votes
 
 ## 
->- The solution to this problem is simple: mandatory rotation of names 
->	+ With the mandatory rotation of names the candidate listed first would vary by precinct or, potentially, county or assembly district
->	+ major arguments against mandatory rotation of candidate names include voter confusion, cost, and difficulty counting ballots
+
+> -   The solution to this problem is simple: mandatory rotation of names
+>     -   With the mandatory rotation of names the candidate listed first would vary by precinct or, potentially, county or assembly district
+>     -   major arguments against mandatory rotation of candidate names include voter confusion, cost, and difficulty counting ballots
 
 ## Ballot Design
-- Because of federalism, there are numerous formats of ballots
 
-_"The probable errors caused by the infamous ‘butterfly ballot were enough to swing the outcome in the county, state, and Electoral College from one candidate to another."_ Political scientists Richard Niemi and Paul Herrnson
+-   Because of federalism, there are numerous formats of ballots
 
-##
+*"The probable errors caused by the infamous 'butterfly ballot were enough to swing the outcome in the county, state, and Electoral College from one candidate to another."* Political scientists Richard Niemi and Paul Herrnson
+
+## 
+
 ![](img/butterfly-ballot.png)
 
 ## Butterfly Ballot
->- Analysis suggests that between 2,000 and 3,000 people in Palm Beach County voted for Buchanan by mistake, along with uncommonly large numbers, thousands, of other problems[^3]: 
->	+ overvotes (people voting for more than one candidate for the same office, such as both Buchanan and Gore)
->	+ undervotes (people who voted for other offices but not for president)
->	+ problems with chads
 
-[^3]: https://ischool.uw.edu/podcasts/dtctw/palm-beach-county-butterfly-ballot
+> -   Analysis suggests that between 2,000 and 3,000 people in Palm Beach County voted for Buchanan by mistake, along with uncommonly large numbers, thousands, of other problems[^3]:
+>     -   overvotes (people voting for more than one candidate for the same office, such as both Buchanan and Gore)
+>     -   undervotes (people who voted for other offices but not for president)
+>     -   problems with chads
 
-##
->- Clutter is another reason why it makes sense only to include a candidate’s party affiliation on the ballot
->- The straight-ticket option makes voting easier and reduces voter rolloff
->	+ But what about non-partisan offices?
+[^3]: <https://ischool.uw.edu/podcasts/dtctw/palm-beach-county-butterfly-ballot>
 
-## Chapter 6 – Voting Machines
-**Chapter 6 – Voting Machines**
+## 
+
+> -   Clutter is another reason why it makes sense only to include a candidate's party affiliation on the ballot
+> -   The straight-ticket option makes voting easier and reduces voter rolloff
+>     -   But what about non-partisan offices?
+
+## Chapter 6 -- Voting Machines
+
+**Chapter 6 -- Voting Machines**
 
 ## Voting Machines
-_"The methods used to cast and count ballots are surely one of the most mundane aspects of elections"_ - Stephen Ansolabehere and Charles Stewart III
 
-- All voting machines are not equal
+*"The methods used to cast and count ballots are surely one of the most mundane aspects of elections"* - Stephen Ansolabehere and Charles Stewart III
+
+-   All voting machines are not equal
 
 ## Types of Voting Equipment
 
->- Types of Voting Equipment
->	+ Hand-counted paper ballot
->	+ Mechanical lever machine
->	+ Punch cards
->	+ Optical scan
->	+ Electronic voting machine
->	+ Mixed voting systems
+> -   Types of Voting Equipment
+>     -   Hand-counted paper ballot
+>     -   Mechanical lever machine
+>     -   Punch cards
+>     -   Optical scan
+>     -   Electronic voting machine
+>     -   Mixed voting systems
 
 ## Residual Voting Rate
 
->- **Residual Voting Rate**: The percentage of all ballots cast in a geographical unit that did not record a vote for a certain elected office or initiative
->	+ Overvotes always indicate an error (vote for two or more candidates)
->	+ Undervotes are more complicated since sometimes people choose not to vote for an office
+> -   **Residual Voting Rate**: The percentage of all ballots cast in a geographical unit that did not record a vote for a certain elected office or initiative
+>     -   Overvotes always indicate an error (vote for two or more candidates)
+>     -   Undervotes are more complicated since sometimes people choose not to vote for an office
 
 ## Hanging Chads
 
->- The word itself, of uncertain origin, traces back to the late 1950s and refers to the little bits that get punched out of early computer storage technologies like cards and paper tape. Basically confetti.[^4]
->- A good solid punch hole is made, chad falls away, everybody’s happy
->- But a half-hearted, uncertain, hurried, indifferent punch, and you can get one of (not kidding here) 6 different kinds of problematic chad: dangling, dimpled, hanging, pierced, pregnant and swinging.
+> -   The word itself, of uncertain origin, traces back to the late 1950s and refers to the little bits that get punched out of early computer storage technologies like cards and paper tape. Basically confetti.[^4]
+> -   A good solid punch hole is made, chad falls away, everybody's happy
+> -   But a half-hearted, uncertain, hurried, indifferent punch, and you can get one of (not kidding here) 6 different kinds of problematic chad: dangling, dimpled, hanging, pierced, pregnant and swinging.
 
-[^4]: https://ischool.uw.edu/podcasts/dtctw/palm-beach-county-butterfly-ballot
+[^4]: <https://ischool.uw.edu/podcasts/dtctw/palm-beach-county-butterfly-ballot>
 
-##
+## 
 
 ![](img/election-litigation.png)
 
-
-
 ## Chapter 8 - Presidential Primaries
 
-##
+## 
 
-1. Who should be able to vote in a particular primary?
-2. What order should states vote?
-3. How should votes be counted?
+1.  Who should be able to vote in a particular primary?
+2.  What order should states vote?
+3.  How should votes be counted?
 
-##
+## 
 
-1. Who should be able to vote in a particular primary?
-	+ King Caucus
-	+ Smoke-Filled Rooms
-	+ Popular Caucus
-	+ State-wide primary
-  
-- Should primaries be open or closed?
+1.  Who should be able to vote in a particular primary?
+    -   King Caucus
+    -   Smoke-Filled Rooms
+    -   Popular Caucus
+    -   State-wide primary
 
-##
+-   Should primaries be open or closed?
 
-2. What order should states vote?
+## 
 
-##
+2.  What order should states vote?
+
+## 
 
 ![](img/538-SC-Primary.png)
 
-https://fivethirtyeight.com/features/would-putting-south-carolina-first-give-black-democrats-a-stronger-voice/
+<https://fivethirtyeight.com/features/would-putting-south-carolina-first-give-black-democrats-a-stronger-voice/>
 
-##
+## 
 
-2. What order should states vote?
-	+ Why Iowa and New Hampshire?
-	+ Why South Carolina and Nevada?
+2.  What order should states vote?
+    -   Why Iowa and New Hampshire?
+    -   Why South Carolina and Nevada?
 
-- What about a national primary?
-	+ Regional primary with rotation?
+-   What about a national primary?
+    -   Regional primary with rotation?
 
-##
+## 
 
-3. How should votes be counted?
-	+ Proportional or Winner-take-all?
-  
-##
+3.  How should votes be counted?
+    -   Proportional or Winner-take-all?
+
+## 
 
 ![](img/washpo-prop.png)
 
-##
+## 
 
 ![](img/538-prop.png)
 
 ## Chapter 9 - Electoral College
 
-- No guarantee that voters even get a say
-- The winner of the popular vote not guaranteed to win the Presidency
+-   No guarantee that voters even get a say
+-   The winner of the popular vote not guaranteed to win the Presidency
 
 ## The Constitutional Provisions
 
 **Article. II.**
 
-_Section. 1._
+*Section. 1.*
 
 **The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows**
 
-##
+## 
 
 **Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.**
 
-- 100 Senators + 435 Members of the House + [3 for DC (Amendment 23)]
-- = 538
+-   100 Senators + 435 Members of the House + [3 for DC (Amendment 23)]
+-   = 538
 
-##
+## 
 
 **The Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States.**
 
-- Usually in December
+-   Usually in December
 
 **No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.**
 
-- I am probably the only one currently qualified to be President; sorry!
+-   I am probably the only one currently qualified to be President; sorry!
 
 ## 12th Amendment
 
@@ -656,63 +672,117 @@ _Section. 1._
 
 **they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate;**
 
-##
+## 
 
 **-- The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted;**
 
-- This was what happens on January 6th 
+-   This was what happens on January 6th
 
 **-- The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed;**
 
-- Winner must receive a majority, > 270
+-   Winner must receive a majority, \> 270
 
 **and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President.**
 
-- Contingent election
+-   Contingent election
 
-##
+## 
 
 **But in choosing the President, the votes shall be taken by states, the representation from each state having one vote;**
 
-- Wyoming same voting power as California
+-   Wyoming same voting power as California
 
 **a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice.**
 
-- Small states could team up and elect a President with a total population of less than 25% of the total
+-   Small states could team up and elect a President with a total population of less than 25% of the total
 
 **And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in case of the death or other constitutional disability of the President.**
 
 **-- The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.**
 
-##
+## 
 
 **By show of hands, how many of you want to**:
 
-1. Abolish the Electoral College and replace it with something else
-2. Keep the Electoral College as it is
-3. Do no know
+1.  Abolish the Electoral College and replace it with something else
+2.  Keep the Electoral College as it is
+3.  Do no know
 
-## Arguments in Favor of the Electoral College 
+## Arguments in Favor of the Electoral College
 
-- Arguments in Favor of the Electoral College 
-	1. It is consistent with the federal nature of the Constitution.
-	2. It forces candidates to receive broad support, hence protecting less populated states.
-	3. It reduces fraud and produces a clear winner in a short period of time.
-	4. It protects the American two-party system.
+-   Arguments in Favor of the Electoral College
+    1.  It is consistent with the federal nature of the Constitution.
+    2.  It forces candidates to receive broad support, hence protecting less populated states.
+    3.  It reduces fraud and produces a clear winner in a short period of time.
+    4.  It protects the American two-party system.
 
 ## Arguments against the Electoral College
 
-- Arguments against the Electoral College (there have been over 700 attempts to amend the EC)
-	1. Favors small states
-	2. Favor battleground states
-	3. Candidate with most votes sometimes loses
-	4. Contingent election is biased and flawed
-	5. '_one person, one vote_'
+-   Arguments against the Electoral College (there have been over 700 attempts to amend the EC)
+    1.  Favors small states
+    2.  Favor battleground states
+    3.  Candidate with most votes sometimes loses
+    4.  Contingent election is biased and flawed
+    5.  '*one person, one vote*'
 
-##
+## 
 
 **Electoral College game**
 
 Imagine that there are seven competitive states in the NOTUSISTAN Electoral College used for its presidential elections, operating under the same winner take all, weighted voting rules as in the US Electoral College.
 
+## Chapter 10 - Campaign Finance
 
+## Citizens United v. Federal Election Commission
+
+> -   Citizens United v. Federal Election Commission
+>     -   In 2010, the landmark ruling in Citizens United v. Federal Election Commission reversed longstanding campaign finance restrictions, allowing corporations and other outside groups to supply unlimited election funding to the candidate of their choice.
+>     -   This opened the floodgates, allowing big money and special interests to overwhelm our elections.
+>     -   Since then, super PACs and a small number of wealthy individuals have gained disproportionate influence over our elections, making politicians beholden to the needs of special interest groups and large donors rather than the priorities and interests of their own constituents.
+
+## 2020 Election
+
+> -   2020 election to cost \$14 billion, blowing away spending records
+> -   The total cost of the 2020 election will nearly reach an unprecedented \$14 billion, making it the most expensive election in history and twice as expensive as the previous presidential election cycle.
+
+## Spending in Elections
+
+![](img/spending.png)
+
+## The Funding Behind Record-Breaking Spending
+
+![](img/funding.png)
+
+<https://www.opensecrets.org/news/2020/10/cost-of-2020-election-14billion-update//>
+
+## Outside Spending Blows Past Record Marks
+
+![](img/outside-spending.png)
+
+## Top Industry Donors to Candidates/Parties/PACs
+
+![](img/donor-industry.png)
+
+## 2022 - Senate races with the most money spent, all candidates and outside groups
+
+![](img/senate-spending-2022.png)
+
+## 2022 - House races with the most money spent, all candidates and outside groups
+
+![](img/house-spending-2022.png)
+
+## 2022 - Incumbent Spending (House)
+
+![](img/house-incumbent.png)
+
+## Total Cost of Election (1990-2022)
+
+![](img/election-costs.png)
+
+## Gender split
+
+![](img/donor-gender.png)
+
+## What party did donors giving more than \$200 favor in the 2022 cycle?
+
+![](img/donor-gender-party.png)
